@@ -5,8 +5,8 @@ on:
     branches:
       - main
   schedule:
-    - cron: '18 20 * * *'
-  workflow_dispatch:
+    - cron: '18 20 * * *' # 每天 UTC 20:18
+  workflow_dispatch: # 手动触发
 
 jobs:
   convert:
@@ -23,16 +23,32 @@ jobs:
         with:
           python-version: '3.10'
 
+      - name: Cache Python packages
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
       - name: Install Dependencies
-        run: pip install requests
+        run: |
+          pip install requests
+
+      - name: Verify Script Exists
+        run: |
+          if [ ! -f convert.py ]; then
+            echo "Error: convert.py not found!"
+            exit 1
+          fi
 
       - name: Run Converter
-        run: python convert.py
+        run: |
+          python convert.py || (echo "Converter script failed!" && exit 1)
 
       - name: Commit and Push Changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add -A
+          git add rules/common/*.arrs
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update rules" && git push)
-
