@@ -34,7 +34,10 @@ jobs:
           fi
 
       - name: Run Converter
-        run: python convert.py
+        run: |
+          echo "Running converter script..."
+          python convert.py
+          echo "Converter script completed."
 
       - name: Debug: List Repository Files
         run: ls -R rules || echo "No rules directory found"
@@ -44,6 +47,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           if ls rules/common/*.arrs 2>/dev/null; then
+              echo "Adding files..."
               git add rules/common/*.arrs
               git diff --staged --quiet || (git commit -m "Auto update rules" && git push)
           else
