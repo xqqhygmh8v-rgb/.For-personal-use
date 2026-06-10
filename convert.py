@@ -2,13 +2,13 @@ import json
 import requests
 import os
 
-定义规则源 (Surge 格式的原始链接)
+# 定义规则源 (Surge 格式的原始链接)
 RULES = {
     "Apple.arrs": "🔗 view-link.cx/sefRZ7XqTJS",
     "AI.arrs": "🔗 view-link.cx/8nocHbCBMUX"
 }
 
-输出文件夹，对应你在 Anywhere 里想要订阅的路径
+# 输出文件夹，对应你在 Anywhere 里想要订阅的路径
 OUTPUT_DIR = "rules/common"
 
 def convert_surge_to_arrs(url, output_path):
@@ -21,7 +21,8 @@ def convert_surge_to_arrs(url, output_path):
         return
 
     arrs_rules = []
-Anywhere 所需的数字映射 (0: IP-CIDR, 1: IP-CIDR6, 2: DOMAIN-SUFFIX, 3: DOMAIN-KEYWORD)
+    
+    # Anywhere 所需的数字映射 (0: IP-CIDR, 1: IP-CIDR6, 2: DOMAIN-SUFFIX, 3: DOMAIN-KEYWORD)
     type_mapping = {
         "IP-CIDR": 0,
         "IP-CIDR6": 1,
@@ -32,7 +33,8 @@ Anywhere 所需的数字映射 (0: IP-CIDR, 1: IP-CIDR6, 2: DOMAIN-SUFFIX, 3: DO
 
     for line in lines:
         line = line.strip()
-过滤掉注释和空行
+        
+        # 过滤掉注释和空行
         if not line or line.startswith(("#", "//", ";")):
             continue
         
@@ -40,7 +42,8 @@ Anywhere 所需的数字映射 (0: IP-CIDR, 1: IP-CIDR6, 2: DOMAIN-SUFFIX, 3: DO
         if len(parts) >= 2:
             rule_type = parts[0].upper()
             pattern = parts[1]
-策略：有指定就转小写，没有就默认 proxy
+            
+            # 策略：有指定就转小写，没有就默认 proxy
             policy = parts[2].lower() if len(parts) >= 3 else "proxy"
 
             if rule_type in type_mapping:
@@ -50,7 +53,7 @@ Anywhere 所需的数字映射 (0: IP-CIDR, 1: IP-CIDR6, 2: DOMAIN-SUFFIX, 3: DO
                     "policy": policy
                 })
 
-确保文件夹存在
+    # 确保文件夹存在
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     full_output_path = os.path.join(OUTPUT_DIR, output_path)
 
@@ -58,6 +61,6 @@ Anywhere 所需的数字映射 (0: IP-CIDR, 1: IP-CIDR6, 2: DOMAIN-SUFFIX, 3: DO
         json.dump(arrs_rules, f, indent=2, ensure_ascii=False)
     print(f"成功转换 {len(arrs_rules)} 条规则并保存至 {full_output_path}")
 
-if name == "main":
+if __name__ == "__main__":
     for filename, url in RULES.items():
         convert_surge_to_arrs(url, filename)
