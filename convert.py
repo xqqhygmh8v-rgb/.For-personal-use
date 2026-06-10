@@ -4,8 +4,8 @@ import os
 
 # 定义规则源 (Surge 格式的原始链接)
 RULES = {
-    "Apple.arrs": "🔗 view-link.cx/sefRZ7XqTJS",
-    "AI.arrs": "🔗 view-link.cx/8nocHbCBMUX"
+    "Apple.arrs": "view-link.cx/sefRZ7XqTJS",
+    "AI.arrs": "view-link.cx/8nocHbCBMUX"
 }
 
 # 输出文件夹，对应你在 Anywhere 里想要订阅的路径
