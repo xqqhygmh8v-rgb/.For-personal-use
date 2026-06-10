@@ -2,15 +2,15 @@ name: Automatic Rule Convert
 
 on:
   schedule:
-每天北京时间 04:18 (UTC 20:18) 自动运行
     - cron: '18 20 * * *'
-  workflow_dispatch: # 让你也可以在 GitHub 网页上随时手动点运行
+  workflow_dispatch:
 
 jobs:
   convert:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # 赋予自动提交代码的权限
+      contents: write
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
@@ -30,5 +30,5 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add *.arrs
+          git add -A
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update rules" && git push)
