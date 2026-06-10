@@ -26,30 +26,12 @@ jobs:
       - name: Install Dependencies
         run: pip install requests
 
-      - name: Verify Script Exists
-        run: |
-          if [ ! -f convert.py ]; then
-            echo "Error: convert.py not found!"
-            exit 1
-          fi
-
       - name: Run Converter
-        run: |
-          echo "Running converter script..."
-          python convert.py
-          echo "Converter script completed."
-
-      - name: Debug: List Repository Files
-        run: ls -R rules || echo "No rules directory found"
+        run: python convert.py
 
       - name: Commit and Push Changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          if ls rules/common/*.arrs 2>/dev/null; then
-              echo "Adding files..."
-              git add rules/common/*.arrs
-              git diff --staged --quiet || (git commit -m "Auto update rules" && git push)
-          else
-              echo "No change to commit."
-          fi
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update rules" && git push)
