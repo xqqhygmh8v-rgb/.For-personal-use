@@ -14,6 +14,9 @@ def convert_surge_to_arrs(url, output_path):
         response = requests.get(url)
         response.raise_for_status()
         lines = response.text.splitlines()
+        if not lines:
+            print(f"Remote ruleset is empty: {url}")
+            return
     except Exception as e:
         print(f"Failed to fetch rules ({url}): {e}")
         return
@@ -25,7 +28,9 @@ def convert_surge_to_arrs(url, output_path):
         "IP-CIDR6": 1,
         "DOMAIN-SUFFIX": 2,
         "DOMAIN-KEYWORD": 3,
-        "DOMAIN": 2
+        "DOMAIN": 2,
+        "GEOIP": 4,
+        "FINAL": 5
     }
 
     for line in lines:
@@ -33,26 +38,33 @@ def convert_surge_to_arrs(url, output_path):
         if not line or line.startswith(("#", "//", ";")):
             continue
         
-        parts = [p.strip() for p in line.split(",")]
-        if len(parts) >= 2:
-            rule_type = parts[0].upper()
-            pattern = parts[1]
-            policy = parts[2].lower() if len(parts) >= 3 else "proxy"
+        try:
+            parts = [p.strip() for p in line.split(",")]
+            if len(parts) >= 2:
+                rule_type = parts[0].upper()
+                pattern = parts[1]
+                policy = parts[2].lower() if len(parts) >= 3 else "proxy"
 
-            if rule_type in type_mapping:
-                arrs_rules.append({               "type": type_mapping[rule_type],
-                    "pattern": pattern,
-                    "policy": policy
-                })
+                if rule_type in type_mapping:
+                    arrs_rules.append({
+                        "type": type_mapping[rule_type],
+                        "pattern": pattern,
+                        "policy": policy
+                    })
+        except Exception as e:
+            print(f"Failed to process rule {line}: {e}")
+            continue
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     full_output_path = os.path.join(OUTPUT_DIR, output_path)
+    
+    try:
+        with open(full_output_path, "w", encoding="utf-8") as f:
+            json.dump(arrs_rules, f, indent=2, ensure_ascii=False)
+        print(f"Successfully converted {len(arrs_rules)} rules to {full_output_path}")
+    except Exception as e:
+        print(f"Failed to write converted rules: {e}")
 
-    with open(full_output_path, "w", encoding="utf-8") as f:
-        json.dump(arrs_rules, f, indent=2, ensure_ascii=False)
-    print(f"Successfully converted {len(arrs_rules)} rules to {full_output_path}")
-
-if name == "main":
+if __name__ == "__main__":
     for filename, url in RULES.items():
         convert_surge_to_arrs(url, filename)
-     
