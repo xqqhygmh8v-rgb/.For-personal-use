@@ -3,8 +3,8 @@ import requests
 import os
 
 RULES = {
-    "Apple.arrs": "https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Surge/Apple/Apple.list",
-        "AI.arrs": "https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Surge/OpenAI/OpenAI.list"
+    "Apple.arrs": "view-link.cx/guxozZyroaU",
+    "AI.arrs": "view-link.cx/QTdQRYeEOKr"
 }
 
 OUTPUT_DIR = "rules/common"
@@ -40,8 +40,7 @@ def convert_surge_to_arrs(url, output_path):
             policy = parts[2].lower() if len(parts) >= 3 else "proxy"
 
             if rule_type in type_mapping:
-                arrs_rules.append({
-                    "type": type_mapping[rule_type],
+                arrs_rules.append({               "type": type_mapping[rule_type],
                     "pattern": pattern,
                     "policy": policy
                 })
@@ -56,3 +55,4 @@ def convert_surge_to_arrs(url, output_path):
 if name == "main":
     for filename, url in RULES.items():
         convert_surge_to_arrs(url, filename)
+     
