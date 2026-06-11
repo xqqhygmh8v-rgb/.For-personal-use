@@ -1,0 +1,11 @@
+# NAME: EasyPrivacy
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/EasyPrivacy/EasyPrivacy_Domain.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 0
+# SKIPPED: 39947
+# UPSTREAM-UPDATED: 2025-06-06 09:18:44
+# SKIPPED-TYPES: UNKNOWN=39947
+
+name = EasyPrivacy

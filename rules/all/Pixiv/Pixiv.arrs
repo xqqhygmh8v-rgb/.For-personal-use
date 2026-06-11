@@ -1,0 +1,18 @@
+# NAME: Pixiv
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Pixiv/Pixiv.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 8
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:46
+
+name = Pixiv
+2, booth.pm
+2, fanbox.cc
+2, pixiv.cat
+2, pixiv.co.jp
+2, pixiv.me
+2, pixiv.net
+2, pixiv.org
+2, pximg.net

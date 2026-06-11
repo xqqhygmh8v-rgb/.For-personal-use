@@ -1,0 +1,15 @@
+# NAME: Buypass
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Buypass/Buypass.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 5
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:42
+
+name = Buypass
+2, buypass-ssl.com
+2, buypass.com
+2, buypass.no
+2, buypass.se
+2, minid.no

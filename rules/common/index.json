@@ -1,0 +1,519 @@
+{
+  "total_files": 42,
+  "total_rules": 82909,
+  "total_skipped": 123,
+  "files": [
+    {
+      "name": "Reject",
+      "description": "广告、恶意站点和跟踪拦截基础集合",
+      "output_path": "common/Reject.arrs",
+      "rule_count": 6204,
+      "skipped_count": 2,
+      "unsupported_types": {
+        "USER-AGENT": 1,
+        "AND": 1
+      },
+      "sources": [
+        "https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Extra/Reject/Advertising.list",
+        "https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Extra/Reject/Malicious.list",
+        "https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Extra/Reject/Tracking.list",
+        "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyListChina.list",
+        "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Reject.list"
+      ]
+    },
+    {
+      "name": "Ads_AWAvenue",
+      "description": "秋风广告规则 AWAvenue",
+      "output_path": "common/Ads_AWAvenue.arrs",
+      "rule_count": 905,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Surge.list"
+      ]
+    },
+    {
+      "name": "AI",
+      "description": "常见 AI 服务",
+      "output_path": "common/AI.arrs",
+      "rule_count": 49,
+      "skipped_count": 1,
+      "unsupported_types": {
+        "URL-REGEX": 1
+      },
+      "sources": [
+        "https://ruleset.skk.moe/List/non_ip/ai.conf",
+        "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/xAI.list",
+        "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/AI.list"
+      ]
+    },
+    {
+      "name": "Proxy",
+      "description": "常用代理域名集合",
+      "output_path": "common/Proxy.arrs",
+      "rule_count": 1558,
+      "skipped_count": 2,
+      "unsupported_types": {
+        "USER-AGENT": 2
+      },
+      "sources": [
+        "https://ruleset.skk.moe/List/non_ip/global.conf",
+        "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Proxy.list"
+      ]
+    },
+    {
+      "name": "ProxyGFW",
+      "description": "GFW 代理集合",
+      "output_path": "common/ProxyGFW.arrs",
+      "rule_count": 7597,
+      "skipped_count": 1,
+      "unsupported_types": {
+        "USER-AGENT": 1
+      },
+      "sources": [
+        "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list",
+        "https://ruleset.skk.moe/List/non_ip/global.conf"
+      ]
+    },
+    {
+      "name": "GFW",
+      "description": "GFW 域名列表",
+      "output_path": "common/GFW.arrs",
+      "rule_count": 4252,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt"
+      ]
+    },
+    {
+      "name": "Direct",
+      "description": "常用直连补充",
+      "output_path": "common/Direct.arrs",
+      "rule_count": 36,
+      "skipped_count": 1,
+      "unsupported_types": {
+        "DEST-PORT": 1
+      },
+      "sources": [
+        "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Direct.list"
+      ]
+    },
+    {
+      "name": "AppleCN",
+      "description": "苹果中国和苹果 CDN 直连",
+      "output_path": "common/AppleCN.arrs",
+      "rule_count": 9,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://ruleset.skk.moe/List/non_ip/apple_cn.conf",
+        "https://ruleset.skk.moe/List/non_ip/apple_cdn.conf"
+      ]
+    },
+    {
+      "name": "AppleProxy",
+      "description": "需要代理的苹果服务",
+      "output_path": "common/AppleProxy.arrs",
+      "rule_count": 39,
+      "skipped_count": 6,
+      "unsupported_types": {
+        "USER-AGENT": 5,
+        "PROCESS-NAME": 1
+      },
+      "sources": [
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleProxy/AppleProxy.list"
+      ]
+    },
+    {
+      "name": "Apple",
+      "description": "苹果基础服务",
+      "output_path": "common/Apple.arrs",
+      "rule_count": 44,
+      "skipped_count": 23,
+      "unsupported_types": {
+        "USER-AGENT": 23
+      },
+      "sources": [
+        "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Apple.list"
+      ]
+    },
+    {
+      "name": "AppleServices",
+      "description": "苹果系统服务",
+      "output_path": "common/AppleServices.arrs",
+      "rule_count": 17,
+      "skipped_count": 8,
+      "unsupported_types": {
+        "PROCESS-NAME": 8
+      },
+      "sources": [
+        "https://ruleset.skk.moe/List/non_ip/apple_services.conf"
+      ]
+    },
+    {
+      "name": "AppleMusic",
+      "description": "Apple Music",
+      "output_path": "common/AppleMusic.arrs",
+      "rule_count": 9,
+      "skipped_count": 2,
+      "unsupported_types": {
+        "USER-AGENT": 1,
+        "PROCESS-NAME": 1
+      },
+      "sources": [
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleMusic/AppleMusic.list"
+      ]
+    },
+    {
+      "name": "Google",
+      "description": "Google 服务",
+      "output_path": "common/Google.arrs",
+      "rule_count": 25,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list"
+      ]
+    },
+    {
+      "name": "YouTube",
+      "description": "YouTube",
+      "output_path": "common/YouTube.arrs",
+      "rule_count": 14,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list"
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "description": "Microsoft 服务",
+      "output_path": "common/Microsoft.arrs",
+      "rule_count": 79,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Microsoft.list"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "description": "GitHub",
+      "output_path": "common/GitHub.arrs",
+      "rule_count": 6,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Github.list"
+      ]
+    },
+    {
+      "name": "OneDrive",
+      "description": "OneDrive",
+      "output_path": "common/OneDrive.arrs",
+      "rule_count": 15,
+      "skipped_count": 2,
+      "unsupported_types": {
+        "PROCESS-NAME": 2
+      },
+      "sources": [
+        "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OneDrive.list"
+      ]
+    },
+    {
+      "name": "Telegram",
+      "description": "Telegram 域名与 IP",
+      "output_path": "common/Telegram.arrs",
+      "rule_count": 45,
+      "skipped_count": 5,
+      "unsupported_types": {
+        "IP-ASN": 5
+      },
+      "sources": [
+        "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Telegram.list"
+      ]
+    },
+    {
+      "name": "Telegram_NoIP",
+      "description": "Telegram 域名，不含 IP",
+      "output_path": "common/Telegram_NoIP.arrs",
+      "rule_count": 30,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Telegram_NoIP.list"
+      ]
+    },
+    {
+      "name": "Twitter",
+      "description": "X / Twitter",
+      "output_path": "common/Twitter.arrs",
+      "rule_count": 12,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitter.list"
+      ]
+    },
+    {
+      "name": "Instagram",
+      "description": "Instagram",
+      "output_path": "common/Instagram.arrs",
+      "rule_count": 4,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Instagram.list"
+      ]
+    },
+    {
+      "name": "Facebook",
+      "description": "Facebook",
+      "output_path": "common/Facebook.arrs",
+      "rule_count": 21,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Facebook.list"
+      ]
+    },
+    {
+      "name": "Netflix",
+      "description": "Netflix",
+      "output_path": "common/Netflix.arrs",
+      "rule_count": 40,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list"
+      ]
+    },
+    {
+      "name": "Disney",
+      "description": "Disney+",
+      "output_path": "common/Disney.arrs",
+      "rule_count": 172,
+      "skipped_count": 2,
+      "unsupported_types": {
+        "PROCESS-NAME": 2
+      },
+      "sources": [
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Disney/Disney.list"
+      ]
+    },
+    {
+      "name": "Spotify",
+      "description": "Spotify",
+      "output_path": "common/Spotify.arrs",
+      "rule_count": 29,
+      "skipped_count": 1,
+      "unsupported_types": {
+        "PROCESS-NAME": 1
+      },
+      "sources": [
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.list"
+      ]
+    },
+    {
+      "name": "TikTok",
+      "description": "TikTok",
+      "output_path": "common/TikTok.arrs",
+      "rule_count": 81,
+      "skipped_count": 2,
+      "unsupported_types": {
+        "IP-ASN": 2
+      },
+      "sources": [
+        "https://git.repcz.link/kelee.one/Tool/Loon/Lsr/TikTok.lsr"
+      ]
+    },
+    {
+      "name": "Bilibili",
+      "description": "Bilibili",
+      "output_path": "common/Bilibili.arrs",
+      "rule_count": 20,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bilibili.list"
+      ]
+    },
+    {
+      "name": "WeChat",
+      "description": "WeChat",
+      "output_path": "common/WeChat.arrs",
+      "rule_count": 339,
+      "skipped_count": 2,
+      "unsupported_types": {
+        "USER-AGENT": 2
+      },
+      "sources": [
+        "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/WeChat.list"
+      ]
+    },
+    {
+      "name": "ChinaDomain",
+      "description": "中国大陆常见域名直连",
+      "output_path": "common/ChinaDomain.arrs",
+      "rule_count": 857,
+      "skipped_count": 4,
+      "unsupported_types": {
+        "DOMAIN-WILDCARD": 1,
+        "USER-AGENT": 3
+      },
+      "sources": [
+        "https://ruleset.skk.moe/List/non_ip/domestic.conf"
+      ]
+    },
+    {
+      "name": "CN_Additional_01",
+      "description": "中国大陆域名补充（分片 1/5）",
+      "output_path": "common/CN_Additional_01.arrs",
+      "rule_count": 10000,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://static-file-global.353355.xyz/rules/cn-additional-list.txt"
+      ]
+    },
+    {
+      "name": "CN_Additional_02",
+      "description": "中国大陆域名补充（分片 2/5）",
+      "output_path": "common/CN_Additional_02.arrs",
+      "rule_count": 10000,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://static-file-global.353355.xyz/rules/cn-additional-list.txt"
+      ]
+    },
+    {
+      "name": "CN_Additional_03",
+      "description": "中国大陆域名补充（分片 3/5）",
+      "output_path": "common/CN_Additional_03.arrs",
+      "rule_count": 10000,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://static-file-global.353355.xyz/rules/cn-additional-list.txt"
+      ]
+    },
+    {
+      "name": "CN_Additional_04",
+      "description": "中国大陆域名补充（分片 4/5）",
+      "output_path": "common/CN_Additional_04.arrs",
+      "rule_count": 10000,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://static-file-global.353355.xyz/rules/cn-additional-list.txt"
+      ]
+    },
+    {
+      "name": "CN_Additional_05",
+      "description": "中国大陆域名补充（分片 5/5）",
+      "output_path": "common/CN_Additional_05.arrs",
+      "rule_count": 3245,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://static-file-global.353355.xyz/rules/cn-additional-list.txt"
+      ]
+    },
+    {
+      "name": "ChinaIP",
+      "description": "中国大陆 IP CIDR",
+      "output_path": "common/ChinaIP.arrs",
+      "rule_count": 5787,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/cncidr.txt"
+      ]
+    },
+    {
+      "name": "Lan",
+      "description": "局域网和私有地址",
+      "output_path": "common/Lan.arrs",
+      "rule_count": 8,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Lan.list"
+      ]
+    },
+    {
+      "name": "Game",
+      "description": "游戏平台集合",
+      "output_path": "common/Game.arrs",
+      "rule_count": 597,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/Game.list"
+      ]
+    },
+    {
+      "name": "Steam",
+      "description": "Steam",
+      "output_path": "common/Steam.arrs",
+      "rule_count": 54,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Steam/Steam.list"
+      ]
+    },
+    {
+      "name": "PayPal",
+      "description": "PayPal",
+      "output_path": "common/PayPal.arrs",
+      "rule_count": 247,
+      "skipped_count": 1,
+      "unsupported_types": {
+        "USER-AGENT": 1
+      },
+      "sources": [
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "description": "Cloudflare",
+      "output_path": "common/Cloudflare.arrs",
+      "rule_count": 65,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cloudflare/Cloudflare.list"
+      ]
+    },
+    {
+      "name": "CDN",
+      "description": "SukkaW CDN 直连辅助",
+      "output_path": "common/CDN.arrs",
+      "rule_count": 4523,
+      "skipped_count": 58,
+      "unsupported_types": {
+        "DOMAIN-WILDCARD": 58
+      },
+      "sources": [
+        "https://ruleset.skk.moe/List/domainset/cdn.conf",
+        "https://ruleset.skk.moe/List/non_ip/cdn.conf"
+      ]
+    },
+    {
+      "name": "GeoIP_CN",
+      "description": "GeoIP 中国大陆 IP CIDR",
+      "output_path": "common/GeoIP_CN.arrs",
+      "rule_count": 5875,
+      "skipped_count": 0,
+      "unsupported_types": {},
+      "sources": [
+        "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb"
+      ]
+    }
+  ]
+}

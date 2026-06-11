@@ -1,0 +1,48 @@
+# NAME: UC
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/UC/UC.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 38
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:39
+
+name = UC
+2, appchaoshi.cn
+2, appsmall.mobi
+2, babybubble.cn
+2, babymoment.net
+2, blovestorm.com
+2, coolppa.cn
+2, effirst.cn
+2, effirst.com
+2, hdyzx.cn
+2, minippa.cn
+2, myquark.cn
+2, open-uc.cn
+2, qingzhou.biz
+2, qingzhou.ltd
+2, qingzhou.pro
+2, quark.cn
+2, tinya1.cn
+2, tinyap2.cn
+2, tinypap.cn
+2, tinyppa.cn
+2, u-mob.cn
+2, ubibibi.com
+2, uc-test.cn
+2, uc-test.com
+2, uc.cn
+2, uc123.com
+2, ucdesk.cn
+2, ucfly.com
+2, ucweb.cn
+2, ucweb.com
+2, ucweb.com.cn
+2, uflowx.com
+2, xiaomengquan.cn
+2, xmq123.cn
+2, yun.cn
+2, zjbuc.cn
+2, zjbuc.com
+2, zjbuc.com.cn

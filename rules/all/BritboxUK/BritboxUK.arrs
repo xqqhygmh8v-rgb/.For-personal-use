@@ -1,0 +1,18 @@
+# NAME: BritboxUK
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/BritboxUK/BritboxUK.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 8
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:54
+
+name = BritboxUK
+2, itvpnp.live.ott.irdeto.com
+2, itvpnp.stage.ott.irdeto.com
+2, bb-static.com
+2, bbc.co.uk
+2, britbox.co.uk
+2, britbox.com
+2, itv.com
+2, massive-itv.com

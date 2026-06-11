@@ -1,0 +1,42 @@
+# NAME: Starbucks
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Starbucks/Starbucks.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 32
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:48
+
+name = Starbucks
+2, sbux.com.my
+2, sbuxcard.com
+2, starbucks-stars.com
+2, starbucks.ad
+2, starbucks.at
+2, starbucks.be
+2, starbucks.bg
+2, starbucks.ca
+2, starbucks.ch
+2, starbucks.co.id
+2, starbucks.co.jp
+2, starbucks.co.nz
+2, starbucks.co.th
+2, starbucks.co.uk
+2, starbucks.co.za
+2, starbucks.com
+2, starbucks.com.ar
+2, starbucks.com.bn
+2, starbucks.com.cn
+2, starbucks.com.co
+2, starbucks.com.cy
+2, starbucks.com.gr
+2, starbucks.com.hk
+2, starbucks.com.kh
+2, starbucks.com.kz
+2, starbucks.com.mx
+2, starbucks.com.my
+2, starbucks.de
+2, starbucks.fr
+2, starbucks.ie
+2, starbucksathome.com
+2, starbucksreserve.com

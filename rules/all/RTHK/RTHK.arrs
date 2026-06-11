@@ -1,0 +1,23 @@
+# NAME: RTHK
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/RTHK/RTHK.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 13
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:16:59
+
+name = RTHK
+2, rthklive2-lh.akamaihd.net
+2, rthkradio1-live.akamaized.net
+2, rthkradio2-live.akamaized.net
+2, rthkradio3-live.akamaized.net
+2, rthkradio4-live.akamaized.net
+2, rthkradio5-live.akamaized.net
+2, rthkradiocmgrgb-live.akamaized.net
+2, rthkradiocnrhk-live.akamaized.net
+2, rthkradiopth-live.akamaized.net
+2, rthktv31-live.akamaized.net
+2, rthktv32-live.akamaized.net
+2, rthk.hk
+2, rthk.org.hk

@@ -1,0 +1,23 @@
+# NAME: Anime
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Anime/Anime.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 13
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:59
+
+name = Anime
+2, 9anime.cz
+2, 9anime.id
+2, 9anime.to
+2, 9anime.ws
+2, animedao-tv.com
+2, crunchyroll.com
+2, funimation.com
+2, gogo-load.com
+2, gogoanime.vc
+2, gogoanime.wiki
+2, gogocdn.net
+2, hidive.com
+2, vrv.co

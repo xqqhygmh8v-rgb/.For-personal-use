@@ -1,0 +1,22 @@
+# NAME: Tesla
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Tesla/Tesla.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 12
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:52
+
+name = Tesla
+2, solarcity.com
+2, tesla-cdn.thron.cn
+2, tesla-cdn.thron.com
+2, tesla.com
+2, tesla.com.cn
+2, tesla.services
+2, teslaenergy.services
+2, teslamotors.cn
+2, teslamotors.com
+2, teslamotors.com.cn
+2, teslazta.net
+2, ts.la

@@ -1,0 +1,42 @@
+# NAME: YunFanJiaSu
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/YunFanJiaSu/YunFanJiaSu.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 32
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:40
+
+name = YunFanJiaSu
+2, cdndns2.cn
+2, cdndns2.net
+2, cdnnodedns.cn
+2, mogecloud.cn
+2, mogecloud.com
+2, mogecloud.net
+2, mogengyun.cn
+2, mogengyun.com
+2, mogengyun.net
+2, wertalk.com
+2, yfcache.cn
+2, yfcache.com
+2, yfcalc.com
+2, yfcdn.cn
+2, yfcdn.net
+2, yfcloud.com
+2, yfcloud.io
+2, yfcloud.work
+2, yfdns.cn
+2, yfdns.net
+2, yfdts.net
+2, yflive.cn
+2, yflive.net
+2, yfp2p.net
+2, yfscdn.com
+2, yfscdn.net
+2, yunfancdn.cn
+2, yunfancdn.com
+2, yunfancdn.com.cn
+2, yunfancdn.net
+2, yunfandns.cn
+2, yunfandns.com

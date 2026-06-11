@@ -1,0 +1,14 @@
+# NAME: VipShop
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/VipShop/VipShop.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 4
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:01
+
+name = VipShop
+2, appsimg.com
+2, appvipshop.com
+2, vip.com
+2, vipstatic.com

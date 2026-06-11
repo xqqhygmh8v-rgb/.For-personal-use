@@ -1,0 +1,14 @@
+# NAME: IMDB
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/IMDB/IMDB.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 4
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:01:01
+
+name = IMDB
+2, boxofficemojo.com
+2, imdb.com
+2, imdb.to
+2, media-imdb.com

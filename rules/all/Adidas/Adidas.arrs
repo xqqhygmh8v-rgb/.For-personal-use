@@ -1,0 +1,29 @@
+# NAME: Adidas
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Adidas/Adidas.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 19
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:42
+
+name = Adidas
+2, adidas.at
+2, adidas.be
+2, adidas.ch
+2, adidas.co.in
+2, adidas.co.uk
+2, adidas.com
+2, adidas.com.cn
+2, adidas.com.sa
+2, adidas.com.tw
+2, adidas.cz
+2, adidas.de
+2, adidas.dk
+2, adidas.hu
+2, adidas.ie
+2, adidas.it
+2, adidas.nl
+2, adidas.pl
+2, adidas.ru
+2, adidas.se

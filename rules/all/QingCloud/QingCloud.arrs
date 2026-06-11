@@ -1,0 +1,22 @@
+# NAME: QingCloud
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/QingCloud/QingCloud.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 12
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:37
+
+name = QingCloud
+2, anybox.com
+2, frontwize.com
+2, kubesphere.com.cn
+2, qingcache.com
+2, qingcloud.cn
+2, qingcloud.com
+2, qingcloud.com.cn
+2, qingstor.com
+2, qingstorage.com
+2, quanxiangyun.com
+2, routewize.com
+2, yunify.com

@@ -1,0 +1,17 @@
+# NAME: TCL
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/TCL/TCL.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 7
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:38
+
+name = TCL
+2, alcatel-home.com
+2, alcatelmobile.com
+2, blackberry.com
+2, hmeng.cn
+2, hmeng.net.cn
+2, tcl.com
+2, tcl.com.cn

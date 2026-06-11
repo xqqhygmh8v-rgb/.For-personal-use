@@ -1,0 +1,11 @@
+# NAME: AdvertisingLite
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/AdvertisingLite/AdvertisingLite_Domain.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 0
+# SKIPPED: 37692
+# UPSTREAM-UPDATED: 2025-12-08 02:03:36
+# SKIPPED-TYPES: UNKNOWN=37692
+
+name = AdvertisingLite

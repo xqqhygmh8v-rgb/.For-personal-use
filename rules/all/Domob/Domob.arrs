@@ -1,0 +1,36 @@
+# NAME: Domob
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Domob/Domob.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 26
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:33
+
+name = Domob
+2, dmaow.com
+2, dmrta.com
+2, dmrtb.cn
+2, dmrtb.com
+2, dmvideo.cn
+2, dmvideo.mobi
+2, dmvideo.net
+2, dmvideo.org
+2, dmyouxi.com
+2, domob-inc.cn
+2, domob-inc.com
+2, domob.cn
+2, domob.com.cn
+2, domob.org
+2, domobcdn.cn
+2, domobcdn.com
+2, domobnetwork.com
+2, duomeng.cn
+2, duomeng.net
+2, duomeng.org
+2, modh.cn
+2, modh.com.cn
+2, moxz.cn
+2, moxz.net
+2, ugdesk.cn
+2, ugdesk.com

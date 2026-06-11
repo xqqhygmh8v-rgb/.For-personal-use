@@ -1,0 +1,14 @@
+# NAME: Gog
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Gog/Gog.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 4
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:15:09
+
+name = Gog
+2, gog.salesmanago.com
+2, gog-statics.com
+2, gog.com
+2, gog.qtlglb.com

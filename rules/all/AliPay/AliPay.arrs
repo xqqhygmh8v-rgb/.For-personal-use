@@ -1,0 +1,31 @@
+# NAME: AliPay
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/AliPay/AliPay.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 21
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:31
+
+name = AliPay
+2, alipay
+2, alipay-corp.com
+2, alipay-eco.com
+2, alipay-inc.com
+2, alipay-traffic.com
+2, alipay.cn
+2, alipay.com
+2, alipay.com.cn
+2, alipay.hk
+2, alipay.net
+2, alipaydesign.com
+2, alipaydev.com
+2, alipaydns.com
+2, alipayeshop.com
+2, alipaylog.com
+2, alipaymo.com
+2, alipayobjects.com
+2, alipayplus.com
+2, ifaa.org.cn
+2, luohanacademy.com
+2, sinopayment.com.cn

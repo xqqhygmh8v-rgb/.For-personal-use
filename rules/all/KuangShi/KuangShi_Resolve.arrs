@@ -1,0 +1,35 @@
+# NAME: KuangShi
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/KuangShi/KuangShi_Resolve.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 25
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:36
+
+name = KuangShi
+2, brainplusplus.com.cn
+2, brainpp.cn
+2, datafun.vip
+2, face-plus-plus.com
+2, faceid.com
+2, faceplusplus.com
+2, faceplusplus.com.cn
+2, imageplusplus.cn
+2, imageplusplus.com
+2, imageplusplus.com.cn
+2, imageplusplus.net
+2, kaolacam.net
+2, koalacam.net
+2, kuangshitech.com
+2, megcup.com
+2, megvii-inc.com
+2, megvii.com
+2, visionhacker.com
+2, xcyuntech.cn
+2, xiaodaijl.com
+2, xlsdn.cn
+2, xlsdn.com
+2, yuesuoping.com
+0, 114.98.177.194/31
+0, 114.98.177.196/32

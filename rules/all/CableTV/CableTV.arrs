@@ -1,0 +1,12 @@
+# NAME: CableTV
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/CableTV/CableTV.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 2
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:16:57
+
+name = CableTV
+2, cabletv.com.hk
+2, i-cable.com

@@ -1,0 +1,13 @@
+# NAME: Purikonejp
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Purikonejp/Purikonejp.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 3
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:15:09
+
+name = Purikonejp
+2, api-priconne-redive.cygames.jp
+2, omotenashi.cygames.jp
+2, prd-priconne-redive.akamaized.net

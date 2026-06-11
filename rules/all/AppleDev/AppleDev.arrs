@@ -1,0 +1,50 @@
+# NAME: AppleDev
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/AppleDev/AppleDev.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 40
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:50
+
+name = AppleDev
+2, apple-cloudkit.com
+2, apple-mapkit.com
+2, apple.com.akadns.net
+2, appleswift.com
+2, appleworldwidedeveloper.hb-api.omtrdc.net
+2, appleworldwidedeveloper.sc.omtrdc.net
+2, calendarserver.org
+2, carekit.org
+2, courier-push-apple.com.akadns.net
+2, cups.org
+2, developer.apple.com
+2, developerservices2.apple.com
+2, devimages-cdn.apple.com
+2, devstreaming-cdn.apple.com
+2, foundationdb.org
+2, macosforge.org
+2, macruby.com
+2, macruby.net
+2, macruby.org
+2, notary-submissions-prod.s3-accelerate.amazonaws.com
+2, notary-submissions-prod.s3.us-west-2.amazonaws.com
+2, p-events-delivery.akamaized.net
+2, playgrounds-cdn.apple.com
+2, push-apple.com.akadns.net
+2, researchandcare.org
+2, researchkit.cn
+2, researchkit.com.cn
+2, researchkit.hk
+2, researchkit.net
+2, researchkit.org
+2, researchkit.tv
+2, servicetalk.io
+2, swift.org
+2, swiftui.cn
+2, swiftui.com.cn
+2, timestamp.apple.com
+2, webkit.org
+2, webkitgtk.org
+2, webobjects.com
+2, wpewebkit.org

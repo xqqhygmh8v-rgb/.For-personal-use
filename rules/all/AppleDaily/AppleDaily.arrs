@@ -1,0 +1,42 @@
+# NAME: AppleDaily
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/AppleDaily/AppleDaily.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 32
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 15:59:59
+
+name = AppleDaily
+2, appledaily.com
+2, appledaily.com.hk
+2, appledaily.com.tw
+2, appledaily.hk
+2, applefruity.com
+2, applehealth.com.hk
+2, atnext.com
+2, bestmallawards.com
+2, deluxe.com.hk
+2, eracom.com.tw
+2, next.hk
+2, nextdigital.com.hk
+2, nextdigital.com.tw
+2, nextfilm.com.hk
+2, nextmag.com.tw
+2, nextmedia.com
+2, nextmedia.com.tw
+2, nextmgz.com
+2, nextplus.com.hk
+2, nexttv.com.tw
+2, nextwork.com.hk
+2, nextwork.com.tw
+2, nextwork.hk
+2, nextwork.tw
+2, nxtdig.com.hk
+2, nxtdig.com.tw
+2, omoplanet.com
+2, privilege.hk
+2, privilege.tw
+2, sharpdaily.tw
+2, tomonews.net
+2, twnextdigital.com

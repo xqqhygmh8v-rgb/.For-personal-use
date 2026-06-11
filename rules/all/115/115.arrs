@@ -1,0 +1,20 @@
+# NAME: 115
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/115/115.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 10
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:12:33
+
+name = 115
+2, fhnfile.oss-cn-shenzhen.aliyuncs.com
+2, 115.com
+2, 115cdn.com
+2, 115cdn.net
+2, 115img.com
+2, 116cd.cn
+2, 116cd.com
+2, 116cd.net
+2, anxia.com
+2, sq.cc

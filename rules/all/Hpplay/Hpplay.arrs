@@ -1,0 +1,15 @@
+# NAME: Hpplay
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Hpplay/Hpplay.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 5
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:41
+
+name = Hpplay
+2, hpplay.cn
+2, hpplay.com.cn
+2, mirrorcast.cn
+2, mirrorcast.com.cn
+2, mirrorcast.tv

@@ -1,0 +1,21 @@
+# NAME: Nike
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Nike/Nike.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 11
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:46
+
+name = Nike
+2, nike.com
+2, nike.com.br
+2, nike.com.hk
+2, nikecdn.com
+2, nikecloud.com
+2, nikeinc.com.cn
+2, nikestore.com.au
+2, niketracking.com
+2, static-nike.com
+2, swoo.sh
+2, swoosh.com

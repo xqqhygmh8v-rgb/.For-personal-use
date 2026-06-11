@@ -1,0 +1,18 @@
+# NAME: JinJiangWenXue
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/JinJiangWenXue/JinJiangWenXue.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 7
+# SKIPPED: 1
+# UPSTREAM-UPDATED: 2025-06-06 09:17:35
+# SKIPPED-TYPES: PROCESS-NAME=1
+
+name = JinJiangWenXue
+2, chaba123.com
+2, jjwxc.cn
+2, jjwxc.com
+2, jjwxc.net
+2, jjwxc.org
+2, jjycw.net
+2, robook.com

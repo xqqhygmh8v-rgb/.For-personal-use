@@ -1,0 +1,35 @@
+# NAME: DiDi
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/DiDi/DiDi.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 25
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:01
+
+name = DiDi
+2, apptaxi.com.cn
+2, cxyule.com
+2, didi-food.com
+2, didi.cn
+2, didi.xin
+2, didialift.com
+2, didiapp.net.cn
+2, didiaustralia.blog
+2, didichuxing.com
+2, didiglobal.com
+2, didimobility.co.jp
+2, didimobility.com
+2, didiopenapi.com
+2, didiqiche.com
+2, didistatic.com
+2, diditaxi.com
+2, diditaxi.com.cn
+2, didiwuxian.com
+2, didiyun.com
+2, didiyun.org
+2, didiyunapi.com
+2, juyanwenjuan.com
+2, udache.com
+2, xiaojuchefu.cn
+2, xiaojukeji.com

@@ -1,0 +1,13 @@
+# NAME: Coolapk
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Coolapk/Coolapk.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 3
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:55
+
+name = Coolapk
+2, coolapk.com
+2, coolapkmarket.com
+2, coolapkmarket.net

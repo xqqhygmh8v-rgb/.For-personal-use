@@ -1,0 +1,37 @@
+# NAME: PingAn
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/PingAn/PingAn.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 27
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:37
+
+name = PingAn
+2, 1010-0000.com
+2, 18ebank.com
+2, 1qianbao.cn
+2, 1qianbao.com
+2, 1qianbao.com.cn
+2, 1qianbao.net
+2, 4008000000.com
+2, 4008824365.com
+2, 4008880999.cn
+2, 4008880999.com
+2, 4008880999.net
+2, eka.cn
+2, ekapay.cn
+2, mingyuanfund.com
+2, olatop.cn
+2, olatop.com
+2, olatop.net
+2, pingan.com
+2, pingan.com.cn
+2, pingan.com.hk
+2, pinganonline.com.cn
+2, pinganventures.com
+2, yiqianbao.com.cn
+2, yiqianbao.net
+2, yqb.com
+2, yqbimg.com
+2, yqbimg.net

@@ -1,0 +1,11 @@
+# NAME: ChinaMax
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaMax/ChinaMax_Domain.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 0
+# SKIPPED: 113078
+# UPSTREAM-UPDATED: 2026-06-10 02:48:56
+# SKIPPED-TYPES: UNKNOWN=113078
+
+name = ChinaMax

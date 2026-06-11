@@ -1,0 +1,31 @@
+# NAME: Shopee
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Shopee/Shopee.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 21
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:47
+
+name = Shopee
+2, shopee.cl
+2, shopee.cn
+2, shopee.co.id
+2, shopee.co.th
+2, shopee.com
+2, shopee.com.br
+2, shopee.com.co
+2, shopee.com.mx
+2, shopee.com.my
+2, shopee.es
+2, shopee.fr
+2, shopee.id
+2, shopee.in
+2, shopee.io
+2, shopee.ph
+2, shopee.sg
+2, shopee.tw
+2, shopee.vn
+2, shopeemobile.com
+2, shopeesz.com
+2, shp.ee

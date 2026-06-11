@@ -1,0 +1,17 @@
+# NAME: Sectigo
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Sectigo/Sectigo.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 7
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:47
+
+name = Sectigo
+2, enterprisessl.com
+2, hackerguardian.com
+2, instantssl.com
+2, optimumssl.com
+2, positivessl.com
+2, sectigo.com
+2, usertrust.com

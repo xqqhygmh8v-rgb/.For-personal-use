@@ -1,0 +1,13 @@
+# NAME: Roblox
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Game/Roblox/Roblox.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 2
+# SKIPPED: 1
+# UPSTREAM-UPDATED: 2025-06-06 09:19:58
+# SKIPPED-TYPES: USER-AGENT=1
+
+name = Roblox
+2, rbxcdn.com
+3, roblox

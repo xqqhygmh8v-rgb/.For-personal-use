@@ -1,0 +1,27 @@
+# NAME: Dropbox
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Dropbox/Dropbox.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 17
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:43
+
+name = Dropbox
+2, db.tt
+2, dropbox-dns.com
+2, dropbox.com
+2, dropbox.tech
+2, dropbox.zendesk.com
+2, dropboxapi.com
+2, dropboxbusiness.com
+2, dropboxcaptcha.com
+2, dropboxforum.com
+2, dropboxforums.com
+2, dropboxinsiders.com
+2, dropboxmail.com
+2, dropboxpartners.com
+2, dropboxstatic.com
+2, dropboxusercontent.com
+2, getdropbox.com
+2, paper-attachments.s3.amazonaws.com

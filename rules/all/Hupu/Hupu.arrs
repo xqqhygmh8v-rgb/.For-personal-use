@@ -1,0 +1,22 @@
+# NAME: Hupu
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Hupu/Hupu.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 12
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:34
+
+name = Hupu
+2, afpchinesesports.com
+2, goalhi.cn
+2, hellof1.com
+2, hoopchina.com
+2, hoopchina.com.cn
+2, hupu.com
+2, hupu.gg
+2, hupu.io
+2, hupucdn.com
+2, hupujrs.com
+2, shihuo.cn
+2, vwanjia.com

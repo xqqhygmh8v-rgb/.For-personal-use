@@ -1,0 +1,20 @@
+# NAME: SouFang
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/SouFang/SouFang.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 10
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:38
+
+name = SouFang
+2, fang.com
+2, hkproperty.com
+2, houselight.cn
+2, nree.cn
+2, soufun.com
+2, soufun.com.cn
+2, soufunimg.com
+2, txsf.com
+2, villachina.com
+2, villachina.com.cn

@@ -1,0 +1,33 @@
+# NAME: Pinterest
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Pinterest/Pinterest.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 23
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:46
+
+name = Pinterest
+2, pinimg.com
+2, pinterest.at
+2, pinterest.ca
+2, pinterest.ch
+2, pinterest.cl
+2, pinterest.co.kr
+2, pinterest.co.uk
+2, pinterest.com
+2, pinterest.com.au
+2, pinterest.com.mx
+2, pinterest.de
+2, pinterest.dk
+2, pinterest.es
+2, pinterest.fr
+2, pinterest.ie
+2, pinterest.it
+2, pinterest.jp
+2, pinterest.nl
+2, pinterest.nz
+2, pinterest.ph
+2, pinterest.pt
+2, pinterest.ru
+2, pinterest.se

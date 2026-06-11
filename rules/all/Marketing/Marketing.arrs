@@ -1,0 +1,66 @@
+# NAME: Marketing
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Marketing/Marketing.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 56
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:53
+
+name = Marketing
+2, 4009997658.com
+2, abbyychina.com
+2, bartender.cc
+2, betterzip.net
+2, betterzipcn.com
+2, beyondcompare.cc
+2, bingdianhuanyuan.cn
+2, chemdraw.com.cn
+2, cjmakeding.com
+2, cjmkt.com
+2, codesoftchina.com
+2, coreldrawchina.com
+2, crossoverchina.com
+2, dongmansoft.com
+2, earmasterchina.cn
+2, easyrecoverychina.com
+2, ediuschina.com
+2, flstudiochina.com
+2, formysql.com
+2, guitarpro.cc
+2, huishenghuiying.com.cn
+2, hypersnap.net
+2, iconworkshop.cn
+2, imindmap.cc
+2, jihehuaban.com.cn
+2, keyshot.cc
+2, kingdeecn.cn
+2, logoshejishi.com
+2, luping.net.cn
+2, mairuan.cn
+2, mairuan.com
+2, mairuan.com.cn
+2, mairuan.net
+2, mairuanwang.com
+2, makeding.com
+2, mathtype.cn
+2, mindmanager.cc
+2, mindmanager.cn
+2, mindmapper.cc
+2, mycleanmymac.com
+2, nicelabel.cc
+2, ntfsformac.cc
+2, ntfsformac.cn
+2, overturechina.com
+2, passwordrecovery.cn
+2, pdfexpert.cc
+2, photozoomchina.com
+2, shankejingling.com
+2, ultraiso.net
+2, vegaschina.cn
+2, xmindchina.net
+2, xshellcn.com
+2, yihuifu.cn
+2, yuanchengxiezuo.com
+2, zbrushcn.com
+2, zhzzx.com

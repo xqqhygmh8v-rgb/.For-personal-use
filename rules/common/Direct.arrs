@@ -1,0 +1,46 @@
+# NAME: Direct
+# GENERATED-FOR: Anywhere Routing Rule Set
+# DESCRIPTION: 常用直连补充
+# RULES: 36
+# SKIPPED: 1
+# SKIPPED-TYPES: DEST-PORT=1
+# SOURCES:
+# - https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Direct.list
+
+name = Direct
+2, test-ipv6.com
+2, api.goodnotescloud.com
+2, goodnotesapp.com.cn
+2, subhd.tv
+2, pianyuan.org
+2, fileball.app
+2, app.adjust.com
+2, app.appsflyer.com
+2, bdtj.tagtic.cn
+2, log.mmstat.com
+2, sycm.mmstat.com
+2, blog.google
+2, clientservices.googleapis.com
+2, update.googleapis.com
+2, dl.google.com
+2, dl.l.google.com
+2, redirector.gvt1.com
+2, googletraveladservices.com
+2, mtalk.google.com
+2, alt1-mtalk.google.com
+2, alt2-mtalk.google.com
+2, alt3-mtalk.google.com
+2, alt4-mtalk.google.com
+2, alt5-mtalk.google.com
+2, alt6-mtalk.google.com
+2, alt7-mtalk.google.com
+2, alt8-mtalk.google.com
+2, fairplay.l.qq.com
+2, livew.l.qq.com
+2, vd.l.qq.com
+2, vi.l.qq.com
+2, analytics.strava.com
+2, msg.umeng.com
+2, msg.umengcloud.com
+2, ifconfig.me
+2, cnspeedtest.cn

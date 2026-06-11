@@ -1,0 +1,19 @@
+# NAME: Bing
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Bing/Bing.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 9
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:20:00
+
+name = Bing
+2, bing.com
+2, bing.com.cn
+2, bing.net
+2, bingads.com
+2, bingagencyawards.com
+2, bingapistatistics.com
+2, bingsandbox.com
+2, bingvisualsearch.com
+2, bingworld.com

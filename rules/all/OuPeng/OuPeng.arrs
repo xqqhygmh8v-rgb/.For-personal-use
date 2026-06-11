@@ -1,0 +1,19 @@
+# NAME: OuPeng
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/OuPeng/OuPeng.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 9
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:37
+
+name = OuPeng
+2, adbxb.cn
+2, adbxb.com
+2, opfed.com
+2, opthink.cn
+2, oupeng.com
+2, oupeng.net.cn
+2, oupeng9.com
+2, oupengcloud.cn
+2, oupengcloud.net

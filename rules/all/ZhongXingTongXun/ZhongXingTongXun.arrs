@@ -1,0 +1,30 @@
+# NAME: ZhongXingTongXun
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ZhongXingTongXun/ZhongXingTongXun.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 20
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:54
+
+name = ZhongXingTongXun
+2, 3gcare.cn
+2, nubia.cc
+2, nubia.cn
+2, nubia.com
+2, nubia.com.cn
+2, nubia.mobi
+2, nubia.net.cn
+2, redmagic.com
+2, shouhubao.com.cn
+2, zte.com.cn
+2, zte.net
+2, ztedevice.com
+2, ztedevice.com.cn
+2, ztedevices.com
+2, ztehotel.com
+2, ztehotel.com.cn
+2, ztehotel.net
+2, ztemall.com
+2, ztems.com
+2, zxingyun.com

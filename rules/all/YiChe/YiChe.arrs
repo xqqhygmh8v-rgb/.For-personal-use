@@ -1,0 +1,15 @@
+# NAME: YiChe
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/YiChe/YiChe.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 5
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:40
+
+name = YiChe
+2, bitauto.com
+2, bitautoimg.com
+2, cheyisou.com
+2, yccdn.com
+2, yiche.com

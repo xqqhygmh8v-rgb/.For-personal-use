@@ -1,0 +1,13 @@
+# NAME: TestFlight
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/TestFlight/TestFlight.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 3
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:15:11
+
+name = TestFlight
+2, beta.apple.com
+2, testflight.apple.com
+3, testflight

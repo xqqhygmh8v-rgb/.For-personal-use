@@ -1,0 +1,67 @@
+# NAME: iQIYI
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/iQIYI/iQIYI_Resolve.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 56
+# SKIPPED: 7
+# UPSTREAM-UPDATED: 2025-06-06 09:17:29
+# SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=6
+
+name = iQIYI
+2, 71.am
+2, 71.am.com
+2, 71edge.com
+2, 71edge.net
+2, aianno.cn
+2, aianno.com
+2, aiqiyicloud-mgmt.com
+2, aiqiyicloud.com
+2, aiqiyicloud.net
+2, baiying.com
+2, gitv.cn
+2, gitv.tv
+2, ibkstore.com
+2, iq.com
+2, iqiyi.com
+2, iqiyi.demo.uwp
+2, iqiyiedge.com
+2, iqiyiedge.net
+2, iqiyipic.com
+2, jiangbing.cn
+2, pps.tv
+2, ppsimg.com
+2, ppstream.cn
+2, ppstream.com
+2, ppstream.com.cn
+2, ppstream.net
+2, ppstream.net.cn
+2, ppsurl.com
+2, qiyi.cn
+2, qiyi.com
+2, qiyipic.com
+2, qy.com
+2, qy.net
+2, suike.cn
+3, qiyi
+0, 101.224.0.0/13
+0, 103.44.56.0/22
+0, 103.5.34.153/32
+0, 104.109.129.153/32
+0, 110.238.107.47/32
+0, 118.26.120.0/24
+0, 118.26.32.0/23
+0, 119.176.0.0/12
+0, 203.211.4.169/32
+0, 203.211.4.193/32
+0, 203.74.95.131/32
+0, 203.74.95.139/32
+0, 203.74.95.153/32
+0, 210.201.32.11/32
+0, 210.201.32.8/32
+0, 210.71.227.200/32
+0, 210.71.227.202/32
+0, 23.211.15.99/32
+0, 23.40.241.251/32
+0, 23.40.242.10/32
+0, 23.53.32.88/32

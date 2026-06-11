@@ -1,0 +1,26 @@
+# NAME: GameDownloadCN
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Game/GameDownloadCN/GameDownloadCN.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 16
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:50
+
+name = GameDownloadCN
+2, assets1.xboxlive.cn
+2, assets2.xboxlive.cn
+2, cdn-ali.content.steamchina.com
+2, cdn-qc.content.steamchina.com
+2, cdn-ws.content.steamchina.com
+2, dl.delivery.mp.microsoft.com
+2, dl.steam.clngaa.com
+2, epicgames-download1-1251447533.file.myqcloud.com
+2, st.dl.bscstorage.net
+2, st.dl.eccdnx.com
+2, steampipe.steamcontent.tnkjmec.com
+2, tlu.dl.delivery.mp.microsoft.com
+2, trts.baishancdnx.cn
+2, uplaypc-s-ubisoft.cdn.ubionline.com.cn
+2, xz.pphimalayanrt.com
+2, pdl.wow.battlenet.com.cn

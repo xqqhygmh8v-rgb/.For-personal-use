@@ -1,0 +1,20 @@
+# NAME: Mogujie
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Mogujie/Mogujie.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 10
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:37
+
+name = Mogujie
+2, juangua.com
+2, linkeye.net
+2, meili-inc.com
+2, mogu.com
+2, mogucdn.com
+2, mogujie.com
+2, mogujielive.com
+2, styledata.cn
+2, uniny.com
+2, xdgogogo.com

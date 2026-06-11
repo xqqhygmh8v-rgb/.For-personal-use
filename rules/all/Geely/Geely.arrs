@@ -1,0 +1,60 @@
+# NAME: Geely
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Geely/Geely.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 50
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:54
+
+name = Geely
+2, 51caocao.cn
+2, 51caocao.net
+2, caocaobusiness.cc
+2, caocaocustomer.cc
+2, caocaoglobal.com
+2, caocaojourney.cc
+2, caocaokeji.cn
+2, caocaokeji.net
+2, caocaomarketing.cc
+2, caocaomedia.cc
+2, caocaoproduct.cc
+2, caocaopromotion.cc
+2, caocaoservice.cc
+2, caocaotravel.cc
+2, caocaotrip.cc
+2, caocaotrip.cn
+2, caocaotrip.com
+2, geely-motors.com
+2, geely-test.com
+2, geely.com
+2, geely.com.qa
+2, geely.pe
+2, geelyauto.com.hk
+2, geelycv.com
+2, geelydesign.com
+2, geelyholding.com
+2, geelylaos.com
+2, geelyminiprogram.com
+2, geelyph.com
+2, geelysc.com
+2, geelyswedenholdings.com
+2, geespace.com
+2, geometryauto.com
+2, gplus-lab.com
+2, levc.com
+2, lishufu.org.cn
+2, lotuscars.com.cn
+2, lynkco-test.com
+2, lynkco.com.cn
+2, omnicloud.cn
+2, polestar.cn
+2, shikongdaoyu.com
+2, skspace.cn
+2, vipcaocao.cn
+2, vipcaocao.com
+2, volvocars.com
+2, volvocars.com.cn
+2, zeekrlife.com
+2, zgh.com
+2, zjcarnet.com

@@ -1,0 +1,41 @@
+# NAME: UKMedia
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/UKMedia/UKMedia.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 30
+# SKIPPED: 3
+# UPSTREAM-UPDATED: 2025-06-06 09:20:02
+# SKIPPED-TYPES: USER-AGENT=3
+
+name = UKMedia
+2, itvpnp.live.ott.irdeto.com
+2, itvpnp.stage.ott.irdeto.com
+2, itvpnpmobile-a.akamaihd.net
+2, vod-dash-ww-live.akamaized.net
+2, vod-thumb-ww-live.akamaized.net
+2, vs-cmaf-pushb-ww-live.akamaized.net
+2, bb-static.com
+2, bbc
+2, bbc-reporting-api.app
+2, bbc.co
+2, bbc.co.uk
+2, bbc.com
+2, bbc.in
+2, bbc.net.uk
+2, bbcchinese.com
+2, bbci.co
+2, bbci.co.uk
+2, bbcmedia.co.uk
+2, bbcpersian.com
+2, bbcverticals.com
+2, bidi.net.uk
+2, britbox.co.uk
+2, britbox.com
+2, c4assets.com
+2, channel4.com
+2, itv.com
+2, itvstatic.com
+2, massive-itv.com
+3, bbcfmt
+3, uk-live

@@ -1,0 +1,26 @@
+# NAME: Voxmedia
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Voxmedia/Voxmedia.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 16
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:00
+
+name = Voxmedia
+2, cstatic.net
+2, curbed.com
+2, eater.com
+2, funnyordie.com
+2, meridian.net
+2, polygon.com
+2, racked.com
+2, recode.net
+2, sbnation.com
+2, theverge.com
+2, vox-cdn.com
+2, vox.com
+2, voxcreative.com
+2, voxfieldguide.com
+2, voxmedia.com
+2, voxops.net

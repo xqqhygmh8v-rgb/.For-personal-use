@@ -1,0 +1,29 @@
+# NAME: 51Job
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/51Job/51Job.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 19
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:30
+
+name = 51Job
+2, 51hr.com
+2, 51ideal.com
+2, 51jingying.com
+2, 51job.com
+2, 51jobcdn.com
+2, 51laiqiang.com
+2, 51mdd.com
+2, 51miduoduo.com
+2, coolping.com
+2, correlation-one.cn
+2, ibmcampus.com
+2, maketion.com
+2, myyjs.com
+2, wuyoudagong.com
+2, xinghua.org.cn
+2, yingjiesheng.com
+2, yingjiesheng.net
+2, yingjiesheng.org
+2, zhiding.com.cn

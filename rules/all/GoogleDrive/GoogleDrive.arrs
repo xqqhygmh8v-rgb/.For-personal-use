@@ -1,0 +1,16 @@
+# NAME: GoogleDrive
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/GoogleDrive/GoogleDrive.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 5
+# SKIPPED: 4
+# UPSTREAM-UPDATED: 2025-06-06 09:15:10
+# SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=3
+
+name = GoogleDrive
+2, www.googleapis.com
+2, docs.google.com
+2, drive.google.com
+2, googledrive.com
+2, googleusercontent.com

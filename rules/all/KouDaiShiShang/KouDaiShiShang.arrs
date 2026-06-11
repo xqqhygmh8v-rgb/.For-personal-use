@@ -1,0 +1,32 @@
+# NAME: KouDaiShiShang
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/KouDaiShiShang/KouDaiShiShang.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 22
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:35
+
+name = KouDaiShiShang
+2, 91ruyu.com
+2, bibikan.cn
+2, fang.xin
+2, fangxin.com
+2, geili.cn
+2, geilicdn.com
+2, kou6ai.cn
+2, koudai.cn
+2, koudai.com
+2, v5.cc
+2, vdian.com
+2, wdfangyi.com
+2, weidian-inc.com
+2, weidian.cc
+2, weidian.cn
+2, weidian.com
+2, weidianfans.com
+2, xihuan.com.cn
+2, youshop01.com
+2, youshop02.com
+2, youshop03.com
+2, youshop04.com

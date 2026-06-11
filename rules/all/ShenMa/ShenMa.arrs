@@ -1,0 +1,23 @@
+# NAME: ShenMa
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ShenMa/ShenMa.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 13
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:38
+
+name = ShenMa
+2, shenma-inc.com
+2, sm.cn
+2, smapi.cn
+2, uczzd.cn
+2, uczzd.com
+2, uczzd.com.cn
+2, uczzd.net
+2, xiaoshuo1-sm.com
+2, xiaoshuo2-sm.com
+2, xiaoshuo3-sm.com
+2, xiaoshuo4-sm.com
+2, xiaoshuo5-sm.com
+2, yisou.com

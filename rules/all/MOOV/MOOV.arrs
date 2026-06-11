@@ -1,0 +1,12 @@
+# NAME: MOOV
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/MOOV/MOOV.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 2
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:16:59
+
+name = MOOV
+2, moov.hk
+2, mtg.now.com

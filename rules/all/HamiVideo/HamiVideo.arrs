@@ -1,0 +1,14 @@
+# NAME: HamiVideo
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/HamiVideo/HamiVideo.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 4
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:49
+
+name = HamiVideo
+2, hls-hichannel.cdn.hinet.net
+2, hamivideo.hinet.net
+2, ott.hinet.net
+3, hamivideo.cdn.hinet.net

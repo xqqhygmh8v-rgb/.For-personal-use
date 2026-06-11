@@ -1,0 +1,28 @@
+# NAME: CCB
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/CCB/CCB.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 18
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:31
+
+name = CCB
+2, ccb-life.com.cn
+2, ccb.cn
+2, ccb.com
+2, ccb.com.cn
+2, ccbcos.com
+2, ccbfund.cn
+2, ccbfund.com
+2, ccbfund.com.cn
+2, ccbfutures.cn
+2, ccbfutures.com
+2, ccbhome.cn
+2, ccbhome.net
+2, ccbintl.com.hk
+2, ccbleasing.com
+2, ccblife-test.com.cn
+2, ccbseoul.com
+2, ccbtrust.com.cn
+2, ccbxt.com

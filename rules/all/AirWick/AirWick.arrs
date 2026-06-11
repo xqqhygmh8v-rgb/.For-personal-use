@@ -1,0 +1,50 @@
+# NAME: AirWick
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/AirWick/AirWick.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 40
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:58
+
+name = AirWick
+2, airwick.at
+2, airwick.be
+2, airwick.ca
+2, airwick.ch
+2, airwick.cl
+2, airwick.co.in
+2, airwick.co.nz
+2, airwick.co.uk
+2, airwick.co.za
+2, airwick.com
+2, airwick.com.au
+2, airwick.com.br
+2, airwick.com.cn
+2, airwick.com.mx
+2, airwick.com.tr
+2, airwick.cz
+2, airwick.de
+2, airwick.dk
+2, airwick.es
+2, airwick.fi
+2, airwick.fr
+2, airwick.hr
+2, airwick.hu
+2, airwick.ie
+2, airwick.it
+2, airwick.jp
+2, airwick.net
+2, airwick.nl
+2, airwick.no
+2, airwick.pl
+2, airwick.pt
+2, airwick.ro
+2, airwick.ru
+2, airwick.se
+2, airwick.si
+2, airwick.sk
+2, airwick.tv
+2, airwick.us
+2, airwickarabia.com
+2, vipoo.es

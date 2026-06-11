@@ -1,0 +1,19 @@
+# NAME: HeroesoftheStorm
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/HeroesoftheStorm/HeroesoftheStorm_Resolve.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 9
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:49
+
+name = HeroesoftheStorm
+0, 103.4.114.233/32
+0, 182.162.116.1/32
+0, 185.60.112.157/32
+0, 185.60.112.158/32
+0, 202.9.67.59/32
+0, 203.69.111.4/32
+0, 24.105.30.129/32
+0, 24.105.62.129/32
+0, 54.207.104.145/32

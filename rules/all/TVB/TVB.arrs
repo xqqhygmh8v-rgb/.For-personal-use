@@ -1,0 +1,32 @@
+# NAME: TVB
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/TVB/TVB.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 21
+# SKIPPED: 2
+# UPSTREAM-UPDATED: 2025-06-06 09:17:00
+# SKIPPED-TYPES: USER-AGENT=2
+
+name = TVB
+2, bcbolt446c5271-a.akamaihd.net
+2, edge.api.brightcove.com
+2, tvbtracking.azurewebsites.net
+2, bigbigchannel.com.hk
+2, bigbigshop.com
+2, content.jwplatform.com
+2, encoretvb.com
+2, mytvsuper.com
+2, mytvsuperlimited.hb.omtrdc.net
+2, mytvsuperlimited.sc.omtrdc.net
+2, tvb.com
+2, tvb.com.au
+2, tvbanywhere.com
+2, tvbanywhere.com.sg
+2, tvbc.com.cn
+2, tvbeventpower.com.hk
+2, tvbusa.com
+2, tvbweekly.com
+2, tvmedia.net.au
+2, videos-f.jwpsrv.com
+2, youboranqs01.com

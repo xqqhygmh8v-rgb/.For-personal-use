@@ -1,0 +1,21 @@
+# NAME: WanMeiShiJie
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/WanMeiShiJie/WanMeiShiJie.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 11
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:39
+
+name = WanMeiShiJie
+2, counter-strike.cn
+2, counter-strike.com.cn
+2, csgo.com.cn
+2, laohu.com
+2, pwrdoverseagame.com
+2, pwrdoverseas.com
+2, wanmei.com
+2, wanmei.net
+2, wmupd.com
+2, wmupd.com.cn
+2, wmwm.com

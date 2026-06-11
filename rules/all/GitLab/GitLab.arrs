@@ -1,0 +1,16 @@
+# NAME: GitLab
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/GitLab/GitLab.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 6
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:44
+
+name = GitLab
+2, gitlab-assets.oss-cn-hongkong.aliyuncs.com
+2, gitlab-static.net
+2, gitlab.com
+2, gitlab.net
+2, gitter-static.net
+2, gitter.im

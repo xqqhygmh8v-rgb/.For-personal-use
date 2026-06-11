@@ -1,0 +1,15 @@
+# NAME: ShangHaiJuXiao
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ShangHaiJuXiao/ShangHaiJuXiao.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 5
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:37
+
+name = ShangHaiJuXiao
+2, bubuying.net
+2, kuaishuru.net
+2, mdvdns.com
+2, mediav.com
+2, mvad.com

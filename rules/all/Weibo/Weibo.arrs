@@ -1,0 +1,14 @@
+# NAME: Weibo
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Weibo/Weibo.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 4
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:02
+
+name = Weibo
+2, weibo.cn
+2, weibo.com
+2, weibocdn.com
+3, weibo

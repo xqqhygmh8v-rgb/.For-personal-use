@@ -1,0 +1,16 @@
+# NAME: Gucci
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Gucci/Gucci.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 6
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:44
+
+name = Gucci
+2, chimeforchange.org
+2, gucci.cn
+2, gucci.com
+2, guccimuseo.com
+2, guccitimeless.com
+2, regiongold.com

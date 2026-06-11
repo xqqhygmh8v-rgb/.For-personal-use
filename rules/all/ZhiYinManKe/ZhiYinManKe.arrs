@@ -1,0 +1,27 @@
+# NAME: ZhiYinManKe
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ZhiYinManKe/ZhiYinManKe.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 17
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:24
+
+name = ZhiYinManKe
+2, 51kanmanhua.com
+2, mkdata.top
+2, mkpush.com
+2, mkzcdn.com
+2, mkzhan.cn
+2, mkzhan.com
+2, mkzhan.com.cn
+2, mkzhan.net
+2, xiaomingtaiji.cc
+2, xiaomingtaiji.cn
+2, xiaomingtaiji.com
+2, xiaomingtaiji.com.cn
+2, xiaomingtaiji.net
+2, xiaoshuohui.com.cn
+2, xiaoshuohui.net
+2, zymk.cn
+2, zymkcdn.com

@@ -1,0 +1,36 @@
+# NAME: AmazonPrimeVideo
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/AmazonPrimeVideo/AmazonPrimeVideo.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 25
+# SKIPPED: 3
+# UPSTREAM-UPDATED: 2025-06-06 09:16:57
+# SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=2
+
+name = AmazonPrimeVideo
+2, d1v5ir2lpwr8os.cloudfront.net
+2, d22qjgkvxw22r6.cloudfront.net
+2, d25xi40x97liuc.cloudfront.net
+2, d27xxe7juh1us6.cloudfront.net
+2, dmqdd6hw24ucf.cloudfront.net
+2, aiv-cdn.net
+2, aiv-delivery.net
+2, amazonprimevideo.cn
+2, amazonprimevideo.com.cn
+2, amazonprimevideos.com
+2, amazonvideo.cc
+2, amazonvideo.com
+2, atv-ps.amazon.com
+2, avodmp4s3ww-a.akamaihd.net
+2, fls-na.amazon.com
+2, llnwd.net
+2, media-amazon.com
+2, prime-video.com
+2, primevideo.cc
+2, primevideo.com
+2, primevideo.info
+2, primevideo.org
+2, primevideo.tv
+2, pv-cdn.net
+3, avoddashs

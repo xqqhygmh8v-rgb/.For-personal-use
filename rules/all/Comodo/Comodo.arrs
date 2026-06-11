@@ -1,0 +1,15 @@
+# NAME: Comodo
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Comodo/Comodo.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 5
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:43
+
+name = Comodo
+2, comodo.com
+2, comodoca.com
+2, comodoca2.com
+2, comodoca3.com
+2, comodoca4.com

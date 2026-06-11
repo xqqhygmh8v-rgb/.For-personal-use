@@ -1,0 +1,14 @@
+# NAME: 36kr
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/36kr/36kr.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 4
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:30
+
+name = 36kr
+2, 36dianping.com
+2, 36kr.com
+2, 36krcdn.com
+2, 36krcnd.com

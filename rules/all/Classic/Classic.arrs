@@ -1,0 +1,14 @@
+# NAME: Classic
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Classic/Classic.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 4
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:49
+
+name = Classic
+2, asia.battle.net
+2, europe.battle.net
+2, useast.battle.net
+2, uswest.battle.net

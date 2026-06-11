@@ -1,0 +1,18 @@
+# NAME: JingDongCloud
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Cloud/JingDongCloud/JingDongCloud.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 8
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:50
+
+name = JingDongCloud
+0, 101.124.0.0/16
+0, 103.224.220.0/22
+0, 114.67.128.0/17
+0, 117.72.248.0/22
+1, 2402:db40::/33
+1, 2402:dfc0:50::/44
+1, 2402:dfc0::/44
+1, 2403:1ec0:1200::/48

@@ -1,0 +1,23 @@
+# NAME: Zoho
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Zoho/Zoho.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 13
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:49
+
+name = Zoho
+2, zoho.com
+2, zoho.com.au
+2, zoho.eu
+2, zoho.in
+2, zohocdn.com
+2, zohomeetups.com
+2, zohomerchandise.com
+2, zohopublic.com
+2, zohoschools.com
+2, zohostatic.com
+2, zohostatic.in
+2, zohouniversity.com
+2, zohowebstatic.com

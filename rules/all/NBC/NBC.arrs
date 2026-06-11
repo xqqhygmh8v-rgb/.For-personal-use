@@ -1,0 +1,32 @@
+# NAME: NBC
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/NBC/NBC.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 22
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:53
+
+name = NBC
+2, nbcstreaming.sc.omtrdc.net
+2, bravotv.com
+2, cnbc.com
+2, cnbcfm.com
+2, eluniverso.com
+2, eonline.com
+2, msnbc.com
+2, nbc-sports.go-vip.net
+2, nbc.co
+2, nbc.com
+2, nbcnews.com
+2, nbcsports.com
+2, nbcsports.h-cdn.com
+2, nbcudigitaladops.com
+2, nbcuni.com
+2, oxygen.com
+2, peacocktv.com
+2, s-nbcnews.com
+2, syfy.com
+2, telemundo.com
+2, universalkids.com
+2, usanetwork.com

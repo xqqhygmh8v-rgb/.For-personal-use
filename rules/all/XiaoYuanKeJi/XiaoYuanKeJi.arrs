@@ -1,0 +1,15 @@
+# NAME: XiaoYuanKeJi
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/XiaoYuanKeJi/XiaoYuanKeJi.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 5
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:40
+
+name = XiaoYuanKeJi
+2, 10010mx.com
+2, 5gimos.com
+2, bizport.cn
+2, mfexcel.com
+2, microfountain.com

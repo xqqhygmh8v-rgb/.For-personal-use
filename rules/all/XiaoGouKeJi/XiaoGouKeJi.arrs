@@ -1,0 +1,27 @@
+# NAME: XiaoGouKeJi
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/XiaoGouKeJi/XiaoGouKeJi.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 17
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:40
+
+name = XiaoGouKeJi
+2, 8moom.com
+2, moomv.com
+2, puppy888.com
+2, xgdq.com
+2, xgdqsn.com
+2, xiaogou111.com
+2, xiaogou222.com
+2, xiaogou333.com
+2, xiaogou444.com
+2, xiaogou555.com
+2, xiaogou666.com
+2, xiaogou777.com
+2, xiaogou888.com
+2, xiaogou999.com
+2, xiaogouds.com
+2, xiaogouzhineng.com
+2, zhongyangweixiu.com

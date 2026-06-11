@@ -1,0 +1,65 @@
+# NAME: Riot
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Riot/Riot.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 55
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:15:09
+
+name = Riot
+2, championshipseriesleague.com
+2, convrgencegame.com
+2, historyofdota.com
+2, historyofdota.net
+2, historyofdota.org
+2, instituteofwar.org
+2, lcsmerch.com
+2, leaguehighschool.com
+2, leagueoflegends.ca
+2, leagueoflegends.cn
+2, leagueoflegends.co.kr
+2, leagueoflegends.com
+2, leagueoflegends.info
+2, leagueoflegends.kr
+2, leagueoflegends.net
+2, leagueoflegends.org
+2, leagueoflegendsscripts.com
+2, leaguesharp.info
+2, leaguoflegends.com
+2, learnwithleague.com
+2, lol-europe.com
+2, lolclub.org
+2, lolespor.com
+2, lolesports.com
+2, lolfanart.net
+2, lolpcs.com
+2, lolshop.co.kr
+2, lolstatic-a.akamaihd.net
+2, lolstatic.com
+2, lolusercontent.com
+2, lpl.com.cn
+2, molesports.com
+2, playvalorant.com
+2, pvp.net
+2, pvp.tv
+2, rgpub.io
+2, riot-games.com
+2, riot.com
+2, riot.net
+2, riotcdn.net
+2, riotforgegames.com
+2, riotgames.co.kr
+2, riotgames.com
+2, riotgames.info
+2, riotgames.jp
+2, riotgames.net
+2, riotgames.tv
+2, riotgames.zendesk.com
+2, riotpin.com
+2, riotpoints.com
+2, rstatic.net
+2, ruinedking.com
+2, supremacy.com
+2, supremacy.net
+2, ulol.com

@@ -1,0 +1,23 @@
+# NAME: GlobalSign
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/GlobalSign/GlobalSign.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 13
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:44
+
+name = GlobalSign
+2, globalsign-media.com
+2, globalsign.be
+2, globalsign.ch
+2, globalsign.co.uk
+2, globalsign.com
+2, globalsign.com.au
+2, globalsign.com.hk
+2, globalsign.com.sg
+2, globalsign.es
+2, globalsign.eu
+2, globalsign.fr
+2, globalsign.net
+2, globalsign.nl

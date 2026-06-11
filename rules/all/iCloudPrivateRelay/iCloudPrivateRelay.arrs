@@ -1,0 +1,16 @@
+# NAME: iCloudPrivateRelay
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/iCloudPrivateRelay/iCloudPrivateRelay.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 6
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:01:32
+
+name = iCloudPrivateRelay
+2, mask-api.fe.apple-dns.net
+2, mask-api.icloud.com
+2, mask-t.apple-dns.net
+2, mask.apple-dns.net
+2, mask-h2.icloud.com
+2, mask.icloud.com

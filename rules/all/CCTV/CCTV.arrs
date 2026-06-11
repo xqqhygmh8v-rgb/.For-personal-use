@@ -1,0 +1,47 @@
+# NAME: CCTV
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/CCTV/CCTV.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 37
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:29
+
+name = CCTV
+2, cctv.cn
+2, cctv.com
+2, cctvlib.cn
+2, cctvlib.com.cn
+2, cctvlibrary.cn
+2, cctvlibrary.com.cn
+2, cctvpic.com
+2, cctvpro.cn
+2, cctvpro.com.cn
+2, chinaepg.cn
+2, chinalive.com
+2, citv.net.cn
+2, cnms.net.cn
+2, cntv.cn
+2, cntv.com.cn
+2, cntvwb.cn
+2, gjgbdszt.cn
+2, gjgbdszt.com.cn
+2, gjgbdszt.net.cn
+2, ipanda.cn
+2, ipanda.com
+2, ipanda.com.cn
+2, ipanda.net
+2, livechina.cn
+2, livechina.com
+2, olympicchannelchina.cn
+2, tvcc.cn
+2, tvcc.com.cn
+2, xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
+2, xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
+2, xn--fiq53l90et9fpncc7joo6apn8a.cn
+2, xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
+2, xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
+2, zggbdszt.cn
+2, zggbdszt.com.cn
+2, zggbdszt.net.cn
+2, zygbdszt.net.cn

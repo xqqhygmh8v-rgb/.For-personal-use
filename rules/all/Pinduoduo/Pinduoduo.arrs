@@ -1,0 +1,13 @@
+# NAME: Pinduoduo
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Pinduoduo/Pinduoduo.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 3
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:01
+
+name = Pinduoduo
+2, pddpic.com
+2, pinduoduo.com
+2, yangkeduo.com

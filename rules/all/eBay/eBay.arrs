@@ -1,0 +1,54 @@
+# NAME: eBay
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/eBay/eBay.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 44
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:49
+
+name = eBay
+2, about.co.kr
+2, auction.co.kr
+2, e-bay.it
+2, ebay-us.com
+2, ebay.at
+2, ebay.be
+2, ebay.ca
+2, ebay.ch
+2, ebay.cn
+2, ebay.co.krhe
+2, ebay.co.nz
+2, ebay.co.uk
+2, ebay.co.ve
+2, ebay.co.za
+2, ebay.com
+2, ebay.com.ar
+2, ebay.com.au
+2, ebay.com.ec
+2, ebay.com.hk
+2, ebay.com.mt
+2, ebay.com.ph
+2, ebay.com.sg
+2, ebay.de
+2, ebay.es
+2, ebay.fr
+2, ebay.ie
+2, ebay.in
+2, ebay.it
+2, ebay.lt
+2, ebay.nl
+2, ebay.ph
+2, ebay.pk
+2, ebay.pl
+2, ebaycdn.net
+2, ebayimg.com
+2, ebayinc.com
+2, ebaykorea.com
+2, ebaymainstreet.com
+2, ebayprivacycenter.com
+2, ebayrtm.com
+2, ebaystatic.com
+2, esmplus.com
+2, g9.co.kr
+2, gmarket.co.kr

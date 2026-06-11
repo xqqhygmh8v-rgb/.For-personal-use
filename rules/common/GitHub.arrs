@@ -1,0 +1,15 @@
+# NAME: GitHub
+# GENERATED-FOR: Anywhere Routing Rule Set
+# DESCRIPTION: GitHub
+# RULES: 6
+# SKIPPED: 0
+# SOURCES:
+# - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Github.list
+
+name = GitHub
+3, github
+2, github.com
+2, github.io
+2, githubapp.com
+2, githubassets.com
+2, githubusercontent.com

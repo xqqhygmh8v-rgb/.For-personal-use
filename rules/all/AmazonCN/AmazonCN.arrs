@@ -1,0 +1,57 @@
+# NAME: AmazonCN
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/AmazonCN/AmazonCN.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 47
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:03:00
+
+name = AmazonCN
+2, a2z.org.cn
+2, aboutamazon.cn
+2, alexafund.cn
+2, alexafund.com.cn
+2, amazon.cn
+2, amazonaws.cn
+2, amazonaws.com.cn
+2, amazonbusiness.cn
+2, amazonbusiness.com.cn
+2, amazonchoice.cn
+2, amazonchoice.com.cn
+2, amazonchoices.cn
+2, amazonchoices.com.cn
+2, amazoninspire.cn
+2, amazoninspire.com.cn
+2, amazonlaunchpad.cn
+2, amazonlaunchpad.com.cn
+2, amazonlending.com.cn
+2, amazonnow.cn
+2, amazonnow.com.cn
+2, amazonprimevideo.cn
+2, amazonprimevideo.com.cn
+2, amazonwebservices.com.cn
+2, amazonworkdocs.cn
+2, amazonworkdocs.com.cn
+2, asfiovnxocqpcry.com.cn
+2, assoc-amazon.cn
+2, aws-border.cn
+2, aws-icp-domain-manager.cn
+2, awsapps.cn
+2, awsapps.com.cn
+2, awsstatic.cn
+2, cloudfront-test.cn
+2, cloudfront.cn
+2, kindle.cn
+2, kindleoasis.cn
+2, kindleoasis.com.cn
+2, nwcdcloud.cn
+2, nwcdcloud.com.cn
+2, nwcddns.cn
+2, nwcdinfosec.cn
+2, primeday.cn
+2, primeday.com.cn
+2, route53.cn
+2, sagemaker.com.cn
+2, yamaxun.cn
+2, z.cn

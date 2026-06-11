@@ -1,0 +1,27 @@
+# NAME: DtDNS
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/DtDNS/DtDNS.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 17
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:43
+
+name = DtDNS
+2, 3d-game.com
+2, 4irc.com
+2, b0ne.com
+2, chatnook.com
+2, darktech.org
+2, deaftone.com
+2, dtdns.com
+2, dtdns.net
+2, effers.com
+2, etowns.net
+2, etowns.org
+2, flnet.org
+2, gotgeeks.com
+2, scieron.com
+2, slyip.com
+2, slyip.net
+2, suroot.com

@@ -1,0 +1,28 @@
+# NAME: Huffpost
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Huffpost/Huffpost.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 18
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:16:58
+
+name = Huffpost
+2, huffingtonpost.ca
+2, huffingtonpost.co.uk
+2, huffingtonpost.co.za
+2, huffingtonpost.com
+2, huffingtonpost.com.au
+2, huffingtonpost.com.mx
+2, huffingtonpost.de
+2, huffingtonpost.es
+2, huffingtonpost.fr
+2, huffingtonpost.gr
+2, huffingtonpost.in
+2, huffingtonpost.it
+2, huffingtonpost.jp
+2, huffingtonpost.kr
+2, huffpost.com
+2, huffpostarabi.com
+2, huffpostbrasil.com
+2, huffpostmaghreb.com

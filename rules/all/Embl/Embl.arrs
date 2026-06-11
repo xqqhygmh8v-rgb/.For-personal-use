@@ -1,0 +1,17 @@
+# NAME: Embl
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Embl/Embl.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 7
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:52
+
+name = Embl
+2, ebi.ac.uk
+2, embl-hamburg.de
+2, embl.de
+2, embl.fr
+2, embl.it
+2, embl.org
+2, emblstatic.net

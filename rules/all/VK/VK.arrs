@@ -1,0 +1,17 @@
+# NAME: VK
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/VK/VK.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 7
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:48
+
+name = VK
+2, mvk.com
+2, userapi.com
+2, vk-cdn.me
+2, vk-cdn.net
+2, vk-portal.net
+2, vk.cc
+2, vk.com

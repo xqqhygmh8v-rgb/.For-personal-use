@@ -1,0 +1,30 @@
+# NAME: FeiZhu
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/FeiZhu/FeiZhu.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 20
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:34
+
+name = FeiZhu
+2, alitrip.com
+2, asczwa.com
+2, asczxcefsv.com
+2, bcvbw.com
+2, dfkhgj.com
+2, edcdfg.com
+2, ereuiib.com
+2, fdfgdf.cn
+2, feizhu.cn
+2, feizhu.com
+2, fliggy.com
+2, fliggy.hk
+2, iuynfg.com
+2, jhgtgb.com
+2, mnbvbqw.com
+2, ujmjk.com
+2, vfvdf.com
+2, xcvvs.com
+2, zxczw.com
+2, zzxca.com

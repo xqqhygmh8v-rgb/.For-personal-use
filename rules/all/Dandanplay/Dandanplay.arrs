@@ -1,0 +1,13 @@
+# NAME: Dandanplay
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Dandanplay/Dandanplay.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 3
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:33
+
+name = Dandanplay
+2, acplay.net
+2, dandanplay.com
+2, dandanplayer.com

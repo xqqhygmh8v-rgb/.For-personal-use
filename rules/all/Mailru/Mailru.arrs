@@ -1,0 +1,13 @@
+# NAME: Mailru
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Mailru/Mailru.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 3
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:45
+
+name = Mailru
+2, imgsmail.ru
+2, mail.ru
+2, mycdn.me

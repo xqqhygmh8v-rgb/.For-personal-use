@@ -1,0 +1,17 @@
+# NAME: Lan
+# GENERATED-FOR: Anywhere Routing Rule Set
+# DESCRIPTION: 局域网和私有地址
+# RULES: 8
+# SKIPPED: 0
+# SOURCES:
+# - https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Lan.list
+
+name = Lan
+2, local
+0, 192.168.0.0/16
+0, 10.0.0.0/8
+0, 172.16.0.0/12
+0, 127.0.0.0/8
+0, 100.64.0.0/10
+0, 224.0.0.0/4
+1, fe80::/10

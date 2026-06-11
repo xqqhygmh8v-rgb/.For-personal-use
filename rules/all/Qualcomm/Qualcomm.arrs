@@ -1,0 +1,55 @@
+# NAME: Qualcomm
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Qualcomm/Qualcomm.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 45
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:46
+
+name = Qualcomm
+2, airgonetworks.com
+2, berkanawireless.com
+2, brewmp.com
+2, cdmatech.com
+2, dragoniscoming.com
+2, gobianywhere.com
+2, gpsonextra.net
+2, hellosmartbook.com
+2, imod.com
+2, ipleadership.org
+2, iskoot.com
+2, izatcloud.net
+2, meetsmartbook.com
+2, patenttruth.org
+2, pixtronix.com
+2, qceventscenter.com.cn
+2, qctconnect.com
+2, qprize.com
+2, qualcomm-email.com
+2, qualcomm.cn
+2, qualcomm.co.id
+2, qualcomm.co.in
+2, qualcomm.co.jp
+2, qualcomm.co.kr
+2, qualcomm.co.uk
+2, qualcomm.com
+2, qualcomm.com.br
+2, qualcomm.com.tw
+2, qualcomm.de
+2, qualcomm.fr
+2, qualcomm.sc.omtrdc.net
+2, qualcommhalo.com
+2, qualcommlabs.com
+2, qualcommmea.com
+2, qualcommretail.com
+2, qualcommventures.cn
+2, qualcommventures.com
+2, qualphone.com
+2, quicinc.com
+2, snapdragon.cn
+2, snapdragonbooth.com
+2, uplinq.com
+2, wipower.com
+2, wirelessreach.com
+2, xtracloud.cn

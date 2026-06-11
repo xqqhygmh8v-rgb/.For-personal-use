@@ -1,0 +1,14 @@
+# NAME: Anaconda
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Anaconda/Anaconda.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 4
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:59
+
+name = Anaconda
+2, anaconda.cloud
+2, anaconda.com
+2, anaconda.org
+2, conda.io

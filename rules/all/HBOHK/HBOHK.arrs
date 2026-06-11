@@ -1,0 +1,34 @@
+# NAME: HBOHK
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/HBOHK/HBOHK.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 24
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:41
+
+name = HBOHK
+2, wmff.warnermediacdn.com
+2, hboasia.com
+2, hboasia1-i.akamaihd.net
+2, hboasia2-i.akamaihd.net
+2, hboasia3-i.akamaihd.net
+2, hboasia4-i.akamaihd.net
+2, hboasia5-i.akamaihd.net
+2, hboasialive.akamaized.net
+2, hbogo.co.th
+2, hbogo.com
+2, hbogo.eu
+2, hbogoasia.com
+2, hbogoasia.hk
+2, hbogoasia.id
+2, hbogoasia.ph
+2, hbogoasia.sg
+2, hbogoasia.tw
+2, hbogoprod-vod.akamaized.net
+2, hbomaxcdn.com
+2, now-ashare.com
+2, now-tv.com
+2, now.com.hk
+2, nowe.com
+2, nowe.hk

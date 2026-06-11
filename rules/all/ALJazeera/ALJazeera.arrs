@@ -1,0 +1,17 @@
+# NAME: ALJazeera
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ALJazeera/ALJazeera.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 7
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:58
+
+name = ALJazeera
+2, ajplus.net
+2, aljazeera.com
+2, aljazeera.net
+2, palestineremix.com
+2, sarajevopodopsadom.com
+2, srebrenica360.com
+2, syhacked.com

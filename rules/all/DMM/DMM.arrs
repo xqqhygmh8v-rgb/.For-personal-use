@@ -1,0 +1,30 @@
+# NAME: DMM
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/DMM/DMM.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 20
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:49
+
+name = DMM
+2, akabeesoft2.com
+2, akabeesoft3.com
+2, akatsukiworks.com
+2, alicesoft.com
+2, api-p.videomarket.jp
+2, cosmiccute.com
+2, ddo.jp
+2, dmm-extension.com
+2, dmm.co.jp
+2, dmm.com
+2, dmm.hk
+2, dmmapis.com
+2, dmmrex.com
+2, hibiki-site.com
+2, minori.ph
+2, navismithapis-cdn.com
+2, tenco.cc
+2, wheel-soft.com
+0, 125.6.189.7/32
+0, 203.104.209.7/32

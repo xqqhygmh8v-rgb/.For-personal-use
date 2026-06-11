@@ -1,0 +1,25 @@
+# NAME: CEB
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/CEB/CEB.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 15
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:31
+
+name = CEB
+2, cebbank.com
+2, ceblease.com
+2, eb-ind.com
+2, ebasset.com
+2, ebchina.com
+2, ebchinaintl.com
+2, ebf.com.cn
+2, ebfcn.com
+2, ebfortune.com
+2, ebscn-am.com
+2, ebscn.com
+2, ebtrust.com
+2, everbright.com
+2, secec.com
+2, sunlife-everbright.com

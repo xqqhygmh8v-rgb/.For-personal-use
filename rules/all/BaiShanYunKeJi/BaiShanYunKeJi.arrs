@@ -1,0 +1,69 @@
+# NAME: BaiShanYunKeJi
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/BaiShanYunKeJi/BaiShanYunKeJi.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 59
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:50
+
+name = BaiShanYunKeJi
+2, 5gcdnx.com
+2, baicdnx.com
+2, bainsx.cn
+2, baishan-cloud.com
+2, baishan-cloud.net
+2, baishan-gateway.com
+2, baishan.com
+2, baishancdnx.cn
+2, baishancdnx.com
+2, baishancdnx.net
+2, baishancdnx.top
+2, baishancloud.com
+2, baishandnsx.cn
+2, baishandnsx.com
+2, baishandnsx.net
+2, baishandnsx.top
+2, baishangeek.cn
+2, baishangeek.com
+2, baishanyun.com
+2, bsccdn.com
+2, bsccdn.net
+2, bscdns.cn
+2, bscdns.com
+2, bscedge.com
+2, bscgslb.com
+2, bsclink.cn
+2, bsclink.com
+2, bscstorage.cn
+2, bscstorage.com
+2, bscstorage.net
+2, bsgslb.cn
+2, bsgslb.com
+2, bsydns.cn
+2, bsydns.com
+2, bsydns.net
+2, cncdnx.com
+2, crazyrtc.com
+2, dolfincdnx.cn
+2, dolfincdnx.com
+2, dolfincdnx.net
+2, dolfincdnx.top
+2, dolfindns.net
+2, dolfindnsx.cn
+2, dolfindnsx.com
+2, dolfindnsx.net
+2, dolfindnsx.top
+2, eccdnx.com
+2, edgefn.net
+2, fnedge.net
+2, ldgslb.com
+2, qingcdn.com
+2, saxysec.com
+2, scdncloud.com
+2, scdntop.com
+2, solocdn.cn
+2, trpcdn.com
+2, trpcdn.net
+2, whitecdnx.com
+2, zzcdnx.com

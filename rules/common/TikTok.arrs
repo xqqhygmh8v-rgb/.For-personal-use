@@ -1,0 +1,91 @@
+# NAME: TikTok
+# GENERATED-FOR: Anywhere Routing Rule Set
+# DESCRIPTION: TikTok
+# RULES: 81
+# SKIPPED: 2
+# SKIPPED-TYPES: IP-ASN=2
+# SOURCES:
+# - https://git.repcz.link/kelee.one/Tool/Loon/Lsr/TikTok.lsr
+
+name = TikTok
+2, api.snapkit.com
+2, cocacola.co.jp
+2, courses.snapsolve.com
+2, engagements.appsflyer.com
+2, lf16-campaign.ttlstatic.com
+2, lf16-csp.oecstatic.com
+2, lf16-pkgcdn.pitaya-clientai.com
+2, lf16-scmcdn.oecstatic.com
+2, lf19-csp.oecstatic.com
+2, lf19-pkgcdn.pitaya-clientai.com
+2, lf19-scmcdn.oecstatic.com
+2, musically-alternate.app.link
+2, musically.app.link
+2, p1-tt-ipv6.byteimg.com
+2, p1-tt.byteimg.com
+2, p26-tt.byteimg.com
+2, p3-tt-ipv6.byteimg.com
+2, p9-tt.byteimg.com
+2, roovza-launches.appsflyersdk.com
+2, bytedance.com
+2, bytedance.net
+2, bytedapm.com
+2, bytefcdn-oversea.com
+2, bytefcdn-ttpeu.com
+2, bytegecko-i18n.com
+2, byteglb.com
+2, byteicdn.com
+2, byteigtm.com
+2, byteintl.com
+2, byteintl.net
+2, byteoversea.com
+2, byteoversea.net
+2, bytetcdn.com
+2, capcut.com
+2, ibytedtos.com
+2, ibyteimg.com
+2, ipstatp.com
+2, isnssdk.com
+2, muscdn.com
+2, musemuse.cn
+2, musical.ly
+2, pstatp.com
+2, sgpstatp.com
+2, sgsnssdk.com
+2, tik-tokapi.com
+2, tiktok-usts.net
+2, tiktok.com
+2, tiktok.in
+2, tiktokcdn-eu.com
+2, tiktokcdn-eu.net
+2, tiktokcdn-in.com
+2, tiktokcdn-us.com
+2, tiktokcdn.com
+2, tiktokd.net
+2, tiktokd.org
+2, tiktokglobalshop.com
+2, tiktokglobalshopv.com
+2, tiktokmusic.app
+2, tiktokshop.com
+2, tiktokstaticb.com
+2, tiktokv.com
+2, tiktokv.eu
+2, tiktokv.us
+2, tiktokw.us
+2, tlivecdn.com
+2, tlivepush.com
+2, ttadsmanager.com
+2, ttapis.com
+2, ttdns2.com
+2, ttlivecdn.com
+2, ttoversea.net
+2, ttoverseaus.net
+2, ttwstatic.com
+2, tzvbfs.com
+3, bytedance.map.
+3, musical.ly.
+3, tiktokcdn-
+3, tiktokcdn.com.
+3, tiktokv.com.
+3, ttcdn-tos.
+3, ttlivecdn.com.

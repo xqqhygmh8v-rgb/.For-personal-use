@@ -1,0 +1,32 @@
+# NAME: 178
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/178/178.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 22
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:30
+
+name = 178
+2, 178.com
+2, 178.net
+2, 766.com
+2, 766app.com
+2, 766er.com
+2, 766test.com
+2, a9vg.com
+2, bigccq.cn
+2, bjyueshenzj.com
+2, carry6.cn
+2, carry6.com
+2, carry6.net
+2, dospy.com
+2, nga.cn
+2, nga.wiki
+2, ngabbs.com
+2, ngacn.cc
+2, psnine.com
+2, stargame.com
+2, tgbus.com
+2, tgbusdata.cn
+2, xyous.com

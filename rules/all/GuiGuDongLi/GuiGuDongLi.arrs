@@ -1,0 +1,21 @@
+# NAME: GuiGuDongLi
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/GuiGuDongLi/GuiGuDongLi.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 11
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:34
+
+name = GuiGuDongLi
+2, ciweekforum.com
+2, enet.com.cn
+2, enet16.cn
+2, enet16.com
+2, enet16.com.cn
+2, enet16.net
+2, enet369.com
+2, ezhu.cn
+2, ezhu.com
+2, mydor.com
+2, xingzhiheyi.com

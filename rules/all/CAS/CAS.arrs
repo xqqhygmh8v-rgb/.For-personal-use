@@ -1,0 +1,53 @@
+# NAME: CAS
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/CAS/CAS.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 43
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:31
+
+name = CAS
+2, acas.ac.cn
+2, agklab.cn
+2, berlin8.org
+2, biotech.ac.cn
+2, chinaxiv.cn
+2, chinaxiv.com
+2, chinaxiv.net
+2, chinaxiv.org
+2, cjstp.cn
+2, cnegov.com
+2, cnegov.org
+2, cscd.ac.cn
+2, csci.ac.cn
+2, csci.net.cn
+2, csdl.ac.cn
+2, csdl.net.cn
+2, csdl.org.cn
+2, dataintelligence.ac.cn
+2, grc-oa.org.cn
+2, hitech.ac.cn
+2, iauthor.ac.cn
+2, iauthor.cn
+2, infotech.ac.cn
+2, ipres2020.cn
+2, jdis.org
+2, las.ac.cn
+2, lis.ac.cn
+2, lndx.ac.cn
+2, modernization.ac.cn
+2, museum.ac.cn
+2, ndpp.ac.cn
+2, nsl.ac.cn
+2, open-search.org
+2, openinnovation.cn
+2, openinnoviation.cn
+2, progchem.ac.cn
+2, sciencechina.ac.cn
+2, sciencechina.cn
+2, sciencechina.net.cn
+2, sciencechina.org.cn
+2, sciencefocus.ac.cn
+2, stmjsociety.com
+2, stpaper.cn

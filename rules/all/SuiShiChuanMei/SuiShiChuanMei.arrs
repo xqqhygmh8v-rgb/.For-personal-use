@@ -1,0 +1,24 @@
+# NAME: SuiShiChuanMei
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/SuiShiChuanMei/SuiShiChuanMei.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 14
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:38
+
+name = SuiShiChuanMei
+2, 91friend.com
+2, adsit.cn
+2, aojiamarly.com
+2, ebaidutv.com
+2, mipujia.cn
+2, mipujia.com
+2, mobhui.cn
+2, mobhui.com
+2, quyaoya.cn
+2, quyaoya.com
+2, smartsocial.cn
+2, socialjia.com
+2, socialpls.com
+2, weibopie.com

@@ -1,0 +1,18 @@
+# NAME: DianCeWangKe
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/DianCeWangKe/DianCeWangKe.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 8
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:33
+
+name = DianCeWangKe
+2, pgyer.cc
+2, pgyer.com
+2, pgyer.im
+2, qcers.com
+2, qcers.net
+2, testin.im
+2, tracup.com
+2, xcxwo.com

@@ -1,0 +1,49 @@
+# NAME: GameDownload
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Game/GameDownload/GameDownload.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 39
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:53
+
+name = GameDownload
+2, assets1.xboxlive.com
+2, assets2.xboxlive.com
+2, blizzard.gcdn.cloudn.co.kr
+2, blzddist1-a.akamaihd.net
+2, blzddistkr1-a.akamaihd.net
+2, client.hikarifield.co.jp
+2, content.cdp.bethesda.net
+2, download.cdp.bethesda.net
+2, download.dm.origin.com
+2, download.epicgames.com
+2, download.hikarifield.co.jp
+2, download2.epicgames.com
+2, download3.epicgames.com
+2, download4.epicgames.com
+2, edge.steam-dns.top.comcast.net
+2, epicgames-download1.akamaized.net
+2, eu.cdn.blizzard.com
+2, fastly-download.epicgames.com
+2, gamedownloads-rockstargames-com.akamaized.net
+2, gog-cdn-lumen.secure2.footprint.net
+2, kr.cdn.blizzard.com
+2, level3.blizzard.com
+2, origin-a.akamaihd.net
+2, packagespc.xboxlive.com
+2, ssl-lvlt.cdn.ea.com
+2, steam.eca.qtlglb.com
+2, steam.naeu.qtlglb.com
+2, steam.ru.qtlglb.com
+2, steampipe-kr.akamaized.net
+2, steampipe-partner.akamaized.net
+2, steampipe.akamaized.net
+2, steamusercontent-a.akamaihd.net
+2, uplaypc-s-ubisoft.cdn.ubionline.com.cn
+2, us.cdn.blizzard.com
+2, xvcf1.xboxlive.com
+2, xvcf2.xboxlive.com
+2, cdn.ubi.com
+2, dyn.riotcdn.net
+2, steamcontent.com

@@ -1,0 +1,20 @@
+# NAME: Picacg
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Picacg/Picacg.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 10
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:55
+
+name = Picacg
+2, bikaa.xyz
+2, bikac.xyz
+2, bikaios.xyz
+2, manhuabika.com
+2, picacgp.com
+2, picacgy.com
+2, picacn.xyz
+2, picacomic.com
+2, picacomic.xyz
+2, wikawika.xyz

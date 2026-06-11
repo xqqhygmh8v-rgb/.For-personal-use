@@ -1,0 +1,63 @@
+# NAME: Sohu
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Sohu/Sohu.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 53
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:38
+
+name = Sohu
+2, acoloo.com
+2, baokang.com
+2, didipai.com
+2, dm518.cn
+2, domeos.cn
+2, domeos.com.cn
+2, focus.cn
+2, gfeel.com.cn
+2, ggoplay.com
+2, ggowan.com
+2, go2map.com
+2, goodfeel.cn
+2, hixiaoe.com
+2, imancheng.cn
+2, itc.cn
+2, itc.com.cn
+2, k.sohu
+2, m.sohu
+2, pinyin.cn
+2, qd.ink
+2, sg.cn
+2, sgyeyou.com
+2, sgyouxi.com
+2, sogo.com
+2, sogou-inc.com
+2, sogou-op.org
+2, sogou.cn
+2, sogou.com
+2, sogou.com.cn
+2, sogou.net
+2, sogoucdn.com
+2, sohu-inc.com
+2, sohu.cn
+2, sohu.com
+2, sohu.com.cn
+2, sohuapps.com
+2, sohucs.com
+2, sohumail.com
+2, sohuora.com
+2, sohurdc.com
+2, sohusce.com
+2, soso.com
+2, soso.com.cn
+2, sososnap.com
+2, t.sohu
+2, teemo.cn
+2, tv.sohu
+2, v.sohu
+2, wowenwen.com
+2, xinyan.cn
+2, yeyousg.com
+2, yidianliulan.cn
+2, yidianliulan.com

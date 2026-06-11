@@ -1,0 +1,21 @@
+# NAME: HBOUSA
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/HBOUSA/HBOUSA.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 10
+# SKIPPED: 2
+# UPSTREAM-UPDATED: 2025-06-06 09:17:41
+# SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=1
+
+name = HBOUSA
+2, wmff.warnermediacdn.com
+2, cinemax.com
+2, discomax.com
+2, h264.io
+2, hbomax.com
+2, hbomaxcdn.com
+2, hbomaxdash.s.llnwi.net
+2, hbonow.com
+2, max.com
+2, maxgo.com

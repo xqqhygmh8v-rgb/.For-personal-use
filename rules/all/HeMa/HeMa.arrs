@@ -1,0 +1,22 @@
+# NAME: HeMa
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/HeMa/HeMa.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 12
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:34
+
+name = HeMa
+2, freshhema.com
+2, hemaapi.cn
+2, hemamax.com
+2, hemaopen.cn
+2, hemaos.com
+2, hemashare.cn
+2, marioall.com
+2, marioin.com
+2, mariowap.com
+2, rexpos.cn
+2, rextech.cn
+2, shyhhema.com

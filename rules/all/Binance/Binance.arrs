@@ -1,0 +1,22 @@
+# NAME: Binance
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Binance/Binance.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 12
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:53
+
+name = Binance
+2, appsflayer.com
+2, binance.cloud
+2, binance.com
+2, binance.me
+2, binancecnt.com
+2, binancefuture.com
+2, bnappzh.co
+2, bnbstatic.com
+2, bnbzh.ac
+2, bntrace.com
+2, saasexch.cc
+2, saasexch.com

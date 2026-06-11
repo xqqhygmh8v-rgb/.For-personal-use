@@ -1,0 +1,32 @@
+# NAME: Zee
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Zee/Zee.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 22
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:49
+
+name = Zee
+2, bgr.in
+2, bollywoodlife.com
+2, careerfundas.com
+2, cricketcountry.com
+2, dnai.in
+2, dnaindia.com
+2, earngeek.com
+2, ekhindi.com
+2, ind.sh
+2, india.com
+2, indiancolleges.com
+2, itripto.com
+2, oncars.in
+2, prepsure.com
+2, thehealthsite.com
+2, wionews.com
+2, yo1health.com
+2, zee.com
+2, zeebiz.com
+2, zeeentertainment.com
+2, zeenews-fonts.s3.amazonaws.com
+2, zeenews.com

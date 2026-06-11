@@ -1,0 +1,49 @@
+# NAME: Netflix
+# GENERATED-FOR: Anywhere Routing Rule Set
+# DESCRIPTION: Netflix
+# RULES: 40
+# SKIPPED: 0
+# SOURCES:
+# - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
+
+name = Netflix
+3, apiproxy-device-prod-nlb-
+3, dualstack.apiproxy-
+3, netflixdnstest
+2, netflix.com.edgesuite.net
+2, fast.com
+2, netflix.com
+2, netflix.net
+2, netflixdnstest0.com
+2, netflixdnstest1.com
+2, netflixdnstest2.com
+2, netflixdnstest3.com
+2, netflixdnstest4.com
+2, netflixdnstest5.com
+2, netflixdnstest6.com
+2, netflixdnstest7.com
+2, netflixdnstest8.com
+2, netflixdnstest9.com
+2, nflxext.com
+2, nflximg.com
+2, nflximg.net
+2, nflxso.net
+2, nflxvideo.net
+0, 8.41.4.0/24
+0, 23.246.0.0/18
+0, 37.77.184.0/21
+0, 38.72.126.0/24
+0, 45.57.0.0/17
+0, 64.120.128.0/17
+0, 66.197.128.0/17
+0, 69.53.224.0/19
+0, 103.87.204.0/22
+0, 108.175.32.0/20
+0, 185.2.220.0/22
+0, 185.9.188.0/22
+0, 192.173.64.0/18
+0, 198.38.96.0/19
+0, 198.45.48.0/20
+0, 203.75.84.0/24
+0, 207.45.72.0/22
+0, 208.75.76.0/22

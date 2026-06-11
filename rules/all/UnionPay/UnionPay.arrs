@@ -1,0 +1,26 @@
+# NAME: UnionPay
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/UnionPay/UnionPay.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 16
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:39
+
+name = UnionPay
+2, 95516.com
+2, 95516.net
+2, airepay.net
+2, chinapay.cn
+2, chinapay.com
+2, chinapayhongkong.com
+2, chinaunionpay.com
+2, chinaunionpay.com.cn
+2, chinaunionpay.net
+2, cup.com.cn
+2, cup62.cn
+2, unionpay.com
+2, unionpay.net
+2, unionpayintl.cn
+2, unionpayintl.com
+2, unionpaysecure.com

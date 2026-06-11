@@ -1,0 +1,47 @@
+# NAME: UCloud
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/UCloud/UCloud.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 37
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:39
+
+name = UCloud
+2, cdndo.com
+2, ecloud-gdu.com
+2, fshark.cn
+2, ibusre.cn
+2, ipbaohe.com
+2, ipssh.net
+2, u-cdn.com
+2, u-cdn.net
+2, ucgslb.cn
+2, ucgslb.com
+2, ucgslb.info
+2, ucgslb.net
+2, ucgslb.top
+2, ucloud.cn
+2, ucloud.com.cn
+2, ucloud365.com
+2, ucloudadmin.com
+2, ucloudapi.com
+2, ucloudgda.com
+2, ucloudoss.com
+2, ucloudstack.cn
+2, ucloudstack.com
+2, ucloudstack.net
+2, uclouduewaf.com
+2, ucloudufile.com
+2, uewaf.com
+2, ufileos.com
+2, ugslb.cn
+2, ugslb.com
+2, ugslb.info
+2, ugslb.net
+2, ugslb.top
+2, ugslb2.net
+2, uhasadmin.com
+2, unaming.net
+2, urome.cn
+2, urtc.com.cn

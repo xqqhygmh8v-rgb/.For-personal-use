@@ -1,0 +1,13 @@
+# NAME: KuKeMusic
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/KuKeMusic/KuKeMusic.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 3
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:35
+
+name = KuKeMusic
+2, kuke.com
+2, kukey.com.cn
+2, naxos.cn

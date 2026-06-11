@@ -1,0 +1,14 @@
+# NAME: ChinaDNS
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaDNS/ChinaDNS.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 4
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:20:01
+
+name = ChinaDNS
+2, dns.alidns.com
+2, doh.360.cn
+2, doh.pub
+0, 1.12.12.12/32

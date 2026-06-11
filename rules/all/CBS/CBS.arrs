@@ -1,0 +1,45 @@
+# NAME: CBS
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/CBS/CBS.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 34
+# SKIPPED: 3
+# UPSTREAM-UPDATED: 2025-06-06 09:16:57
+# SKIPPED-TYPES: PROCESS-NAME=2, USER-AGENT=1
+
+name = CBS
+2, amlg.io
+2, cbs.com
+2, cbsaavideo.com
+2, cbscorporation.com
+2, cbsi.com
+2, cbsi.live.ott.irdeto.com
+2, cbsi.video
+2, cbsiam.com
+2, cbsig.net
+2, cbsimg.net
+2, cbsinteractive.com
+2, cbsistatic.com
+2, cbsivideo.com
+2, cbsnews.com
+2, cbsplaylistserver.aws.syncbak.com
+2, cbspressexpress.com
+2, cbsradio.com
+2, cbsservice.aws.syncbak.com
+2, cbssports.com
+2, cbsstatic.com
+2, cbsstore.com
+2, cbssvideo.com
+2, cbstelevisioncity.com
+2, mtvnservices.com
+2, paramount.com
+2, paramountplus.com
+2, pluto.tv
+2, plutotv.net
+2, pplusstatic.com
+2, showtime.com
+2, viacbs.com
+2, viacom.com
+2, viacomcbs.com
+2, viacomcbspressexpress.com

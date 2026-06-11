@@ -1,0 +1,26 @@
+# NAME: UPYun
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/UPYun/UPYun.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 16
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:39
+
+name = UPYun
+2, aicdn.com
+2, aicdn2.com
+2, aicdn3.com
+2, aicdn4.com
+2, aicdn5.com
+2, authbus.com
+2, oncdp.com
+2, shangketang.com
+2, shangzhibo.tv
+2, sktcdn.com
+2, upai.com
+2, upaiyun.com
+2, upcdn.net
+2, upyun.com
+2, yupoo.com
+2, zhidian-inc.cn

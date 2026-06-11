@@ -1,0 +1,34 @@
+# NAME: Supercell
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Supercell/Supercell_Resolve.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 24
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:15:09
+
+name = Supercell
+2, brawlstars.com
+2, brawlstarsgame.com
+0, 13.210.25.233/32
+0, 13.212.170.102/32
+0, 13.212.171.212/32
+0, 15.161.130.86/32
+0, 15.254.1.17/32
+0, 162.62.33.45/32
+0, 162.62.33.70/32
+0, 162.62.34.10/32
+0, 18.141.176.65/32
+0, 18.156.137.147/32
+0, 18.231.148.103/32
+0, 3.1.80.68/32
+0, 3.25.190.152/32
+0, 3.82.147.36/32
+0, 34.220.160.16/32
+0, 35.154.64.7/32
+0, 35.72.32.125/32
+0, 52.13.150.128/32
+0, 52.13.42.120/32
+0, 52.50.131.212/32
+0, 54.207.168.84/32
+0, 54.248.64.192/32

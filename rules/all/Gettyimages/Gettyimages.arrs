@@ -1,0 +1,35 @@
+# NAME: Gettyimages
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Gettyimages/Gettyimages.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 25
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:44
+
+name = Gettyimages
+2, gettyimages.ae
+2, gettyimages.at
+2, gettyimages.be
+2, gettyimages.ca
+2, gettyimages.ch
+2, gettyimages.co.jp
+2, gettyimages.co.nz
+2, gettyimages.co.uk
+2, gettyimages.com
+2, gettyimages.com.au
+2, gettyimages.com.br
+2, gettyimages.com.mx
+2, gettyimages.de
+2, gettyimages.dk
+2, gettyimages.es
+2, gettyimages.fi
+2, gettyimages.fr
+2, gettyimages.hk
+2, gettyimages.ie
+2, gettyimages.in
+2, gettyimages.it
+2, gettyimages.nl
+2, gettyimages.no
+2, gettyimages.pt
+2, gettyimages.se

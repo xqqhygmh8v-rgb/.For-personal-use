@@ -1,0 +1,14 @@
+# NAME: Arphic
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Arphic/Arphic.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 4
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:55
+
+name = Arphic
+2, arphic.com
+2, arphic.com.cn
+2, arphic.com.tw
+2, ifontcloud.com

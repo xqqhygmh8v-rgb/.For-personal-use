@@ -1,0 +1,67 @@
+# NAME: 17173
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/17173/17173.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 57
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:30
+
+name = 17173
+2, 168kaifu.com
+2, 17173-inc.com
+2, 17173.com
+2, 17173.com.cn
+2, 17173.net
+2, 17173.net.cn
+2, 17173gc.com
+2, 17173ie.cn
+2, 17173ie.com
+2, 17173v.com
+2, 17173vr.com
+2, 17173vr.net
+2, 173.tv
+2, 173fahao.com
+2, 173fh.com
+2, 173ie.cn
+2, 173ie.com
+2, 173ie.net
+2, 173shouyou.cn
+2, 173shouyou.com
+2, 173shouyou.com.cn
+2, 173shouyou.net
+2, 173tuku.com
+2, 173yeyou.cn
+2, 173yeyou.com
+2, 173yeyou.com.cn
+2, 173yeyou.net
+2, 17chacha.com
+2, 1y.com
+2, 1ycdn.com
+2, 2kfb.com
+2, 2p.com
+2, 2pcdn.com
+2, 37wanwan.cn
+2, 37wanwan.com
+2, 37wanwancdn.com
+2, 52cps.cn
+2, 9ria.com
+2, actionscript3.cn
+2, alllget.com
+2, chinafilm-media.com.cn
+2, cy.com
+2, cyie.cn
+2, cyie.com
+2, jgchat.net
+2, kaifu1.com
+2, kaifubiao123.com
+2, kfb126.com
+2, kfb163.com
+2, rtbbox.com
+2, shouyou.com
+2, yeyou.com
+2, yeyoucdn.com
+2, ywshouyou.cn
+2, ywshouyou.com
+2, ywshouyou.net
+2, yyx.com

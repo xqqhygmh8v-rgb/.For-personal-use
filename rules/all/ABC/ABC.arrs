@@ -1,0 +1,16 @@
+# NAME: ABC
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ABC/ABC.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 6
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:30
+
+name = ABC
+2, 95599.cn
+2, abchina.com
+2, bscabank.com
+2, openaboc.cn
+2, openaboc.com
+2, openaboc.com.cn

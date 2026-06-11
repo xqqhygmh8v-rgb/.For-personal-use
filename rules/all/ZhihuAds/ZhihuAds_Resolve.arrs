@@ -1,0 +1,16 @@
+# NAME: ZhihuAds
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ZhihuAds/ZhihuAds_Resolve.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 5
+# SKIPPED: 8
+# UPSTREAM-UPDATED: 2024-01-08 16:00:43
+# SKIPPED-TYPES: URL-REGEX=7, USER-AGENT=1
+
+name = ZhihuAds
+2, appcloud2.in.zhihu.com
+2, mqtt.zhihu.com
+2, sugar.zhihu.com
+0, 118.89.204.198/32
+1, 2402:4e00:1200:ed00:0:9089:6dac:96b6/128

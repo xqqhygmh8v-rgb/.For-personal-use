@@ -1,0 +1,14 @@
+# NAME: ChengTongWangPan
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChengTongWangPan/ChengTongWangPan.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 4
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:53
+
+name = ChengTongWangPan
+2, ctfile.com
+2, ctfile.net
+2, n802.com
+2, tv002.com

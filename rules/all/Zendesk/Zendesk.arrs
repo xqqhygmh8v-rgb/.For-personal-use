@@ -1,0 +1,16 @@
+# NAME: Zendesk
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Zendesk/Zendesk.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 6
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:49
+
+name = Zendesk
+2, outbound.io
+2, zdassets.com
+2, zdusercontent.com
+2, zendesk.com
+2, zndsk.com
+2, zopim.com

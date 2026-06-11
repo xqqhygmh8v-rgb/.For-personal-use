@@ -1,0 +1,13 @@
+# NAME: AmazonTrust
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/AmazonTrust/AmazonTrust.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 3
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:58
+
+name = AmazonTrust
+2, amazontrust.com
+2, awstrust.com
+2, ss2.us

@@ -1,0 +1,108 @@
+# NAME: USMedia
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/USMedia/USMedia.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 97
+# SKIPPED: 4
+# UPSTREAM-UPDATED: 2025-06-06 09:20:02
+# SKIPPED-TYPES: PROCESS-NAME=3, USER-AGENT=1
+
+name = USMedia
+2, espn.api.edge.bamgrid.com
+2, espn.hb.omtrdc.net
+2, espndotcom.tt.omtrdc.net
+2, link.theplatform.com
+2, 112263.com
+2, amlg.io
+2, assetshuluimcom-a.akamaihd.net
+2, callhulu.com
+2, cbs.com
+2, cbsaavideo.com
+2, cbscorporation.com
+2, cbsi.com
+2, cbsi.live.ott.irdeto.com
+2, cbsi.video
+2, cbsiam.com
+2, cbsig.net
+2, cbsimg.net
+2, cbsinteractive.com
+2, cbsistatic.com
+2, cbsivideo.com
+2, cbsnews.com
+2, cbsplaylistserver.aws.syncbak.com
+2, cbspressexpress.com
+2, cbsradio.com
+2, cbsservice.aws.syncbak.com
+2, cbssports.com
+2, cbsstatic.com
+2, cbsstore.com
+2, cbssvideo.com
+2, cbstelevisioncity.com
+2, cws-hulu.conviva.com
+2, dtci.co
+2, dtci.technology
+2, espn.co.uk
+2, espn.com
+2, espn.net
+2, espncdn.com
+2, espnqa.com
+2, findyourlimits.com
+2, freehulu.com
+2, hooloo.tv
+2, hoolu.com
+2, hoolu.tv
+2, hu1u.com
+2, huloo.cc
+2, huloo.tv
+2, hulu.com
+2, hulu.hb.omtrdc.net
+2, hulu.playback.edge.bamgrid.com
+2, hulu.sc.omtrdc.net
+2, hulu.tv
+2, hulu.us
+2, huluaction.com
+2, huluad.com
+2, huluapp.com
+2, huluasks.com
+2, hulucall.com
+2, hulufree.com
+2, hulugans.com
+2, hulugermany.com
+2, hulugo.com
+2, huluim.com
+2, huluinstantmessenger.com
+2, huluitaly.com
+2, hulunet.com
+2, hulunetwork.com
+2, huluplus.com
+2, hulupremium.com
+2, hulupurchase.com
+2, huluqa.com
+2, hulurussia.com
+2, huluspain.com
+2, hulusports.com
+2, hulustream.com
+2, huluteam.com
+2, hulutv.com
+2, huluusa.com
+2, joinmaidez.com
+2, mtvnservices.com
+2, mushymush.tv
+2, myhulu.com
+2, originalhulu.com
+2, paramount.com
+2, paramountplus.com
+2, payhulu.com
+2, pluto.tv
+2, pplusstatic.com
+2, prod.hjholdings.tv
+2, registerhulu.com
+2, showtime.com
+2, thehulubraintrust.com
+2, viacbs.com
+2, viacom.com
+2, viacomcbs.com
+2, viacomcbspressexpress.com
+2, watchespn.com
+2, wwwhuluplus.com

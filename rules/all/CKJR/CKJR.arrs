@@ -1,0 +1,23 @@
+# NAME: CKJR
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/CKJR/CKJR.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 13
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:32
+
+name = CKJR
+2, 51ckjr.com
+2, ckjr001.cn
+2, ckjr001.com
+2, ckjryy.com
+2, meituo.shop
+2, myckjr.cn
+2, myckjr.com
+2, qxckjr.com
+2, sxyckjr.com
+2, tengkackjr.com
+2, tengkaxx.com
+2, tjckjr.com
+2, tkckjr.com

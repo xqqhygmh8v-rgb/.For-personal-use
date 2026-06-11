@@ -1,0 +1,18 @@
+# NAME: DynDNS
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/DynDNS/DynDNS.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 8
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:43
+
+name = DynDNS
+2, blogdns.org
+2, dyn.com
+2, dyndns-ip.com
+2, dyndns-pics.com
+2, dyndns.org
+2, from-pr.com
+2, from-sd.com
+2, is-a-hunter.com

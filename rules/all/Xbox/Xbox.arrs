@@ -1,0 +1,52 @@
+# NAME: Xbox
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Xbox/Xbox.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 42
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:15:09
+
+name = Xbox
+2, img-prod-cms-rt-microsoft-com.akamaized.net
+2, login.live.com
+2, logincdn.msauth.net
+2, store-images.s-microsoft.com
+2, beth.games
+2, bethesda.net
+2, bethesdagamestudios.com
+2, bethsoft.com
+2, callersbane.com
+2, forzamotorsport.net
+2, forzaracingchampionship.com
+2, forzarc.com
+2, gamepass.com
+2, minecraft.net
+2, minecraftshop.com
+2, mojang.com
+2, msgamestudios.com
+2, orithegame.com
+2, renovacionxboxlive.com
+2, tellmewhygame.com
+2, xbox.co
+2, xbox.com
+2, xbox.eu
+2, xbox.org
+2, xbox360.co
+2, xbox360.com
+2, xbox360.eu
+2, xbox360.org
+2, xboxab.com
+2, xboxab.net
+2, xboxgamepass.com
+2, xboxgamestudios.com
+2, xboxlive.cn
+2, xboxlive.com
+2, xboxone.co
+2, xboxone.com
+2, xboxone.eu
+2, xboxplayanywhere.com
+2, xboxservice.com
+2, xboxservices.com
+2, xboxstudios.com
+2, xbx.lv

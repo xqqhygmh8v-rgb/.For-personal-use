@@ -1,0 +1,18 @@
+# NAME: HashiCorp
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/HashiCorp/HashiCorp.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 8
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:53
+
+name = HashiCorp
+2, consul.io
+2, hashicorp.com
+2, nomadproject.io
+2, packer.io
+2, terraform.io
+2, vagrantcloud.com
+2, vagrantup.com
+2, vaultproject.io

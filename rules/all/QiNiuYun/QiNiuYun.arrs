@@ -1,0 +1,63 @@
+# NAME: QiNiuYun
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/QiNiuYun/QiNiuYun.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 53
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:37
+
+name = QiNiuYun
+2, atlab.ai
+2, cdnhub.net
+2, cloudappl.com
+2, clouddn.com
+2, cloudvdn.com
+2, doxygen.io
+2, everbox.net
+2, fusionappl.com
+2, goproxy.cn
+2, kirkcloud.com
+2, niuclass.net
+2, pilidns.com
+2, qbox.me
+2, qbox.net
+2, qibox.com
+2, qiniu-enterprise.com
+2, qiniu-solutions.com
+2, qiniu.co
+2, qiniu.com
+2, qiniu.com.cn
+2, qiniu.in
+2, qiniu.io
+2, qiniu.org
+2, qiniu.us
+2, qiniu.work
+2, qiniuapi.com
+2, qiniuapp.com
+2, qiniublob.com
+2, qiniucc.com
+2, qiniucdn.com
+2, qiniucloud.net
+2, qiniucs.com
+2, qiniudn.com
+2, qiniudns.com
+2, qiniudns.net
+2, qiniudns2.com
+2, qiniug.com
+2, qiniuimg.com
+2, qiniuinc.com
+2, qiniukodo.com
+2, qiniup.com
+2, qiniupkg.com
+2, qiniuqcdn.com
+2, qiniurs.com
+2, qiniutek.com
+2, qnfcdn.com
+2, qnlinking.com
+2, qnqcdn.net
+2, qnsdk.com
+2, qnssl.com
+2, qnydns.com
+2, qnydns.net
+2, staticfile.org

@@ -1,0 +1,13 @@
+# NAME: Tumblr
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Tumblr/Tumblr.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 3
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:48
+
+name = Tumblr
+2, tmblr.co
+2, tumblr.co
+2, tumblr.com

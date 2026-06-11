@@ -1,0 +1,14 @@
+# NAME: iTalkBB
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/iTalkBB/iTalkBB.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 3
+# SKIPPED: 1
+# UPSTREAM-UPDATED: 2025-06-06 09:17:00
+# SKIPPED-TYPES: PROCESS-NAME=1
+
+name = iTalkBB
+2, api.tv.colnv.com
+2, italkbb.com
+2, italkbbtv.com

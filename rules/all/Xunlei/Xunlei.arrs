@@ -1,0 +1,42 @@
+# NAME: Xunlei
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Xunlei/Xunlei.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 31
+# SKIPPED: 1
+# UPSTREAM-UPDATED: 2025-06-06 09:17:29
+# SKIPPED-TYPES: PROCESS-NAME=1
+
+name = Xunlei
+2, 00cdn.com
+2, 155.com
+2, 2sonar.com
+2, 88cdn.com
+2, 8uri.cn
+2, falconalliance.cn
+2, fontong.com
+2, geilijiasu.com
+2, geilijiasu.net
+2, gigaget.com
+2, kanimg.com
+2, kankan.com
+2, kuaipan.cn
+2, n0808.com
+2, neoimaging.cn
+2, newvr.com
+2, p2cdn.com
+2, sandai.net
+2, sjzhushou.com
+2, szxlxzb.com
+2, thundercdn.com
+2, thunderurl.com
+2, xbase.cloud
+2, xbase.xyz
+2, xcloudbase.com
+2, xlisp.net
+2, xlpan.com
+2, xlyouxi.net
+2, xunlei.cn
+2, xunlei.com
+2, xunlei.net

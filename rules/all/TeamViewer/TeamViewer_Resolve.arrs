@@ -1,0 +1,18 @@
+# NAME: TeamViewer
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/TeamViewer/TeamViewer_Resolve.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 8
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:16:56
+
+name = TeamViewer
+2, teamviewer.com
+0, 139.220.243.27/32
+0, 172.16.102.56/32
+0, 221.226.128.146/32
+1, 2a0b:b580::/48
+1, 2a0b:b581::/48
+1, 2a0b:b582::/48
+1, 2a0b:b583::/48

@@ -1,0 +1,39 @@
+# NAME: BBC
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/BBC/BBC.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 28
+# SKIPPED: 1
+# UPSTREAM-UPDATED: 2025-06-06 09:16:56
+# SKIPPED-TYPES: USER-AGENT=1
+
+name = BBC
+2, aod-dash-uk-live.akamaized.net
+2, aod-hls-uk-live.akamaized.net
+2, as-dash-uk-live.akamaized.net
+2, as-hls-uk-live.akamaized.net
+2, vod-dash-uk-live.akamaized.net
+2, vod-dash-ww-live.akamaized.net
+2, vod-hls-uk-live.akamaized.net
+2, vod-sub-uk-live.akamaized.net
+2, vod-thumb-uk-live.akamaized.net
+2, vod-thumb-ww-live.akamaized.net
+2, vs-cmaf-push-uk-live.akamaized.net
+2, bbc
+2, bbc.co
+2, bbc.co.uk
+2, bbc.com
+2, bbc.in
+2, bbc.net.uk
+2, bbcchinese.com
+2, bbcfmt.hs.llnwd.net
+2, bbcfmt.s.llnwi.net
+2, bbci.co
+2, bbci.co.uk
+2, bbcmedia.co.uk
+2, bbcpersian.com
+2, bbcverticals.com
+2, bidi.net.uk
+3, bbcfmt
+3, uk-live

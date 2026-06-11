@@ -1,0 +1,62 @@
+# NAME: AppleMedia
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/AppleMedia/AppleMedia.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 52
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:50
+
+name = AppleMedia
+2, aod.itunes.apple.com
+2, apple.comscoreresearch.com
+2, apple.news
+2, appleenews.com
+2, applemusic.berlin
+2, applemusic.co
+2, applemusic.com
+2, applemusic.com.au
+2, applemusic.hamburg
+2, applemusic.wang
+2, applemusicconnect.com
+2, applemusicfestival.com
+2, applenews.berlin
+2, applenews.hamburg
+2, applenews.tv
+2, applenewsformat.com
+2, appletv.com
+2, appletv.fr
+2, appletv.wang
+2, appletv4.cn
+2, appletv4.com.cn
+2, appletvapp.apple
+2, audio-ssl.itunes.apple.com
+2, audio.itunes.apple.com
+2, blobstore.apple.com
+2, hls-amt.itunes.apple.com
+2, hls.itunes.apple.com
+2, i-book.com
+2, i-book.net
+2, ibook.co.nz
+2, ibook.com
+2, ibook.eu
+2, ibook.net
+2, ibookpartner.com
+2, ibooksauthor.com
+2, imovie.eu
+2, imoviegallery.com
+2, imoviestage.com
+2, iphoto.eu
+2, iphoto.no
+2, iphoto.se
+2, iphoto.wang
+2, musickit.net
+2, mvod.itunes.apple.com
+2, news-assets.apple.com
+2, news-client.apple.com
+2, news-edge.apple.com
+2, news-events.apple.com
+2, play-edge.itunes.apple.com
+2, streamingaudio.itunes.apple.com
+2, tv.apple.com
+2, wwwapplemusic.com

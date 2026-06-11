@@ -1,0 +1,31 @@
+# NAME: Mozilla
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Mozilla/Mozilla.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 21
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:45
+
+name = Mozilla
+2, bugzilla.org
+2, crates.io
+2, docs.rs
+2, extensionworkshop.com
+2, firefox.com
+2, firefox.com.cn
+2, firefoxusercontent.com
+2, getpocket.com
+2, mdn.mozillademos.org
+2, media.prod.mdn.mozit.cloud
+2, mofoprod.net
+2, mozilla.com
+2, mozilla.community
+2, mozilla.net
+2, mozilla.org
+2, pocket-image-cache.com
+2, rust-lang.org
+2, rustup.rs
+2, seamonkey-project.org
+2, sentry.prod.mozaws.net
+2, thunderbird.net

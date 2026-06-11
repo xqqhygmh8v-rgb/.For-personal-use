@@ -1,0 +1,12 @@
+# NAME: TelegramUS
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/TelegramUS/TelegramUS.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 2
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:51
+
+name = TelegramUS
+0, 91.108.12.0/22
+1, 2001:b28:f23d::/48

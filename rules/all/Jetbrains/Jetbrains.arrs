@@ -1,0 +1,24 @@
+# NAME: Jetbrains
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Jetbrains/Jetbrains.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 14
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:44
+
+name = Jetbrains
+2, datalore.io
+2, grazie.ai
+2, intellij.com
+2, intellij.net
+2, intellij.org
+2, jetbrains.ai
+2, jetbrains.com
+2, jetbrains.io
+2, jetbrains.net
+2, jetbrains.org
+2, jetbrains.space
+2, jetbrains.team
+2, kotlinconf.com
+2, kotlinlang.org

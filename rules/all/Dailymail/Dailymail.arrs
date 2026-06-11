@@ -1,0 +1,27 @@
+# NAME: Dailymail
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Dailymail/Dailymail.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 17
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:43
+
+name = Dailymail
+2, anm.co.uk
+2, dailym.ai
+2, dailymail.co.uk
+2, dailymail.com
+2, dailymail.com.au
+2, dailymail.dk
+2, dailymailonline.com
+2, dmgmediaprivacy.co.uk
+2, mailhealth.com
+2, mailonline.co.uk
+2, mailonline.com
+2, mailonsunday.co.uk
+2, mailonsunday.ie
+2, metro.co.uk
+2, mol.im
+2, thisismoney.co.uk
+2, thismon.ee

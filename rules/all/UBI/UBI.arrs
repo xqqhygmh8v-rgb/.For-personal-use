@@ -1,0 +1,15 @@
+# NAME: UBI
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/UBI/UBI.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 5
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:15:09
+
+name = UBI
+2, ubi.com
+2, ubisoft-orbit-savegames.s3.amazonaws.com
+2, ubisoft-uplay-savegames.s3.amazonaws.com
+2, ubisoft.com
+2, uplay.com

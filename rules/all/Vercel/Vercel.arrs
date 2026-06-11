@@ -1,0 +1,37 @@
+# NAME: Vercel
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Vercel/Vercel.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 27
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:48
+
+name = Vercel
+2, err.sh
+2, hyper.is
+2, nextjs.org
+2, now.sh
+2, static.fun
+2, title.sh
+2, turborepo.org
+2, vercel-analytics.com
+2, vercel-dns.com
+2, vercel-insights.com
+2, vercel-status.com
+2, vercel.app
+2, vercel.blog
+2, vercel.com
+2, vercel.events
+2, vercel.link
+2, vercel.live
+2, vercel.pub
+2, vercel.sh
+2, vercel.store
+2, zeit-world.co.uk
+2, zeit-world.com
+2, zeit-world.net
+2, zeit-world.org
+2, zeit.co
+2, zeit.sh
+2, zeitworld.com

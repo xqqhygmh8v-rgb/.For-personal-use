@@ -1,0 +1,17 @@
+# NAME: Movefree
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Movefree/Movefree.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 7
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:54
+
+name = Movefree
+2, keepmovingwithmovefree.com
+2, move-free.net
+2, movefree.cn
+2, movefreeoffers.com
+2, movefreerewards.com
+2, movefrees.com
+2, schiffvitamins.com

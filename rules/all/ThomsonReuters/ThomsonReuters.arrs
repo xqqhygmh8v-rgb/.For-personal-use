@@ -1,0 +1,41 @@
+# NAME: ThomsonReuters
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ThomsonReuters/ThomsonReuters.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 31
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:48
+
+name = ThomsonReuters
+2, aranzadi.es
+2, corepublishingsolutions.com
+2, elite.com
+2, legaltracker.com
+2, livrariart.com.br
+2, reuters.com
+2, reuters.tv
+2, reutersagency.cn
+2, reutersmedia.net
+2, sweetandmaxwell.co.uk
+2, thomsonreuters.ca
+2, thomsonreuters.cn
+2, thomsonreuters.co.jp
+2, thomsonreuters.co.kr
+2, thomsonreuters.co.nz
+2, thomsonreuters.co.uk
+2, thomsonreuters.com
+2, thomsonreuters.com.ar
+2, thomsonreuters.com.au
+2, thomsonreuters.com.br
+2, thomsonreuters.com.hk
+2, thomsonreuters.com.my
+2, thomsonreuters.com.pe
+2, thomsonreuters.com.sg
+2, thomsonreuters.com.tr
+2, thomsonreuters.es
+2, thomsonreuters.in
+2, thomsonreuters.ru
+2, thomsonreutersmexico.com
+2, tmsnrt.rs
+2, tr.com

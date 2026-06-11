@@ -1,0 +1,37 @@
+# NAME: DuoWan
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/DuoWan/DuoWan.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 27
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:24
+
+name = DuoWan
+2, 5253.com
+2, bcshipgo.com
+2, bigda.com
+2, blogchina.org
+2, c19ce66ff87253fdda68740edcb7ce3b.v.smtcdns.net
+2, chinaduo.com
+2, duowan.cn
+2, duowan.com
+2, duowan.com.cn
+2, dwstatic.com
+2, hiido.cn
+2, hiido.com
+2, hiido.net
+2, huanju.cn
+2, huanju.net
+2, huanjuyun.com
+2, joyy.com
+2, joyyinc.com
+2, joyyued.com
+2, pikoplay.com
+2, vooedit.com
+2, yy.com
+2, yy.com.cn
+2, yyclouds.com
+2, yygamedev.com
+2, yystatic.com
+2, zhiniu8.com

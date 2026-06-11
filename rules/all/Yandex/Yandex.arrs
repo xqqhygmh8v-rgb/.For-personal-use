@@ -1,0 +1,62 @@
+# NAME: Yandex
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Yandex/Yandex.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 52
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:49
+
+name = Yandex
+2, xn--d1acpjx3f.xn--p1ai
+2, ya.ru
+2, yadi.sk
+2, yandex
+2, yandex.aero
+2, yandex.az
+2, yandex.by
+2, yandex.co.il
+2, yandex.com
+2, yandex.com.am
+2, yandex.com.ge
+2, yandex.com.ru
+2, yandex.com.tr
+2, yandex.com.ua
+2, yandex.de
+2, yandex.ee
+2, yandex.eu
+2, yandex.fi
+2, yandex.fr
+2, yandex.jobs
+2, yandex.kg
+2, yandex.kz
+2, yandex.lt
+2, yandex.lv
+2, yandex.md
+2, yandex.net
+2, yandex.ru
+2, yandex.st
+2, yandex.sx
+2, yandex.tj
+2, yandex.tm
+2, yandex.ua
+2, yandex.uz
+2, yastatic.net
+0, 100.43.64.0/19
+0, 141.8.128.0/18
+0, 178.154.128.0/18
+0, 178.154.192.0/19
+0, 185.32.187.0/24
+0, 199.21.96.0/22
+0, 199.36.240.0/22
+0, 213.180.192.0/19
+0, 37.140.128.0/18
+0, 37.9.64.0/18
+0, 5.255.192.0/18
+0, 5.45.192.0/18
+0, 77.88.0.0/18
+0, 87.250.224.0/19
+0, 93.158.128.0/18
+0, 95.108.128.0/17
+1, 2620:10f:d000::/44
+1, 2a02:6b8::/29

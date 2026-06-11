@@ -1,0 +1,33 @@
+# NAME: Westerndigital
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Westerndigital/Westerndigital.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 23
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:48
+
+name = Westerndigital
+2, g-technology.com
+2, sandisk.ae
+2, sandisk.cn
+2, sandisk.co.jp
+2, sandisk.co.kr
+2, sandisk.co.uk
+2, sandisk.com
+2, sandisk.com.au
+2, sandisk.com.br
+2, sandisk.com.tr
+2, sandisk.com.tw
+2, sandisk.de
+2, sandisk.es
+2, sandisk.fr
+2, sandisk.hk
+2, sandisk.id
+2, sandisk.in
+2, sandisk.it
+2, sandisk.nl
+2, sandisk.sg
+2, wd.com
+2, wdc.com
+2, westerndigital.com

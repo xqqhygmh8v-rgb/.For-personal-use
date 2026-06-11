@@ -1,0 +1,48 @@
+# NAME: TaiKang
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/TaiKang/TaiKang.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 38
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:38
+
+name = TaiKang
+2, 12333tc.com
+2, 95522.cn
+2, 95522.com.cn
+2, 95522.net.cn
+2, bjsjsch12333.com
+2, changhu12333.com
+2, eagent.cn
+2, gzch12333.com
+2, jmch12333.com
+2, jxch12333.com
+2, qqhrch12333.com
+2, sdhz12333.com
+2, sdrz12333.com
+2, shzch12333.com
+2, srch12333.cn
+2, taihealthcare.com
+2, taikang.com
+2, taikang.net.cn
+2, taikangfoundation.org.cn
+2, taikanginv.com
+2, taikanglife.cn
+2, taikanglife.com
+2, taikanglife.com.cn
+2, taikanglife.net
+2, taikanglife.net.cn
+2, taikangonline.cn
+2, taikangonline.com
+2, taikangonline.net
+2, taikangonline.net.cn
+2, taikangph.com
+2, taikangzhijia.com
+2, tanxingfuli.cn
+2, tanxingfuli.com
+2, tanxingfuli.com.cn
+2, tk-life.com
+2, tk.cn
+2, tkhealthcare.com
+2, tkmedicare.com

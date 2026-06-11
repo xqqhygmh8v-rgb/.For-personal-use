@@ -1,0 +1,21 @@
+# NAME: HoYoverse
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/HoYoverse/HoYoverse.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 11
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:25
+
+name = HoYoverse
+2, genshinimpact.com
+2, honkaiimpact3.com
+2, honkaistarrail.com
+2, hoyo.link
+2, hoyolab.com
+2, hoyoverse.com
+2, juequling.com
+2, n0vadesktop.com
+2, starrails.com
+2, themisweeps.com
+2, yuanshen.com

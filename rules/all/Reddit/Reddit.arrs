@@ -1,0 +1,18 @@
+# NAME: Reddit
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Reddit/Reddit.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 8
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:47
+
+name = Reddit
+2, redd.it
+2, reddit.com
+2, redditmail.com
+2, redditmedia.com
+2, redditstatic.com
+2, reddituploads.com
+2, reddituploads.com.cdn-cf.behance.net
+2, reddituploads.com.cdn-cf.dropbox.com

@@ -1,0 +1,30 @@
+# NAME: Privacy
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Privacy/Privacy_Resolve.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 20
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-12-08 02:06:16
+
+name = Privacy
+3, analytics.
+3, app-analytics
+3, app-log.
+3, applog.
+3, fzlm
+3, ios-log.
+3, ioslog.
+3, pc-log.
+3, pclog.
+0, 0.0.0.1/32
+0, 109.123.233.251/32
+0, 157.148.47.204/32
+0, 185.193.38.148/32
+0, 219.143.187.136/32
+0, 34.215.155.61/32
+0, 35.194.26.233/32
+0, 35.239.57.233/32
+0, 44.228.85.26/32
+0, 45.32.105.134/32
+0, 77.162.125.199/32

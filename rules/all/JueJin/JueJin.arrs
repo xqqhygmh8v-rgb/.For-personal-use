@@ -1,0 +1,22 @@
+# NAME: JueJin
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/JueJin/JueJin.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 12
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:35
+
+name = JueJin
+2, b-gold-cdn.xitu.io
+2, juejin.im
+2, mirror-gold-cdn.xitu.io
+2, p1-juejin.byteimg.com
+2, p2-juejin.byteimg.com
+2, p3-juejin.byteimg.com
+2, p4-juejin.byteimg.com
+2, p5-juejin.byteimg.com
+2, p6-juejin.byteimg.com
+2, p7-juejin.byteimg.com
+2, p8-juejin.byteimg.com
+2, p9-juejin.byteimg.com

@@ -1,0 +1,35 @@
+# NAME: McDonalds
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/McDonalds/McDonalds.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 25
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:45
+
+name = McDonalds
+2, 4008-517-517.cn
+2, aboutmcdonalds.com
+2, happymeal.co.nz
+2, happymeal.com.au
+2, mcd.com
+2, mcdelivery.co.id
+2, mcdelivery.co.kr
+2, mcdelivery.com.au
+2, mcdelivery.com.my
+2, mcdelivery.com.sg
+2, mcdelivery.com.tw
+2, mcdindonesia.com
+2, mcdonalds.ca
+2, mcdonalds.co.uk
+2, mcdonalds.com
+2, mcdonalds.com.cn
+2, mcdonalds.com.hk
+2, mcdonalds.hk
+2, mcdonalds.it
+2, mcdonalds.no
+2, mcdonalds.se
+2, mcdonaldsarabia.com
+2, mcdonaldsparties.co.nz
+2, mcdonaldsparties.com.au
+2, xn--qhrx81fxh2a.xn--55qx5d.hk

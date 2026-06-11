@@ -1,0 +1,14 @@
+# NAME: HP
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/HP/HP.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 4
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:44
+
+name = HP
+2, hp.com
+2, hpstore-china.com
+2, hpstore.com
+2, hpstore.corpmerchandise.com

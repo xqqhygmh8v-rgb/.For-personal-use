@@ -1,0 +1,20 @@
+# NAME: Japonx
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Japonx/Japonx.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 10
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:16:58
+
+name = Japonx
+2, japonx.com
+2, japonx.net
+2, japonx.tv
+2, japonx.vip
+2, japronx.com
+2, japronx.net
+2, japronx.tv
+2, japronx.vip
+3, japonx
+3, japronx

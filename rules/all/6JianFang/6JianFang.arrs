@@ -1,0 +1,29 @@
+# NAME: 6JianFang
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/6JianFang/6JianFang.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 19
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:34
+
+name = 6JianFang
+2, 6.cn
+2, 6.com.cn
+2, 6imgcss.cn
+2, 6resource.cn
+2, 6rooms.com
+2, 6static.cn
+2, 6staticcdn.cn
+2, 6webimg.cn
+2, ccpod.com
+2, faceroom.cn
+2, footbig.com
+2, huanpeng.com
+2, imgjs6.cn
+2, luyanhui.com
+2, sixresource.cn
+2, sixstatic.cn
+2, webimgs.cn
+2, wwwstatic.cn
+2, xiu123.cn

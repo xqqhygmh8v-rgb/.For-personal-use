@@ -1,0 +1,41 @@
+# NAME: SuNing
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/SuNing/SuNing.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 31
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:38
+
+name = SuNing
+2, 10035.com.cn
+2, chinadzfp.com
+2, cloudytrace.cn
+2, cloudytrace.com
+2, cloudytrace.org
+2, cnsuning.com
+2, laox.cn
+2, pinjiago.cn
+2, pinjiago.com
+2, redbaby.com.cn
+2, sndlj.cn
+2, snqrc.cn
+2, suning.cn
+2, suning.com
+2, suningcdn.cn
+2, suningcdn.com
+2, suningcdn.net
+2, suningcloud.com
+2, suningdns.cn
+2, suningdns.com
+2, suningdns.net
+2, suningestate.com
+2, suninggslb.cn
+2, suninggslb.net
+2, suningholdings.com
+2, suninghotel.com
+2, suningmail.com
+2, suningyunyou.cn
+2, suningyunyou.com
+2, wuliuyun.com
+2, yifubao.com

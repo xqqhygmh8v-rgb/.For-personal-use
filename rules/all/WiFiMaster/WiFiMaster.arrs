@@ -1,0 +1,72 @@
+# NAME: WiFiMaster
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/WiFiMaster/WiFiMaster.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 62
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:39
+
+name = WiFiMaster
+2, 51huitu.cn
+2, 51lstt.com
+2, 51newsapp.com
+2, 51y5.com
+2, 51y5.net
+2, cekeis.com
+2, createwf.com
+2, gamewifi.net
+2, glinksure.com
+2, happykey6.com
+2, ieeewifi.com
+2, ilinksure.com
+2, im-ch.com
+2, lianliantao.cn
+2, lianliantao.com.cn
+2, lianliantao.net
+2, lianliantaoshop.com
+2, lianwangtech.com
+2, lianwifi.com
+2, llsttapp.com
+2, lneab.com
+2, lsgenius.com
+2, lstt-app.com
+2, lsttapp.com
+2, lsttappmoney.com
+2, lsttapppro.com
+2, lsttappspace.com
+2, lsttappweb.com
+2, lsttappworks.com
+2, lsttmoney.com
+2, lsttnews.com
+2, lsttonline.com
+2, lsttpro.com
+2, lsttrich.com
+2, lsttweb.com
+2, lsttworks.com
+2, newsapp01.com
+2, readdsp.com
+2, swaqds.com
+2, tdtbd.com
+2, toutiaogood.com
+2, ttnea.com
+2, v.to
+2, wifi.com
+2, wifi188.com
+2, wifi6667.com
+2, wifiapi.net
+2, wificstia.com
+2, wifidigyy.com
+2, wifinew.com
+2, wifinews.com
+2, wifiniu.com
+2, wifisdk.net
+2, wifivpn.net
+2, wkanx.com
+2, wkopen.com
+2, xiaoyiads.com
+2, xinwengood.com
+2, y5api.com
+2, y5news.com
+2, y5store.com
+2, zenmen.com

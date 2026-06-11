@@ -1,0 +1,29 @@
+# NAME: PPTV
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/PPTV/PPTV.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 19
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:37
+
+name = PPTV
+2, bkrent.cn
+2, g1d.net
+2, iptv.com.cn
+2, jiwunote.com.cn
+2, kidkk.cn
+2, kidpp.cn
+2, kidsn.cn
+2, kidyy.cn
+2, pplive.cn
+2, pplive.com
+2, pplive.com.cn
+2, pplive.net
+2, pptv.com
+2, pptvdata.com
+2, pptvimg.com
+2, pptvnet.com
+2, pptvyun.com
+2, snrent.cn
+2, synacast.com

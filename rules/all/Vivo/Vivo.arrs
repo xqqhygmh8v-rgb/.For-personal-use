@@ -1,0 +1,24 @@
+# NAME: Vivo
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Vivo/Vivo.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 14
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:39
+
+name = Vivo
+2, bbk.com
+2, bbktel.com.cn
+2, funtouchos.com
+2, gdbbk.com
+2, iqoo.com
+2, vivo.cn
+2, vivo.com
+2, vivo.com.cn
+2, vivo.xyz
+2, vivoglobal.com
+2, vivosjpt.com
+2, vivotc.com
+2, vmic.xyz
+2, vsearch.club

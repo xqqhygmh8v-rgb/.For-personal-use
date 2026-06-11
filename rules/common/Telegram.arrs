@@ -1,0 +1,55 @@
+# NAME: Telegram
+# GENERATED-FOR: Anywhere Routing Rule Set
+# DESCRIPTION: Telegram 域名与 IP
+# RULES: 45
+# SKIPPED: 5
+# SKIPPED-TYPES: IP-ASN=5
+# SOURCES:
+# - https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Telegram.list
+
+name = Telegram
+2, comments.app
+2, contest.com
+2, graph.org
+2, legra.ph
+2, mbrx.app
+2, quiz.directory
+2, stel.com
+2, t.me
+2, tdesktop.com
+2, telega.one
+2, telegra.ph
+2, telegram-cdn.org
+2, cdn-telegram.org
+2, telegram.dog
+2, telegram.me
+2, telegram.org
+2, telegram.space
+2, telegramdownload.com
+2, telesco.pe
+2, tg.dev
+2, tx.me
+2, usercontent.dev
+3, telegram
+2, events-gateway.ncdev.site
+2, walletbot.me
+3, nicegram
+2, api.mixpanel.com
+2, imem.app
+2, swiftgram.app
+2, iturrit.com
+0, 91.108.12.0/22
+1, 2a0a:f280::/32
+0, 91.108.20.0/22
+1, 2001:b28:f23c::/48
+0, 91.105.192.0/23
+0, 185.76.151.0/24
+0, 149.154.160.0/20
+0, 91.108.4.0/22
+0, 91.108.8.0/22
+1, 2001:b28:f23d::/48
+1, 2001:67c:4e8::/48
+0, 91.108.16.0/22
+0, 91.108.56.0/22
+1, 2001:b28:f23f::/48
+0, 5.28.192.0/18

@@ -1,0 +1,26 @@
+# NAME: NYTimes
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/NYTimes/NYTimes.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 16
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:16:59
+
+name = NYTimes
+2, d1f1eryiqyjs0r.cloudfront.net
+2, d3lar09xbwlsge.cloudfront.net
+2, d3q1qj9jzsu8nw.cloudfront.net
+2, dc8xl0ndzn2cb.cloudfront.net
+2, nyt.com
+2, nyt.net
+2, nytchina.com
+2, nytcn.me
+2, nytco.com
+2, nyti.ms
+2, nytimes.com
+2, nytimg.com
+2, nytlog.com
+2, nytstyle.com
+2, timestalks.com
+2, tynt.com

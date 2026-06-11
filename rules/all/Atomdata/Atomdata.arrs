@@ -1,0 +1,13 @@
+# NAME: Atomdata
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Atomdata/Atomdata.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 3
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:53
+
+name = Atomdata
+2, analytics-data.io
+2, atom-data.io
+2, ironbeast.io

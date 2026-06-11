@@ -1,0 +1,79 @@
+# NAME: ChinaTest
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaTest/ChinaTest.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 68
+# SKIPPED: 31
+# UPSTREAM-UPDATED: 2026-06-10 02:48:04
+# SKIPPED-TYPES: USER-AGENT=31
+
+name = ChinaTest
+2, cn
+2, ms
+2, alibaba
+2, alipay
+2, baidu
+2, citic
+2, icbc
+2, sohu
+2, taobao
+2, tmall
+2, unicom
+2, wang
+2, xn--1qqw23a
+2, xn--3bst00m
+2, xn--3ds443g
+2, xn--55qw42g
+2, xn--55qx5d
+2, xn--5tzm5g
+2, xn--6frz82g
+2, xn--6qq986b3xl
+2, xn--8y0a063a
+2, xn--9et52u
+2, xn--czr694b
+2, xn--czrs0t
+2, xn--czru2d
+2, xn--fiq228c5hs
+2, xn--fiq64b
+2, xn--fiqs8s
+2, xn--fiqz9s
+2, xn--fjq720a
+2, xn--g2xx48c
+2, xn--hxt814e
+2, xn--imr513n
+2, xn--io0a7i
+2, xn--kput3i
+2, xn--nyqy26a
+2, xn--otu796d
+2, xn--rhqv96g
+2, xn--ses554g
+2, xn--unup4y
+2, xn--vhquv
+2, xn--vuq861b
+2, xn--xhq521b
+2, xn--zfr164b
+3, .tmall.com
+3, alicdn
+3, alipay
+3, aliyun
+3, baidu
+3, beplay
+3, microsoft
+3, officecdn
+3, taobao
+0, 1.255.62.0/24
+0, 101.32.118.0/23
+0, 101.32.96.0/20
+0, 119.28.28.28/32
+0, 120.195.181.180/32
+0, 129.226.0.0/16
+0, 182.254.116.0/24
+0, 183.128.0.0/11
+0, 185.188.32.0/22
+0, 203.205.238.0/23
+0, 203.205.254.0/23
+1, 2a0b:b580::/48
+1, 2a0b:b581::/48
+1, 2a0b:b582::/48
+1, 2a0b:b583::/48

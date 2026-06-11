@@ -1,0 +1,21 @@
+# NAME: AnTianKeJi
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/AnTianKeJi/AnTianKeJi.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 11
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:31
+
+name = AnTianKeJi
+2, antiy.cn
+2, antiy.com
+2, antiy.net.cn
+2, antiycloud.com
+2, avlinsight.com
+2, avlsec.com
+2, avlyun.cn
+2, avlyun.com
+2, avlyun.net
+2, avlyun.org
+2, cloud-backup.com.cn

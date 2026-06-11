@@ -1,0 +1,41 @@
+# NAME: AsianMedia
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/AsianMedia/AsianMedia_Resolve.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 31
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:16:56
+
+name = AsianMedia
+2, akmcdnoversea-tw.inter.iqiyi.com
+2, akmcdnoversea-tw.inter.ptqy.gitv.tv
+2, api.biliapi.com
+2, api.biliapi.net
+2, api.bilibili.com
+2, app.biliapi.com
+2, app.biliapi.net
+2, app.bilibili.com
+2, cache.video.iqiyi.com
+2, chuangcachecdnoversea-tw.inter.iqiyi.com
+2, chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
+2, grpc.biliapi.net
+2, intl-rcd.iqiyi.com
+2, intl-subscription.iqiyi.com
+2, intl.iqiyi.com
+2, m.bilibili.com
+2, mobileso.bz.mgtv.com
+2, upos-hz-mirrorakam.akamaized.net
+2, www.bilibili.com
+2, api.mgtv.com
+2, iq.com
+2, wetv.vip
+2, wetvinfo.com
+3, cn-hk-eq-bcache-
+0, 103.44.56.0/22
+0, 116.211.202.206/32
+0, 116.211.202.216/32
+0, 118.26.120.0/24
+0, 118.26.32.0/23
+0, 23.40.241.251/32
+0, 23.40.242.10/32

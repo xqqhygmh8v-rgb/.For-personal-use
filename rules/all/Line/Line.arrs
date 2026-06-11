@@ -1,0 +1,34 @@
+# NAME: Line
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Line/Line.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 24
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:16:54
+
+name = Line
+2, lin.ee
+2, line-apps.com
+2, line-cdn.net
+2, line-scdn.net
+2, line.me
+2, linecorp.com
+2, naver.jp
+2, nhncorp.jp
+0, 103.2.28.0/22
+0, 119.235.224.0/21
+0, 119.235.232.0/23
+0, 119.235.235.0/24
+0, 119.235.236.0/23
+0, 125.209.208.0/20
+0, 125.209.252.103/32
+0, 125.209.252.208/32
+0, 125.6.146.0/24
+0, 125.6.149.0/24
+0, 125.6.190.0/24
+0, 147.92.128.0/17
+0, 203.104.103.0/24
+0, 203.104.128.0/19
+0, 203.174.66.64/26
+0, 203.174.77.0/24

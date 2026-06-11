@@ -1,0 +1,14 @@
+# NAME: AOL
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/AOL/AOL.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 4
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:42
+
+name = AOL
+2, aol.ca
+2, aol.co.uk
+2, aol.com
+2, aolnews.com

@@ -1,0 +1,105 @@
+# NAME: IKEA
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/IKEA/IKEA.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 95
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:19:14
+
+name = IKEA
+2, ikea.ae
+2, ikea.at
+2, ikea.au
+2, ikea.be
+2, ikea.bg
+2, ikea.bh
+2, ikea.ca
+2, ikea.ch
+2, ikea.cl
+2, ikea.cn
+2, ikea.co.at
+2, ikea.co.ca
+2, ikea.co.de
+2, ikea.co.id
+2, ikea.co.il
+2, ikea.co.jp
+2, ikea.co.kr
+2, ikea.co.om
+2, ikea.co.ph
+2, ikea.co.pl
+2, ikea.co.th
+2, ikea.co.uk
+2, ikea.com
+2, ikea.com.au
+2, ikea.com.cy
+2, ikea.com.de
+2, ikea.com.do
+2, ikea.com.eg
+2, ikea.com.gr
+2, ikea.com.hk
+2, ikea.com.in
+2, ikea.com.kw
+2, ikea.com.lv
+2, ikea.com.mx
+2, ikea.com.my
+2, ikea.com.om
+2, ikea.com.pl
+2, ikea.com.pr
+2, ikea.com.pt
+2, ikea.com.ro
+2, ikea.com.ru
+2, ikea.com.sa
+2, ikea.com.sg
+2, ikea.com.tr
+2, ikea.com.tw
+2, ikea.com.ua
+2, ikea.cz
+2, ikea.de
+2, ikea.dk
+2, ikea.do
+2, ikea.ee
+2, ikea.eg
+2, ikea.es
+2, ikea.fi
+2, ikea.fr
+2, ikea.gr
+2, ikea.hk
+2, ikea.hr
+2, ikea.hu
+2, ikea.ie
+2, ikea.in
+2, ikea.is
+2, ikea.it
+2, ikea.jo
+2, ikea.jp
+2, ikea.kr
+2, ikea.lt
+2, ikea.lv
+2, ikea.ma
+2, ikea.mx
+2, ikea.my
+2, ikea.net
+2, ikea.nl
+2, ikea.no
+2, ikea.om
+2, ikea.ph
+2, ikea.pl
+2, ikea.pr
+2, ikea.pt
+2, ikea.qa
+2, ikea.ro
+2, ikea.rs
+2, ikea.ru
+2, ikea.sa
+2, ikea.sg
+2, ikea.si
+2, ikea.sk
+2, ikea.ua
+2, ikea.us
+2, ingka-dt.cn
+2, ingka-internal.cn
+2, ingka-system.cn
+2, ingka.com
+2, ingka.dev
+2, ingkacentres.com

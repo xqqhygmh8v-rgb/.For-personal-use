@@ -1,0 +1,16 @@
+# NAME: HKBN
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/HKBN/HKBN.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 6
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:44
+
+name = HKBN
+2, csifund.org
+2, hkbn.com.hk
+2, hkbn.net
+2, hkbnes.net
+2, jos.com
+2, speedtest.com.hk

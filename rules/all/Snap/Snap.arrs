@@ -1,0 +1,16 @@
+# NAME: Snap
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Snap/Snap.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 6
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:47
+
+name = Snap
+2, sc-cdn.net
+2, snap-dev.net
+2, snap.com
+2, snapads.com
+2, snapchat.com
+2, snapkit.co

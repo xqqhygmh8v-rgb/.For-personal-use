@@ -1,0 +1,12 @@
+# NAME: VikACG
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/VikACG/VikACG.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 2
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:19:14
+
+name = VikACG
+2, picjs.xyz
+2, vikacg.com

@@ -1,0 +1,33 @@
+# NAME: TianWeiChengXin
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/TianWeiChengXin/TianWeiChengXin.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 23
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:38
+
+name = TianWeiChengXin
+2, 4006663999.cn
+2, 6rencn.com
+2, dcocsp.cn
+2, ev-ssl.cn
+2, ev-ssl.com.cn
+2, fxg365.cn
+2, helloid.cn
+2, itrus.cn
+2, itrus.com
+2, itrus.com.cn
+2, itrus.net.cn
+2, itruscloud.com
+2, itrusign.cn
+2, itrusign.com
+2, mingjian365.cn
+2, mingjian365.com
+2, mingjian365.net
+2, mj365.club
+2, mj365.site
+2, mj365.vip
+2, nowhttps.com
+2, yunssl.cn
+2, yunssl.com

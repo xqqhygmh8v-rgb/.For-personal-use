@@ -1,0 +1,22 @@
+# NAME: Manorama
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Manorama/Manorama.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 12
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:45
+
+name = Manorama
+2, malayalamanorama.com
+2, manorama.com
+2, manoramanews.com
+2, manoramaonline.com
+2, manoramayearbook.in
+2, onmanorama.com
+2, radiomango.fm
+2, theman.in
+2, theweek.in
+2, vanitaonline.com
+2, vanitha.in
+2, vanithaveedu.com

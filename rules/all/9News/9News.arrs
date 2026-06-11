@@ -1,0 +1,24 @@
+# NAME: 9News
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/9News/9News.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 14
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:41
+
+name = 9News
+2, 9cdn.net
+2, 9nation.com.au
+2, 9news.com.au
+2, 9now.com.au
+2, freeviewplus.net.au
+2, mi9.com.au
+2, mi9cdn.com
+2, nine.com.au
+2, nineentertainment.com.au
+2, nineentertainmentco.com.au
+2, ninemediaroom.com.au
+2, ninemsn.com.au
+2, static9.net.au
+2, yourtv.com.au

@@ -1,0 +1,28 @@
+# NAME: MingLueZhaoHui
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/MingLueZhaoHui/MingLueZhaoHui.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 18
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:36
+
+name = MingLueZhaoHui
+2, 3wnet.cn
+2, admonitor.org
+2, grpindex.com
+2, miaozhen.cn
+2, miaozhen.com
+2, mlt.pub
+2, momentad.com
+2, mzfile.com
+2, mzhen.cn
+2, mzhen.com
+2, mzsvn.com
+2, stfile.com
+2, supertool.net.cn
+2, touchjoin.com
+2, touchjoint.com
+2, withdata.cn
+2, withwinds.com
+2, xueto.com

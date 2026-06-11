@@ -1,0 +1,13 @@
+# NAME: HWTV
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/HWTV/HWTV.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 2
+# SKIPPED: 1
+# UPSTREAM-UPDATED: 2025-06-06 09:16:58
+# SKIPPED-TYPES: USER-AGENT=1
+
+name = HWTV
+2, 5itv.tv
+2, ocnttv.com

@@ -1,0 +1,44 @@
+# NAME: ifanr
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ifanr/ifanr.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 34
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:41
+
+name = ifanr
+2, 01hub.com
+2, app.so
+2, appsolution.cc
+2, bitbe.at
+2, coolbuy.com
+2, dongchehui.net
+2, fabu.io
+2, haomaishe.com
+2, ifanr.cn
+2, ifanr.com
+2, ifanr.in
+2, ifanrcloud.com
+2, ifanrprod.cn
+2, ifanrprod.com
+2, ifanrprod.net
+2, ifanrusercontent.com
+2, ifdesigninc.cn
+2, ifdesignstudio.cn
+2, jmp.gd
+2, menhu.io
+2, minapp.com
+2, mindstore.io
+2, minshop.com
+2, socialbase.cn
+2, socialbasecustomercontent.com
+2, socialbaseusercontent.com
+2, triorder.com
+2, tyqian.com
+2, wantwu.com
+2, weimen.hu
+2, wuzhii.com
+2, xiaoapp.io
+2, xiaoma.io
+2, zhixiaochengxu.com

@@ -1,0 +1,17 @@
+# NAME: FOXPlus
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/FOXPlus/FOXPlus.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 7
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:01:08
+
+name = FOXPlus
+2, cdn-fox-networks-group-green.akamaized.net
+2, d3cv4a9a9wh0bt.cloudfront.net
+2, foxsports01-i.akamaihd.net
+2, foxsports02-i.akamaihd.net
+2, foxsports03-i.akamaihd.net
+2, staticasiafox.akamaized.net
+2, foxplus.com

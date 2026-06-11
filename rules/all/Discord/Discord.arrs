@@ -1,0 +1,39 @@
+# NAME: Discord
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Discord/Discord.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 29
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:16:55
+
+name = Discord
+2, airhorn.solutions
+2, airhornbot.com
+2, bigbeans.solutions
+2, dis.gd
+2, discord-activities.com
+2, discord-attachments-uploads-prd.storage.googleapis.com
+2, discord.co
+2, discord.com
+2, discord.design
+2, discord.dev
+2, discord.gg
+2, discord.gift
+2, discord.gifts
+2, discord.media
+2, discord.new
+2, discord.store
+2, discord.tools
+2, discordactivities.com
+2, discordapp.com
+2, discordapp.io
+2, discordapp.net
+2, discordapp.page.link
+2, discordcdn.com
+2, discordmerch.com
+2, discordpartygames.com
+2, discordsays.com
+2, discordstatus.com
+2, hammerandchisel.ssl.zendesk.com
+2, watchanimeattheoffice.com

@@ -1,0 +1,25 @@
+# NAME: Garena
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Garena/Garena.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 15
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:15:09
+
+name = Garena
+2, avatargarenanow-a.akamaihd.net
+2, cdngarenanow-a.akamaihd.net
+2, dlmobilegarena-a.akamaihd.net
+2, garena.co.id
+2, garena.co.th
+2, garena.com
+2, garena.live
+2, garena.my
+2, garena.ph
+2, garena.sg
+2, garena.tv
+2, garena.tw
+2, garena.vn
+2, garenanow.com
+2, seagroup.com

@@ -1,0 +1,17 @@
+# NAME: Mojitianqi
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Mojitianqi/Mojitianqi.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 7
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:37
+
+name = Mojitianqi
+2, airnut.com
+2, moji.com
+2, mojicb.com
+2, mojichina.com
+2, mojitest.com
+2, moweather.com
+2, xiaomo.cn

@@ -1,0 +1,39 @@
+# NAME: WanKaHuanJu
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/WanKaHuanJu/WanKaHuanJu.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 29
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:24
+
+name = WanKaHuanJu
+2, daxianglingke.cn
+2, daxianglingke.com
+2, daxianglingke.com.cn
+2, daxianglink.cn
+2, daxianglink.com
+2, daxianglink.com.cn
+2, gdsa.com
+2, gm825.cn
+2, gm825.com
+2, gm825.com.cn
+2, gm825.net
+2, hapjs.org
+2, ita-alliance.com
+2, itgsa.com
+2, mhacn.cn
+2, mhacn.com
+2, mhacn.com.cn
+2, mhacn.net
+2, quickapp.cn
+2, quickingdata.com
+2, quicklyopen.com
+2, shenyinhudong.cn
+2, shenyinhudong.com
+2, so-quick.cn
+2, wankacn.cn
+2, wankacn.com
+2, wankacn.com.cn
+2, wankacn.net
+2, wankamall.com

@@ -1,0 +1,12 @@
+# NAME: DangDang
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/DangDang/DangDang.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 2
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:33
+
+name = DangDang
+2, dangdang.com
+2, ddimg.cn

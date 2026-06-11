@@ -1,0 +1,17 @@
+# NAME: Deepin
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Deepin/Deepin.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 7
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:33
+
+name = Deepin
+2, chinauos.com
+2, deepin.cn
+2, deepin.com
+2, deepin.io
+2, deepin.org
+2, linglong.dev
+2, uniontech.com

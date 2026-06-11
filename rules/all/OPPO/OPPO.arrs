@@ -1,0 +1,66 @@
+# NAME: OPPO
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/OPPO/OPPO.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 56
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:37
+
+name = OPPO
+2, aibreeno.com
+2, allawnfs.com
+2, allawno.com
+2, allawntech.com
+2, andes.tech
+2, andesbrain.com
+2, andesclouds.com.cn
+2, breenomeet.cc
+2, coloros.com
+2, coloros.net
+2, familyincloud.com
+2, fenzijr.com
+2, finzfin.com
+2, finzjr.com
+2, heytap.cn
+2, heytap.com
+2, heytapcloud.cn
+2, heytapcloud.com
+2, heytapcs.com
+2, heytapdownload.com
+2, heytapimage.com
+2, heytapmobi.com
+2, heytapugc.com
+2, ibreeno.com
+2, keke.cn
+2, myoas.com
+2, myoas.net
+2, myoppo.com
+2, nearme.com.cn
+2, omeet.cc
+2, opdwz.cn
+2, oplustrust.com
+2, oppo.cn
+2, oppo.com
+2, oppo.mobi
+2, oppodataintel.cn
+2, oppodigital.com
+2, oppodigital.com.cn
+2, oppoer.cn
+2, oppoer.me
+2, oppofind.com
+2, oppomobile.com
+2, oppopay.com
+2, opposales.com
+2, opposhop.cn
+2, ortc.cc
+2, realme.com
+2, realme.net
+2, realmebbs.com
+2, realmemobile.com
+2, realmeservice.com
+2, sj6rgxtjg3tmb.com
+2, vayol.com
+2, wanyol.com
+2, xiaobool.com
+2, zeku.com

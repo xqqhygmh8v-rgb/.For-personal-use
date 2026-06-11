@@ -1,0 +1,16 @@
+# NAME: Python
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Python/Python.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 6
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:50
+
+name = Python
+2, pycon.org
+2, pypa.io
+2, pypi.io
+2, pypi.org
+2, python.org
+2, pythonhosted.org

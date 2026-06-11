@@ -1,0 +1,15 @@
+# NAME: Keep
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Keep/Keep.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 5
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:35
+
+name = Keep
+2, calorietech.com
+2, gotokeep.com
+2, keep.com
+2, keep.com.cn
+2, keepcdn.com

@@ -1,0 +1,20 @@
+# NAME: BaiFenDian
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/BaiFenDian/BaiFenDian.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 10
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:31
+
+name = BaiFenDian
+2, baifendian.com
+2, bfdcdn.com
+2, bfdcloud.com
+2, blingoffice.com
+2, marimall.cn
+2, mediaforce.cn
+2, pdeepmatrix.com
+2, percent.cn
+2, pertalk.cn
+2, xworld.net.cn

@@ -1,0 +1,25 @@
+# NAME: 12306
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/12306/12306.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 15
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:30
+
+name = 12306
+2, 12306.cn
+2, 95306.cn
+2, 95572.com
+2, china-railway.com.cn
+2, china-ric.com
+2, crct.com
+2, cre.cn
+2, crecc.com.cn
+2, creip.cn
+2, crscl.com.cn
+2, gzrailway.com.cn
+2, nntlj.com
+2, peoplerail.com
+2, rails.cn
+2, tdpress.com

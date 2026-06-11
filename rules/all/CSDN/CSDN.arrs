@@ -1,0 +1,32 @@
+# NAME: CSDN
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/CSDN/CSDN.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 22
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:32
+
+name = CSDN
+2, codechina.net
+2, csdn.com
+2, csdn.net
+2, csdn.net.cn
+2, csdnimg.cn
+2, csto.com
+2, datasea.cn
+2, gitbook.cn
+2, gitchat.cn
+2, gitcode.com
+2, gitcode.net
+2, iteye.com
+2, kaifayun.com
+2, linuxpower.com.cn
+2, powerlinux.com.cn
+2, programmer.com.cn
+2, programmer.net.cn
+2, qualcomm-challenge.com
+2, tinymind.cn
+2, tinymind.com
+2, tinymind.com.cn
+2, topcto50.com

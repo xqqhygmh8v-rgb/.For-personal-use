@@ -1,0 +1,30 @@
+# NAME: HuanJu
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/HuanJu/HuanJu.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 20
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:00:49
+
+name = HuanJu
+2, 5253.com
+2, blogchina.org
+2, c19ce66ff87253fdda68740edcb7ce3b.v.smtcdns.net
+2, chinaduo.com
+2, duowan.cn
+2, duowan.com
+2, duowan.com.cn
+2, dwstatic.com
+2, hiido.cn
+2, hiido.com
+2, hiido.net
+2, huanju.cn
+2, huanju.net
+2, huanjuyun.com
+2, yy.com
+2, yy.com.cn
+2, yyclouds.com
+2, yygamedev.com
+2, yystatic.com
+2, zhiniu8.com

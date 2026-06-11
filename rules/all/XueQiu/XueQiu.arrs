@@ -1,0 +1,21 @@
+# NAME: XueQiu
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/XueQiu/XueQiu.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 11
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:40
+
+name = XueQiu
+2, aiganggu.com
+2, danjuanapp.com
+2, danjuanfunds.com
+2, iganggu.com
+2, imedao.com
+2, imeigu.cn
+2, imeigu.com.cn
+2, ncfjj.com
+2, snowballfinance.com
+2, snowballsecurities.com
+2, xueqiu.com

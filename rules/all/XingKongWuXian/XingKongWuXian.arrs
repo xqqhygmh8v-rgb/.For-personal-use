@@ -1,0 +1,29 @@
+# NAME: XingKongWuXian
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/XingKongWuXian/XingKongWuXian.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 19
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:55
+
+name = XingKongWuXian
+2, avstar01.me
+2, avstar02.me
+2, avstar03.me
+2, avstar04.com
+2, avstar04.me
+2, avstar05.me
+2, avstar06.me
+2, avstar07.com
+2, avstar07.me
+2, avstar09.com
+2, avstar09.me
+2, avstar1.com
+2, avstar2.com
+2, avstar3.com
+2, avstar4.com
+2, avstar5.com
+2, avstar6.com
+2, avstar8.com
+2, avstar9.com

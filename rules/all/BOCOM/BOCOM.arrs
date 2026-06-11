@@ -1,0 +1,16 @@
+# NAME: BOCOM
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/BOCOM/BOCOM.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 6
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:31
+
+name = BOCOM
+2, 95559.com.cn
+2, 95559.sh.cn
+2, bankcomm.com
+2, bankcomm.com.au
+2, bankcomm.com.mo
+2, bankcomm.com.tw

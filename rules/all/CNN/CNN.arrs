@@ -1,0 +1,16 @@
+# NAME: CNN
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/CNN/CNN.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 6
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:16:57
+
+name = CNN
+2, cnn.com
+2, cnn.io
+2, cnn.it
+2, cnnarabic.com
+2, cnnlabs.com
+2, cnnmoney.ch

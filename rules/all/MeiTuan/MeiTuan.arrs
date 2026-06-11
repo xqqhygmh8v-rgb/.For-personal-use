@@ -1,0 +1,17 @@
+# NAME: MeiTuan
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/MeiTuan/MeiTuan.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 7
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:36
+
+name = MeiTuan
+2, dianping.com
+2, maoyan.com
+2, meituan.com
+2, meituan.net
+2, mtyun.com
+2, neixin.cn
+2, sankuai.com

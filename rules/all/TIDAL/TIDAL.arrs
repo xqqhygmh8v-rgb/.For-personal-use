@@ -1,0 +1,15 @@
+# NAME: TIDAL
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/TIDAL/TIDAL.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 4
+# SKIPPED: 2
+# UPSTREAM-UPDATED: 2025-06-06 09:17:00
+# SKIPPED-TYPES: USER-AGENT=2
+
+name = TIDAL
+2, tidal-cms.s3.amazonaws.com
+2, tidal.com
+2, tidalhifi.com
+2, wimpmusic.com

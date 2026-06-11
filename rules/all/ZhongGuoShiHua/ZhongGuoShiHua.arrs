@@ -1,0 +1,15 @@
+# NAME: ZhongGuoShiHua
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ZhongGuoShiHua/ZhongGuoShiHua.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 5
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:41
+
+name = ZhongGuoShiHua
+2, sinopec-usa.com
+2, sinopec.com
+2, sinopecgroup.com
+2, sinopecnews.com.cn
+2, sinopecsales.com

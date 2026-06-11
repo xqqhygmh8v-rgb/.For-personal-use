@@ -1,0 +1,29 @@
+# NAME: Synology
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Synology/Synology.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 19
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:51
+
+name = Synology
+2, d2f0395ykn6hxb.cloudfront.net
+2, diskstation.me
+2, dscloud.biz
+2, dscloud.me
+2, dscloud.mobi
+2, dsmunas.com
+2, dsmunas.net
+2, dsmunas.org
+2, familyds.com
+2, familyds.net
+2, familyds.org
+2, i234.me
+2, myds.com
+2, quickconnect.to
+2, synodns.com
+2, synology.cn
+2, synology.com
+2, synology.me
+3, synology

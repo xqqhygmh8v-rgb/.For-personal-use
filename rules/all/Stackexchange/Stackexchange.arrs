@@ -1,0 +1,30 @@
+# NAME: Stackexchange
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Stackexchange/Stackexchange.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 20
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:47
+
+name = Stackexchange
+2, askubuntu.com
+2, blogoverflow.com
+2, codeforaliving.io
+2, mathoverflow.net
+2, serverfault.com
+2, sstatic.net
+2, stackapps.com
+2, stackauth.com
+2, stackexchange.com
+2, stackmod.blog
+2, stackoverflow.blog
+2, stackoverflow.co
+2, stackoverflow.com
+2, stackoverflow.email
+2, stackoverflowbusiness.com
+2, stackoverflowcareers.com
+2, stacksnippets.net
+2, superuser.com
+2, tex-talk.net
+2, thesffblog.com

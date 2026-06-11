@@ -1,0 +1,32 @@
+# NAME: RuanMei
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/RuanMei/RuanMei.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 22
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:37
+
+name = RuanMei
+2, 6655.com
+2, cike.cn
+2, cooldock.com
+2, dnsnut.com
+2, fengkeji.com
+2, henku.com
+2, ithome.com
+2, ithome.net
+2, jimeng.com
+2, lapin365.com
+2, loogoo.com
+2, ruanmei.cn
+2, ruanmei.com
+2, saayaa.com
+2, souxia.com
+2, tweakcube.com
+2, vista123.com
+2, wanhongbao.com
+2, win7china.com
+2, win8china.com
+2, yaodu365.com
+2, zuihuimai.com

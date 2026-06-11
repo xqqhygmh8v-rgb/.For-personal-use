@@ -1,0 +1,25 @@
+# NAME: Assassin'sCreed-Odyssey
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Game/Assassin'sCreed-Odyssey/Assassin'sCreed-Odyssey_Resolve.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 15
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:26
+
+name = Assassin'sCreed-Odyssey
+0, 104.75.245.0/24
+0, 104.95.207.169/32
+0, 18.204.105.0/24
+0, 18.204.111.232/32
+0, 18.204.253.0/24
+0, 216.98.54.23/32
+0, 216.98.55.0/24
+0, 216.98.62.0/24
+0, 23.2.16.0/24
+0, 34.237.57.180/32
+0, 54.81.239.0/24
+0, 65.200.22.184/32
+0, 65.200.22.202/32
+0, 65.200.22.234/32
+0, 67.15.100.252/32

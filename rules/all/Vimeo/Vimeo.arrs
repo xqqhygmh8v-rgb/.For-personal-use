@@ -1,0 +1,26 @@
+# NAME: Vimeo
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Vimeo/Vimeo.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 16
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:00
+
+name = Vimeo
+2, livestream.com
+2, vhx.tv
+2, vhxqa1.com
+2, vhxqa2.com
+2, vhxqa3.com
+2, vhxqa4.com
+2, vhxqa6.com
+2, vimeo-staging.com
+2, vimeo-staging2.com
+2, vimeo.com
+2, vimeo.fr
+2, vimeobusiness.com
+2, vimeocdn.com
+2, vimeogoods.com
+2, vimeoondemand.com
+2, vimeostatus.com

@@ -1,0 +1,22 @@
+# NAME: Heroku
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Heroku/Heroku.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 12
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:01:00
+
+name = Heroku
+2, codei.sh
+2, codeish.co
+2, codeish.io
+2, heroku-app.com
+2, heroku-charge.com
+2, heroku.co
+2, heroku.com
+2, heroku.me
+2, herokuapp.com
+2, herokucdn.com
+2, herokucharge.com
+2, herokussl.com

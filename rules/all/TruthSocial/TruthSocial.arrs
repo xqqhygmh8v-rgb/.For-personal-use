@@ -1,0 +1,12 @@
+# NAME: TruthSocial
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/TruthSocial/TruthSocial.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 2
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:20:02
+
+name = TruthSocial
+2, trk.bonsa.net
+2, truthsocial.com

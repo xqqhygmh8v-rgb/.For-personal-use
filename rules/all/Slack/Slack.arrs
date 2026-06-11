@@ -1,0 +1,21 @@
+# NAME: Slack
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Slack/Slack.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 11
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:47
+
+name = Slack
+2, slack-core.com
+2, slack-edge.com
+2, slack-files.com
+2, slack-imgs.com
+2, slack-msgs.com
+2, slack-redir.net
+2, slack.com
+2, slackb.com
+2, slackcertified.com
+2, slackdemo.com
+2, slackhq.com

@@ -1,0 +1,19 @@
+# NAME: Logitech
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Logitech/Logitech.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 9
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:45
+
+name = Logitech
+2, logi.com
+2, logicool.co.jp
+2, logicoolg.com
+2, logitech.biz
+2, logitech.com
+2, logitech.fr
+2, logitechg.com
+2, logitechg.fr
+2, worldsfastestgamer.net

@@ -1,0 +1,32 @@
+# NAME: Bloomberg
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Bloomberg/Bloomberg.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 22
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:42
+
+name = Bloomberg
+2, bloomberg.co.kr
+2, bloomberg.com
+2, bloomberg.com.br
+2, bloomberg.fm
+2, bloomberg.tv
+2, bloombergapps.com
+2, bloombergarcade.com
+2, bloombergbeta.com
+2, blpprofessional.com
+2, bmia.org
+2, bnef.com
+2, businessweek.com
+2, businessweekmag.com
+2, bwbx.io
+2, citylab.com
+2, gotraffic.net
+2, londonmithraeum.com
+2, neweconomyforum.com
+2, newenergyfinance.com
+2, quicktake.video
+2, techatbloomberg.com
+2, tictoc.video

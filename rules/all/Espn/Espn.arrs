@@ -1,0 +1,21 @@
+# NAME: Espn
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Espn/Espn.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 11
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:01:00
+
+name = Espn
+2, espn.api.edge.bamgrid.com
+2, espn.hb.omtrdc.net
+2, espndotcom.tt.omtrdc.net
+2, dtci.co
+2, dtci.technology
+2, espn.co.uk
+2, espn.com
+2, espn.net
+2, espncdn.com
+2, espnqa.com
+2, watchespn.com

@@ -1,0 +1,27 @@
+# NAME: ZhongWeiShiJi
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ZhongWeiShiJi/ZhongWeiShiJi.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 17
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:41
+
+name = ZhongWeiShiJi
+2, afdvr.cc
+2, aiwei365.com.cn
+2, aiwei365.net.cn
+2, cloudsee.com
+2, cloudsee.net
+2, cloudseetech.com
+2, jovcloud.com
+2, jovetech.cn
+2, jovetech.com
+2, jovision.cn
+2, jovision.com
+2, jovisionai.com
+2, jovmall.com
+2, nvsip.com
+2, soovvi.com
+2, sunywo.com
+2, xunvision.com

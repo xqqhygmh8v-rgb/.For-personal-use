@@ -1,0 +1,14 @@
+# NAME: Teams
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Teams/Teams.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 4
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:24
+
+name = Teams
+2, teams.events.data.microsoft.com
+2, teams.cdn.live.net
+2, teams.live.com
+2, teams.microsoft.com

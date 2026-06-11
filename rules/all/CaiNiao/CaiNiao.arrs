@@ -1,0 +1,19 @@
+# NAME: CaiNiao
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/CaiNiao/CaiNiao.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 9
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:32
+
+name = CaiNiao
+2, 56che.com
+2, cainiao-inc.cn
+2, cainiao-inc.com
+2, cainiao-inc.net
+2, cainiao.com
+2, cainiao.com.cn
+2, cainiaoyizhan.com
+2, guoguo-app.com
+2, xiaog.xyz

@@ -1,0 +1,18 @@
+# NAME: Battle
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Battle/Battle.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 8
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:49
+
+name = Battle
+2, blizzard.nefficient.co.kr
+2, blzddist1-a.akamaihd.net
+2, blzddistkr1-a.akamaihd.net
+2, bnetproduct-a.akamaihd.net
+2, cdn.blz-contentstack.com
+2, battle.net
+2, battlenet.com.cn
+2, blizzard.com

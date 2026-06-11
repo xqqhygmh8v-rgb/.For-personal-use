@@ -1,0 +1,109 @@
+# NAME: VISA
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/VISA/VISA.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 99
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:48
+
+name = VISA
+2, visa.be
+2, visa.ca
+2, visa.cl
+2, visa.co.ao
+2, visa.co.cr
+2, visa.co.id
+2, visa.co.il
+2, visa.co.in
+2, visa.co.jp
+2, visa.co.ke
+2, visa.co.ni
+2, visa.co.nz
+2, visa.co.th
+2, visa.co.uk
+2, visa.co.ve
+2, visa.co.za
+2, visa.com
+2, visa.com.ag
+2, visa.com.ai
+2, visa.com.ar
+2, visa.com.au
+2, visa.com.az
+2, visa.com.bo
+2, visa.com.br
+2, visa.com.bs
+2, visa.com.bz
+2, visa.com.cn
+2, visa.com.co
+2, visa.com.cy
+2, visa.com.dm
+2, visa.com.do
+2, visa.com.ec
+2, visa.com.ge
+2, visa.com.gt
+2, visa.com.gy
+2, visa.com.hk
+2, visa.com.hn
+2, visa.com.hr
+2, visa.com.jm
+2, visa.com.kh
+2, visa.com.kn
+2, visa.com.kz
+2, visa.com.lc
+2, visa.com.lk
+2, visa.com.ms
+2, visa.com.mx
+2, visa.com.my
+2, visa.com.ng
+2, visa.com.pa
+2, visa.com.pe
+2, visa.com.ph
+2, visa.com.pr
+2, visa.com.py
+2, visa.com.ru
+2, visa.com.sg
+2, visa.com.sv
+2, visa.com.tr
+2, visa.com.tt
+2, visa.com.tw
+2, visa.com.ua
+2, visa.com.uy
+2, visa.com.vc
+2, visa.com.vi
+2, visa.com.vn
+2, visa.cz
+2, visa.de
+2, visa.dk
+2, visa.es
+2, visa.fi
+2, visa.fr
+2, visa.gd
+2, visa.gp
+2, visa.gr
+2, visa.hu
+2, visa.ie
+2, visa.is
+2, visa.ky
+2, visa.lt
+2, visa.lv
+2, visa.mn
+2, visa.mq
+2, visa.nl
+2, visa.no
+2, visa.pl
+2, visa.pt
+2, visa.ro
+2, visa.se
+2, visa.sk
+2, visa.sx
+2, visa.tc
+2, visabg.com
+2, visaeurope.at
+2, visaeurope.ch
+2, visaeurope.lu
+2, visaeurope.si
+2, visaitalia.com
+2, visakorea.com
+2, visamiddleeast.com
+2, visasoutheasteurope.com

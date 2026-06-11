@@ -1,0 +1,22 @@
+# NAME: LinkedIn
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/LinkedIn/LinkedIn.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 12
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:03:00
+
+name = LinkedIn
+2, e122475.dscg.akamaiedge.net
+2, licdn.cn.cdn20.com
+2, linkedin.sc.omtrdc.net
+2, bizographics.com
+2, l-0005.dc-msedge.net
+2, l-0005.l-msedge.net
+2, licdn.cn
+2, licdn.com
+2, linkedin.at
+2, linkedin.cn
+2, linkedin.com
+2, lnkd.in

@@ -1,0 +1,92 @@
+# NAME: Bestbuy
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Bestbuy/Bestbuy.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 82
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:42
+
+name = Bestbuy
+2, bby.com
+2, bbycastatic.ca
+2, bbycloud.com
+2, bbycontent.com
+2, bbycontent.net
+2, bbyintl.com
+2, bbystatic.com
+2, bbyurl.us
+2, bestbhy.com
+2, bestbuy-audio.com
+2, bestbuy-communityrelations.com
+2, bestbuy-giftcard.info
+2, bestbuy-int.com
+2, bestbuy-jobs.com
+2, bestbuy.ca
+2, bestbuy.cn
+2, bestbuy.com
+2, bestbuy.com.cn
+2, bestbuy.com.mx
+2, bestbuy.info
+2, bestbuy24x7solutions.com
+2, bestbuybusiness.com
+2, bestbuybusinessadvantageaccount.com
+2, bestbuycanada.ca
+2, bestbuycanada.com
+2, bestbuycanadaltd.ca
+2, bestbuycharityclassic.com
+2, bestbuycoffeemakers.com
+2, bestbuyethics.com
+2, bestbuyforbusiness.ca
+2, bestbuygsm.com
+2, bestbuyideax.com
+2, bestbuyphotoworkshoptours.com
+2, bestbuyrewards.com
+2, bestbuyrewardzone.ca
+2, bestbuys.com
+2, bestbuysgeeksquad.com
+2, bestbuysolutions.net
+2, bestbuystores.com
+2, bestbuytradein.com
+2, bestbuyus.com
+2, besztbuy.com
+2, bextbuy.com
+2, bienvenuechezbestbuy.ca
+2, cowboom.com
+2, dealtree.org
+2, futureshop.ca
+2, geek-squad-support.com
+2, geek-squad.net
+2, geek-squad.org
+2, geek-squads.net
+2, geeksquad.ca
+2, geeksquad.cc
+2, geeksquad.com
+2, geeksquad.net
+2, geeksquad.tv
+2, geeksquadcares.com
+2, geeksquadcentral.com
+2, geeksquadforums.com
+2, geeksquadonline.com
+2, geeksquadprotectionplan.org
+2, geeksquadservices.org
+2, geeksquadwebroot.org
+2, gscanada.info
+2, gsccdn.com
+2, gslink.us
+2, initproducts.com
+2, magnoliaav.com.cn
+2, mybestbuy.com
+2, mybestbuyclaims.com
+2, myrewardzone.com
+2, myrz.com
+2, onlinegeeksquad.com
+2, pacifickitchenandhome.com
+2, rocketfishproducts.com
+2, techliquidators.com
+2, tiendabestbuy.com
+2, unbrandedproducts.com
+2, welcometobestbuy.ca
+2, wolfatbestbuy.com
+2, wolfatbestbuy.net
+2, www-bestbuystores.com

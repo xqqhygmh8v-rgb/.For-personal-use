@@ -1,0 +1,23 @@
+# NAME: YouTube
+# GENERATED-FOR: Anywhere Routing Rule Set
+# DESCRIPTION: YouTube
+# RULES: 14
+# SKIPPED: 0
+# SOURCES:
+# - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
+
+name = YouTube
+3, youtube
+2, youtubei.googleapis.com
+2, yt3.ggpht.com
+2, googlevideo.com
+2, gvt2.com
+2, withyoutube.com
+2, youtu.be
+2, youtube-nocookie.com
+2, youtube.com
+2, youtubeeducation.com
+2, youtubegaming.com
+2, youtubekids.com
+2, yt.be
+2, ytimg.com

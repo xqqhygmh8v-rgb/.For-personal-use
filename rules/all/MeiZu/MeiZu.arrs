@@ -1,0 +1,25 @@
+# NAME: MeiZu
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/MeiZu/MeiZu.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 15
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:36
+
+name = MeiZu
+2, flyme.cn
+2, flyme.com
+2, flyme.net
+2, flymeauto.com
+2, lipro.com
+2, lipro.net
+2, mblu.com
+2, meiklife.cn
+2, meizu.cn
+2, meizu.com
+2, meizu.com.hk
+2, meizuapi.com
+2, mklink.com.cn
+2, mzres.com
+2, mzssp.cn

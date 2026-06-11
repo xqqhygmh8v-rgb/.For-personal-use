@@ -1,0 +1,12 @@
+# NAME: Actalis
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Actalis/Actalis.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 2
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:57
+
+name = Actalis
+2, actalis.com
+2, actalis.it

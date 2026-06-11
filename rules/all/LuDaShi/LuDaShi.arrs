@@ -1,0 +1,27 @@
+# NAME: LuDaShi
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/LuDaShi/LuDaShi.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 17
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:36
+
+name = LuDaShi
+2, birdpaper.cn
+2, dualspace.com
+2, dualspacetech.com
+2, easyclean.fun
+2, kejids.cn
+2, kejids.com
+2, ludan.cn
+2, ludashi.cn
+2, ludashi.com
+2, monidashi.cn
+2, monidashi.com.cn
+2, superlitetech.com
+2, taojike.cn
+2, xiaoluerhuo.com
+2, xiaoluhaohuo.com
+2, xiaoluyouxuan.com
+2, youhua.com

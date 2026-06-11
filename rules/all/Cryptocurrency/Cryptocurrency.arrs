@@ -1,0 +1,53 @@
+# NAME: Cryptocurrency
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Cryptocurrency/Cryptocurrency.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 43
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:51
+
+name = Cryptocurrency
+2, aex.com
+2, aicoin.com
+2, aimoon.com
+2, bibox.com
+2, binance.cc
+2, binance.cloud
+2, binance.com
+2, binance.im
+2, binance.me
+2, binance.us
+2, bitcointalk.org
+2, bitfinex.com
+2, bithumb.com
+2, bitmex.com
+2, bitstamp.net
+2, bittrex.com
+2, bnappzh.co
+2, bnappzh.com
+2, bnbstatic.com
+2, bntrace.com
+2, bybit.com
+2, coinbase.com
+2, coincheck.com
+2, coingecko.com
+2, coinmarketcap.com
+2, coinone.co.kr
+2, debank.com
+2, etherscan.io
+2, ftx.com
+2, gate.io
+2, gemini.com
+2, huobi.com
+2, korbit.co.kr
+2, kraken.com
+2, kucoin.com
+2, liquid.com
+2, okex.com
+2, okx.com
+2, pancakeswap.finance
+2, poloniex.com
+2, sushi.com
+2, uniswap.org
+2, zb.com

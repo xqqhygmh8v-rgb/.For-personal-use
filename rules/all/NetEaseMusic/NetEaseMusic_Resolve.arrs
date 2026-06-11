@@ -1,0 +1,39 @@
+# NAME: NetEaseMusic
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/NetEaseMusic/NetEaseMusic_Resolve.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 28
+# SKIPPED: 2
+# UPSTREAM-UPDATED: 2025-06-06 09:17:29
+# SKIPPED-TYPES: USER-AGENT=2
+
+name = NetEaseMusic
+2, netease.ugcvideoss.ourdvs.com
+2, 163yun.com
+2, api.iplay.163.com
+2, hz.netease.com
+2, mam.netease.com
+2, music.126.com
+2, music.126.net
+2, music.163.com
+2, music.163.com.163jiasu.com
+2, yun-app.net
+0, 101.71.154.241/32
+0, 103.126.92.132/31
+0, 112.13.119.17/32
+0, 112.13.119.18/32
+0, 112.13.122.1/32
+0, 112.13.122.4/32
+0, 115.236.112.0/20
+0, 118.24.63.156/32
+0, 182.92.170.253/32
+0, 193.112.159.225/32
+0, 223.252.192.0/19
+0, 39.105.175.128/32
+0, 39.105.63.80/32
+0, 45.254.48.1/32
+0, 47.100.127.239/32
+0, 59.111.128.0/17
+0, 59.111.19.33/32
+0, 59.111.21.14/31

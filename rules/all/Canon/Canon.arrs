@@ -1,0 +1,80 @@
+# NAME: Canon
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Canon/Canon.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 70
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:43
+
+name = Canon
+2, c-ij.com
+2, canon-cee.com
+2, canon-cmos-sensors.com
+2, canon-cna.com
+2, canon-ebm.com.hk
+2, canon-emea.com
+2, canon-emirates.ae
+2, canon-europa.com
+2, canon-europe.com
+2, canon-me.com
+2, canon-ois.qa
+2, canon-se.com.tw
+2, canon.am
+2, canon.at
+2, canon.az
+2, canon.ba
+2, canon.be
+2, canon.bg
+2, canon.ca
+2, canon.ch
+2, canon.cn
+2, canon.co.il
+2, canon.co.uk
+2, canon.co.za
+2, canon.com
+2, canon.com.al
+2, canon.com.au
+2, canon.com.by
+2, canon.com.cn
+2, canon.com.cy
+2, canon.com.hk
+2, canon.com.mk
+2, canon.com.mt
+2, canon.com.my
+2, canon.com.tr
+2, canon.com.tw
+2, canon.cz
+2, canon.de
+2, canon.dk
+2, canon.ee
+2, canon.es
+2, canon.fi
+2, canon.fr
+2, canon.ge
+2, canon.gr
+2, canon.hr
+2, canon.hu
+2, canon.ie
+2, canon.it
+2, canon.kz
+2, canon.lt
+2, canon.lu
+2, canon.lv
+2, canon.me
+2, canon.net
+2, canon.nl
+2, canon.no
+2, canon.pl
+2, canon.pt
+2, canon.ro
+2, canon.rs
+2, canon.ru
+2, canon.se
+2, canon.si
+2, canon.sk
+2, canon.tj
+2, canon.ua
+2, canon.uz
+2, canonfoundation.org
+2, canonproprinters.com

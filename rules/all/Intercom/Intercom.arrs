@@ -1,0 +1,14 @@
+# NAME: Intercom
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Intercom/Intercom.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 4
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:50
+
+name = Intercom
+2, intercom.com
+2, intercom.io
+2, intercomassets.com
+2, intercomcdn.com

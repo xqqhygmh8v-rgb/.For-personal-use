@@ -1,0 +1,41 @@
+# NAME: LastFM
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/LastFM/LastFM.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 31
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:45
+
+name = LastFM
+2, last.us11.list-manage.com
+2, lastfm-img2.akamaized.net
+2, audioscrobbler.com
+2, bbfc1.tk
+2, bc9oa.tk
+2, bvuno.tk
+2, cqyos.tk
+2, fuckyeahtfx.com
+2, halkz.tk
+2, itnnl.tk
+2, jdw1v.tk
+2, kn5ak.tk
+2, kwcnn.tk
+2, last.fm
+2, lastfm.cn
+2, lastfm.de
+2, lastfm.es
+2, lastfm.eu
+2, lastfm.freetls.fastly.net
+2, lastfm.ph
+2, lastfm.pl
+2, lastfm.ru
+2, lastfmpresents.com
+2, mwrel.tk
+2, oilofhaemony.com
+2, ouchmonkey.com
+2, pqqx2.tk
+2, rfnva.tk
+2, rmohl.tk
+2, tnjqk.tk
+2, wznka.tk

@@ -1,0 +1,32 @@
+# NAME: Rarbg
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Rarbg/Rarbg.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 22
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:47
+
+name = Rarbg
+2, dyncdn.me
+2, proxyrarbg.org
+2, rarbg.bypassed.org
+2, rarbg.is
+2, rarbg.link
+2, rarbg.me
+2, rarbg.to
+2, rarbg.unblocked.vc
+2, rarbgaccess.org
+2, rarbgaccessed.org
+2, rarbgget.org
+2, rarbggo.org
+2, rarbgmirror.com
+2, rarbgmirror.org
+2, rarbgmirror.xyz
+2, rarbgproxy.org
+2, rarbgprx.org
+2, rarbgs.com
+2, rarbgto.org
+2, rarbgunblock.com
+2, rarbgunblock.org
+2, rarbgway.org

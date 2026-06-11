@@ -1,0 +1,17 @@
+# NAME: Origin
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Origin/Origin.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 7
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:50
+
+name = Origin
+2, cloudsync-prod.s3.amazonaws.com
+2, eaasserts-a.akamaihd.net
+2, origin-a.akamaihd.net
+2, originasserts.akamaized.net
+2, rtm.tnt-ea.com
+2, ea.com
+2, origin.com

@@ -1,0 +1,18 @@
+# NAME: FengXiaWangLuo
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/FengXiaWangLuo/FengXiaWangLuo.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 8
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:34
+
+name = FengXiaWangLuo
+2, 158c.com
+2, ali213.net
+2, fengyx.com
+2, fhyx.com
+2, iyouxia.com
+2, qu2345.com
+2, wy213.com
+2, wy213.net

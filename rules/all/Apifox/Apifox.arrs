@@ -1,0 +1,12 @@
+# NAME: Apifox
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Apifox/Apifox.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 2
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:59
+
+name = Apifox
+2, apifox.cn
+2, apifox.com

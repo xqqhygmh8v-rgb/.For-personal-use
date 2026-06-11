@@ -1,0 +1,15 @@
+# NAME: HuluJP
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/HuluJP/HuluJP.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 5
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:41
+
+name = HuluJP
+2, happyon.jp
+2, hjholdings.jp
+2, hulu.jp
+2, streaks.jp
+2, yb.uncn.jp

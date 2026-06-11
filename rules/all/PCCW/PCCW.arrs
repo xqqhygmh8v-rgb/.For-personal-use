@@ -1,0 +1,35 @@
+# NAME: PCCW
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/PCCW/PCCW.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 25
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:46
+
+name = PCCW
+2, 1010.com.hk
+2, d1k2us671qcoau.cloudfront.net
+2, dfp6rglgjqszk.cloudfront.net
+2, esmarthealth.com
+2, hkcsl.com
+2, hkt-enterprise.com
+2, hkt-eye.com
+2, hkt.com
+2, hkteducation.com
+2, hktpremier.com
+2, hktshop.com
+2, moov.hk
+2, netvigator.com
+2, now-ashare.com
+2, now-tv.com
+2, now.com
+2, now.com.hk
+2, nowe.com
+2, nowe.hk
+2, pccw.com
+2, pccwglobal.com
+2, pccwsolutions.com
+2, theclub.com.hk
+2, uhub.com
+2, viu.com

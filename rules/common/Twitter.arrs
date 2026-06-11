@@ -1,0 +1,21 @@
+# NAME: Twitter
+# GENERATED-FOR: Anywhere Routing Rule Set
+# DESCRIPTION: X / Twitter
+# RULES: 12
+# SKIPPED: 0
+# SOURCES:
+# - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitter.list
+
+name = Twitter
+3, twitter
+2, periscope.tv
+2, pscp.tv
+2, t.co
+2, twimg.co
+2, twimg.com
+2, twimg.org
+2, twitpic.com
+2, twitter.com
+2, twitter.jp
+2, vine.co
+2, x.com

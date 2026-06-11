@@ -1,0 +1,14 @@
+# NAME: ChinaNews
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaNews/ChinaNews.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 4
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:32
+
+name = ChinaNews
+2, chinanews.com
+2, chinanews.com.cn
+2, cns.com.cn
+2, ecns.cn

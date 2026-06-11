@@ -1,0 +1,16 @@
+# NAME: Oreilly
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Oreilly/Oreilly.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 6
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:46
+
+name = Oreilly
+2, oreil.ly
+2, oreilly.com
+2, oreilly.com.cn
+2, oreilly.review
+2, oreillystatic.com
+2, orl.ly

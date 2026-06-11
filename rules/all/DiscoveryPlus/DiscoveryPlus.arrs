@@ -1,0 +1,26 @@
+# NAME: DiscoveryPlus
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/DiscoveryPlus/DiscoveryPlus.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 15
+# SKIPPED: 2
+# UPSTREAM-UPDATED: 2025-06-06 09:17:52
+# SKIPPED-TYPES: USER-AGENT=2
+
+name = DiscoveryPlus
+2, discovery-us.conax.cloud
+2, dplus-northamerica-cloudfront-gcs.prod-vod.h264.io
+2, dplus-northamerica.media-edge.prod-vod.h264.io
+2, disco-api.com
+2, discovery.com
+2, discoveryplus.co.uk
+2, discoveryplus.com
+2, discoveryplus.in
+2, dnitv.com
+2, fwmrm.net
+2, getblueshift.com
+2, litix.io
+2, mobile-collector.newrelic.com
+2, uplynk.com
+3, discovery.uplynk.com

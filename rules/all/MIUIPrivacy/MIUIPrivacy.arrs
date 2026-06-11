@@ -1,0 +1,39 @@
+# NAME: MIUIPrivacy
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/MIUIPrivacy/MIUIPrivacy.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 29
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:20:01
+
+name = MIUIPrivacy
+2, a0.app.xiaomi.com
+2, api.installer.xiaomi.com
+2, api.jr.mi.com
+2, auth.be.sec.miui.com
+2, ccc.sys.miui.com
+2, cn.app.chat.xiaomi.net
+2, data.mistat.xiaomi.com
+2, diagnosis.ad.xiaomi.com
+2, etl-xlmc-ssl.sandai.net
+2, flash.sec.miui.com
+2, idm.api.io.mi.com
+2, ixav-cse.avlyun.com
+2, jupiter.sys.miui.com
+2, log.ad.xiaomi.com
+2, log.avlyun.sec.intl.miui.com
+2, logupdate.avlyun.sec.miui.com
+2, m.track.ad.xiaomi.com
+2, mazu.sec.miui.com
+2, metok.sys.miui.com
+2, miav-cse.avlyun.com
+2, miui-fxcse.avlyun.com
+2, qsb.browser.miui.srv
+2, rom.pt.miui.srv
+2, sdkconf.avlyun.com
+2, sdkconfig.ad.xiaomi.com
+2, ssl-cdn.static.browser.mi-img.com
+2, tmfsdk.m.qq.com
+2, tracking.miui.com
+2, update.avlyun.sec.miui.com

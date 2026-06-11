@@ -1,0 +1,14 @@
+# NAME: Collabora
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Collabora/Collabora.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 4
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:55
+
+name = Collabora
+2, collabora.co.uk
+2, collabora.com
+2, collabora.org
+2, collaboraoffice.com

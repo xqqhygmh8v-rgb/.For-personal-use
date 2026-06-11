@@ -1,0 +1,17 @@
+# NAME: Asahi
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Asahi/Asahi.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 7
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:53
+
+name = Asahi
+2, asahishimbun.sc.omtrdc.net
+2, aiasahi.jp
+2, asagaku.com
+2, asahi.com
+2, asahicom.jp
+2, asakonet.co.jp
+2, nikkansports.com

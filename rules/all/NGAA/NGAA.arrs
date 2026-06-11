@@ -1,0 +1,39 @@
+# NAME: NGAA
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/NGAA/NGAA.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 29
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:37
+
+name = NGAA
+2, chinagslb.cn
+2, chinagslb.com
+2, chinagslb.net
+2, cngslb.cn
+2, cngslb.com
+2, cngslb.net
+2, ispcache.cn
+2, ispcache.net
+2, kuaifan.shop
+2, ngaa.cn
+2, ngaa.com.cn
+2, ngaa.info
+2, ngaa.net.cn
+2, ngaa.org.cn
+2, ngaa.shop
+2, ngaa.top
+2, ngaacdn.cn
+2, ngaacdn.com
+2, ngaacdn.net
+2, ngaagslb.cn
+2, ngaagslb.com
+2, ngaagslb.net
+2, sinocache.cn
+2, sinocache.com.cn
+2, sinocache.net
+2, sinogslb.cn
+2, sinogslb.com
+2, sinogslb.net
+2, speedin.shop

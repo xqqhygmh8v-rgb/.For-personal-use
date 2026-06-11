@@ -1,0 +1,61 @@
+# NAME: VOA
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/VOA/VOA.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 51
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:00
+
+name = VOA
+2, amerikaninsesi.com
+2, amerikaninsesi.org
+2, amerikaovozi.com
+2, amerikayidzayn.com
+2, amerikiskhma.com
+2, bbg.gov
+2, dandalinvoa.com
+2, darivoa.com
+2, dengeamerika.com
+2, dengiamerika.com
+2, glasamerike.net
+2, golos-ameriki.ru
+2, golosameriki.com
+2, insidevoa.com
+2, pashtovoa.com
+2, persagg.com
+2, radiyoyacuvoa.com
+2, urduvoa.com
+2, voa-11.akacast.akamaistream.net
+2, voa.gov
+2, voa.mobi
+2, voaafaanoromoo.com
+2, voaafrique.com
+2, voabambara.com
+2, voabangla.com
+2, voacambodia.com
+2, voacantonese.com
+2, voachinese.com
+2, voachineseblog.com
+2, voadeewanews.com
+2, voadeewaradio.com
+2, voahausa.com
+2, voaindonesia.com
+2, voakorea.com
+2, voalingala.com
+2, voandebele.com
+2, voanews.com
+2, voanews.eu
+2, voanoticias.com
+2, voanouvel.com
+2, voaportugues.com
+2, voashona.com
+2, voasomali.com
+2, voaswahili.com
+2, voathai.com
+2, voatibetan.com
+2, voatibetanenglish.com
+2, voatiengviet.com
+2, voatour.com
+2, voazimbabwe.com
+2, zeriamerikes.com

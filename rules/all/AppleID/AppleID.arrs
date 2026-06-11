@@ -1,0 +1,14 @@
+# NAME: AppleID
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/AppleID/AppleID.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 4
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:50
+
+name = AppleID
+2, appleid.apple.com
+2, appleid.cdn-apple.com
+2, gsa.apple.com
+2, idmsa.apple.com

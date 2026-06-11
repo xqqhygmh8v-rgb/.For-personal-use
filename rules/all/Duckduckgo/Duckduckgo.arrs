@@ -1,0 +1,53 @@
+# NAME: Duckduckgo
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Duckduckgo/Duckduckgo.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 43
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:43
+
+name = Duckduckgo
+2, cispaletter.com
+2, cispaletter.org
+2, cometotheduckside.com
+2, ddg.co
+2, ddg.gg
+2, ddh.gg
+2, dgg.gg
+2, dontbubble.us
+2, donttrack.us
+2, duck.co
+2, duck.com
+2, duckduckco.com
+2, duckduckco.de
+2, duckduckgo.ca
+2, duckduckgo.co
+2, duckduckgo.co.uk
+2, duckduckgo.com
+2, duckduckgo.com.mx
+2, duckduckgo.com.tw
+2, duckduckgo.de
+2, duckduckgo.dk
+2, duckduckgo.in
+2, duckduckgo.jp
+2, duckduckgo.ke
+2, duckduckgo.mx
+2, duckduckgo.nl
+2, duckduckgo.org
+2, duckduckgo.pl
+2, duckduckgo.sg
+2, duckduckgo.uk
+2, duckduckhack.com
+2, duckgo.com
+2, ducksear.ch
+2, duckside.com
+2, dukgo.com
+2, enteentegeh.de
+2, fixtracking.com
+2, goduckgo.com
+2, hacksear.ch
+2, justduckit.com
+2, privacysimplified.com
+2, privatebrowsingmyths.com
+2, spreadprivacy.com

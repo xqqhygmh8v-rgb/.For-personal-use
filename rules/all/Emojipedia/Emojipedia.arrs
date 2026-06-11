@@ -1,0 +1,13 @@
+# NAME: Emojipedia
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Emojipedia/Emojipedia.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 3
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:43
+
+name = Emojipedia
+2, emojipedia.org
+2, worldemojiawards.com
+2, worldemojiday.com

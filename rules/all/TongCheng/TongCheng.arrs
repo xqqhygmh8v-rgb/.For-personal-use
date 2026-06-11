@@ -1,0 +1,18 @@
+# NAME: TongCheng
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/TongCheng/TongCheng.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 8
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:39
+
+name = TongCheng
+2, 17u.cn
+2, 17u.net
+2, 17usoft.com
+2, 17usoft.net
+2, 40017.cn
+2, elong.com
+2, elongstatic.com
+2, ly.com

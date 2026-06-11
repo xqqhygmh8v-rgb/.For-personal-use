@@ -1,0 +1,36 @@
+# NAME: ZhangYue
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ZhangYue/ZhangYue.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 26
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:40
+
+name = ZhangYue
+2, corp3g.cn
+2, ireader.com
+2, ireader.com.cn
+2, ireader.live
+2, ireader.mobi
+2, ireaderm.com
+2, ireaderm.net
+2, iremaker.com
+2, mgcube.cn
+2, palmebook.com
+2, palmeread.cn
+2, palmeread.com
+2, palmestore.cn
+2, palmestore.com
+2, transmonkey.cn
+2, transmonkey.com
+2, transmonkey.net
+2, z3.cn
+2, zhangyue.com
+2, zhangyue.net
+2, zhangyue01.com
+2, zhangyue02.com
+2, zhangyue03.com
+2, zhi3.com.cn
+2, zhi3.net
+2, zuoshujiang.com

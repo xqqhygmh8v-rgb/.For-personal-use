@@ -1,0 +1,63 @@
+# NAME: HuluUSA
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/HuluUSA/HuluUSA.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 52
+# SKIPPED: 1
+# UPSTREAM-UPDATED: 2025-06-06 09:17:41
+# SKIPPED-TYPES: PROCESS-NAME=1
+
+name = HuluUSA
+2, 112263.com
+2, assetshuluimcom-a.akamaihd.net
+2, callhulu.com
+2, cws-hulu.conviva.com
+2, findyourlimits.com
+2, freehulu.com
+2, hooloo.tv
+2, hoolu.com
+2, hoolu.tv
+2, hu1u.com
+2, huloo.cc
+2, huloo.tv
+2, hulu.com
+2, hulu.hb.omtrdc.net
+2, hulu.playback.edge.bamgrid.com
+2, hulu.sc.omtrdc.net
+2, hulu.tv
+2, hulu.us
+2, huluaction.com
+2, huluad.com
+2, huluapp.com
+2, huluasks.com
+2, hulucall.com
+2, hulufree.com
+2, hulugans.com
+2, hulugermany.com
+2, hulugo.com
+2, huluim.com
+2, huluinstantmessenger.com
+2, huluitaly.com
+2, hulunet.com
+2, hulunetwork.com
+2, huluplus.com
+2, hulupremium.com
+2, hulupurchase.com
+2, huluqa.com
+2, hulurussia.com
+2, huluspain.com
+2, hulusports.com
+2, hulustream.com
+2, huluteam.com
+2, hulutv.com
+2, huluusa.com
+2, joinmaidez.com
+2, mushymush.tv
+2, myhulu.com
+2, originalhulu.com
+2, payhulu.com
+2, prod.hjholdings.tv
+2, registerhulu.com
+2, thehulubraintrust.com
+2, wwwhuluplus.com

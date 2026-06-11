@@ -1,0 +1,12 @@
+# NAME: Afdian
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Afdian/Afdian.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 2
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:58
+
+name = Afdian
+2, afdian.net
+2, afdiancdn.com

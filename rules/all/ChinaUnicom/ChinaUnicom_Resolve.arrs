@@ -1,0 +1,44 @@
+# NAME: ChinaUnicom
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaUnicom/ChinaUnicom_Resolve.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 34
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:32
+
+name = ChinaUnicom
+2, 10010.cn
+2, 10010.com
+2, 10010.com.cn
+2, 10010.net
+2, 17wo.cn
+2, chinaunicom.cn
+2, chinaunicom.com
+2, chinaunicom.com.cn
+2, chinaunicom.com.hk
+2, chinaunicombidding.cn
+2, chinaunicomglobal.com
+2, cu5gaia.cn
+2, cu5gaia.com
+2, cuecp.cn
+2, cupb.cn
+2, e-engine.com.cn
+2, gd10010.cn
+2, gd116114.net.cn
+2, gd165.com
+2, gnoc.com.cn
+2, mucfc.com
+2, mychinaunicom.com
+2, unicomgd.com
+2, unicompayment.cn
+2, unicompayment.com
+2, unicompayment.net
+2, unicompayment.org
+2, unimip.cn
+2, wo-link.tech
+2, wo.cn
+2, wo.com.cn
+2, wobaif.com
+2, wom186.com
+0, 113.200.56.63/32

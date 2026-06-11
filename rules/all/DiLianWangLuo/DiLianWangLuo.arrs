@@ -1,0 +1,24 @@
+# NAME: DiLianWangLuo
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/DiLianWangLuo/DiLianWangLuo.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 14
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:50
+
+name = DiLianWangLuo
+2, acadn.cn
+2, acadn.com
+2, bbbcdns.com
+2, dlgslb.cn
+2, dlgslb.net
+2, dwion.com
+2, fastcdn.com
+2, fastcdn.com.cn
+2, flxdns.cn
+2, flxdns.com
+2, globalcdn.cn
+2, mcadn.cn
+2, tlgslb.cn
+2, tlgslb.com

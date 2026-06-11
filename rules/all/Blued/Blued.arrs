@@ -1,0 +1,43 @@
+# NAME: Blued
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Blued/Blued.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 33
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:42
+
+name = Blued
+2, bf99.com
+2, bldimg.com
+2, bldlive.com
+2, blue-city.com
+2, blued.cdn-gw-dv.net
+2, blued.cn
+2, blued.com
+2, blued.gw-dv.net
+2, bluedgames.cn
+2, bluedgames.com
+2, bluedimg.cn
+2, bluedimg.com
+2, budimg.cn
+2, caihongqi.com
+2, danlan.org
+2, danlancare.cn
+2, danlancare.com
+2, danlanlove.cn
+2, danlanlove.com
+2, fleeper.com
+2, irisdt.cn
+2, irisdt.com
+2, irisdt.net
+2, irisgw.cn
+2, irisgw.com
+2, irisgw.net
+2, ourbluecity.cn
+2, ourbluecity.com
+2, xiaogegelive.cn
+2, xiaogegelive.com
+2, xiaolanapp.com
+2, yijian-app.cn
+2, yijian-app.com

@@ -1,0 +1,81 @@
+# NAME: CIBN
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/CIBN/CIBN.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 71
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:31
+
+name = CIBN
+2, apecn.com
+2, china-ceec-cooperation.com
+2, china.com
+2, chinabroadcast.cn
+2, chinamwh.com
+2, chinaradio.cn
+2, chinesecity.com.cn
+2, chinesefilms.cn
+2, chineseradio.cn
+2, chineseradio.com.cn
+2, cibn-intl.com
+2, cibn.cc
+2, cibnlive.cn
+2, cibnlive.com
+2, cibnott.net
+2, cibntv.net
+2, cri-grandera.com
+2, cri-on.com
+2, cri.cn
+2, cri.com.cn
+2, criankara.com
+2, criarabic.com
+2, criberlin.com
+2, cribsas.com
+2, crichinese.cn
+2, cricr.cn
+2, cricz.cn
+2, crieasyfm.com
+2, crienglish.com
+2, criezfm.cn
+2, criezfm.com
+2, crilondon.com
+2, crimoscow.com
+2, crinewsradio.cn
+2, crinihaochina.com
+2, crionline.cn
+2, cririo.com
+2, criseoul.com
+2, crisydney.com
+2, critokyo.com
+2, criwashington.com
+2, discoverplusradio.cn
+2, discoverplusradio.com.cn
+2, globalfm.cn
+2, guotv.com
+2, guotv.com.cn
+2, gvmedia.com.cn
+2, hitfm.cn
+2, huawangzhixun.com
+2, imgcdc.com
+2, inetradio.cn
+2, itaiwannews.cn
+2, musicplusradio.cn
+2, newsplusradio.cn
+2, nihaotv.net
+2, novotrail.com
+2, novotrails.com
+2, primeplusradio.cn
+2, readingchinese.cn
+2, silkroddream.com
+2, silktrek.com
+2, sinorusfocus.com
+2, sinorussian21st.org
+2, starschina.cn
+2, starschina.com
+2, starschina.com.cn
+2, starschinalive.com
+2, temyee.com
+2, vdnplus.cn
+2, vdnplus.com
+2, vdnplus.net

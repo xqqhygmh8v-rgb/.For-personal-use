@@ -1,0 +1,27 @@
+# NAME: OneDrive
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/OneDrive/OneDrive.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 16
+# SKIPPED: 2
+# UPSTREAM-UPDATED: 2026-01-26 02:06:39
+# SKIPPED-TYPES: PROCESS-NAME=2
+
+name = OneDrive
+2, 1drv.com
+2, livefilestore.com
+2, microsoftpersonalcontent.com
+2, oneclient.sfx.ms
+2, onedrive.com
+2, onedrive.live.com
+2, photos.live.com
+2, sharepoint.com
+2, sharepointonline.com
+2, skydrive.wns.windows.com
+2, spoprod-a.akamaihd.net
+2, storage.live.com
+2, storage.msn.com
+3, 1drv
+3, onedrive
+3, skydrive

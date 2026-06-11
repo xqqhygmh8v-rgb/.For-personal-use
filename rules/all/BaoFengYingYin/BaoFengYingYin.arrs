@@ -1,0 +1,18 @@
+# NAME: BaoFengYingYin
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/BaoFengYingYin/BaoFengYingYin.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 8
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:31
+
+name = BaoFengYingYin
+2, baofeng.com
+2, baofeng.mobi
+2, baofeng.net
+2, baofengtv.com
+2, bfimg.com
+2, bfshow.cn
+2, bjtndao.org
+2, stormshow.cn

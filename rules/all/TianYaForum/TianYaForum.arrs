@@ -1,0 +1,23 @@
+# NAME: TianYaForum
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/TianYaForum/TianYaForum.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 13
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:38
+
+name = TianYaForum
+2, gz12301.com
+2, hainan.com
+2, hainan.net
+2, hi114.cn
+2, hibusiness.com
+2, hifortune.net
+2, laibafile.cn
+2, tianya.cn
+2, tianya.com.cn
+2, tianyablog.com
+2, tianyaclub.com
+2, tianyaui.com
+2, tysurl.com

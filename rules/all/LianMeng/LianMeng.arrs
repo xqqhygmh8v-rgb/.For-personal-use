@@ -1,0 +1,23 @@
+# NAME: LianMeng
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/LianMeng/LianMeng.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 13
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:01:07
+
+name = LianMeng
+2, 2333333333333.com
+2, bqtalk.com
+2, faceu.com
+2, faceu.com.cn
+2, faceu.mobi
+2, faceu.net
+2, heycan.com
+2, qmoji.mobi
+2, qmoji.net
+2, ulikecam.cn
+2, ulikecam.com
+2, ulikecam.mobi
+2, ulikecam.net

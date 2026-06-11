@@ -1,0 +1,17 @@
+# NAME: Download
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Download/Download.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 6
+# SKIPPED: 14
+# UPSTREAM-UPDATED: 2025-06-06 09:17:01
+# SKIPPED-TYPES: PROCESS-NAME=13, URL-REGEX=1
+
+name = Download
+2, qbittorrent.org
+3, aria2
+3, thunder
+3, xlliveud
+3, xunlei
+3, yunpan

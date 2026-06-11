@@ -1,0 +1,13 @@
+# NAME: Instagram
+# GENERATED-FOR: Anywhere Routing Rule Set
+# DESCRIPTION: Instagram
+# RULES: 4
+# SKIPPED: 0
+# SOURCES:
+# - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Instagram.list
+
+name = Instagram
+3, instagram
+2, cdninstagram.com
+2, instagr.am
+2, instagram.com

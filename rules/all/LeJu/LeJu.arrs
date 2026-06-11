@@ -1,0 +1,30 @@
+# NAME: LeJu
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/LeJu/LeJu.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 20
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:36
+
+name = LeJu
+2, 91leju.cn
+2, 91leju.com.cn
+2, 91leju.net
+2, dichan.com
+2, dichan.net
+2, esfimg.com
+2, fangdudu.com
+2, houseimg.com
+2, ileju.cn
+2, ileju.com
+2, jiajuimg.com
+2, leju.cn
+2, leju.com
+2, ljimg.com
+2, quanup.com
+2, sousea.com
+2, xhaiwai.com
+2, xhwhouse.cn
+2, xhwhouse.com
+2, yiqisooimg.com

@@ -1,0 +1,31 @@
+# NAME: YouMengChuangXiang
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/YouMengChuangXiang/YouMengChuangXiang.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 21
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:40
+
+name = YouMengChuangXiang
+2, 97973.com
+2, 97973.com.cn
+2, carrydj.com
+2, fldvz.cn
+2, hj-dog.com
+2, jyjqdn.cn
+2, lccnxn.cn
+2, ljnvb.cn
+2, lzcmm9x.cn
+2, maozhuar.cn
+2, maozhuar.com
+2, maozhuar.com.cn
+2, shsyfzq.cn
+2, smmdn.cn
+2, sylqmn.cn
+2, xcmy0.cn
+2, xuanyaodang.cn
+2, xuanyaodang.com
+2, xuanyaodang.net
+2, yblxyp.cn
+2, youmengchuangxiang.com

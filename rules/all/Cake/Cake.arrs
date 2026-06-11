@@ -1,0 +1,17 @@
+# NAME: Cake
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Cake/Cake.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 7
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:50
+
+name = Cake
+2, d1koerlbtsmkf8.cloudfront.net
+2, d31wl6mro6753i.cloudfront.net
+2, static-mycake.pstatic.net
+2, vstatic-mycake.pstatic.net
+2, cake.day
+2, cakeapp.me
+2, mycake.me

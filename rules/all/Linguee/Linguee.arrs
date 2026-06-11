@@ -1,0 +1,12 @@
+# NAME: Linguee
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Linguee/Linguee.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 2
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:54
+
+name = Linguee
+2, deepl.com
+2, linguee.com

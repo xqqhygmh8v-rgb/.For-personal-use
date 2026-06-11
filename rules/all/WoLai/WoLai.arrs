@@ -1,0 +1,15 @@
+# NAME: WoLai
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/WoLai/WoLai.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 5
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:49
+
+name = WoLai
+2, wol.tv
+2, wolai.com
+2, wolai.ren
+2, wostatic.cn
+2, woyun.work

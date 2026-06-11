@@ -1,0 +1,36 @@
+# NAME: WangXinKeJi
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/WangXinKeJi/WangXinKeJi.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 26
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:39
+
+name = WangXinKeJi
+2, 0101cdn.com
+2, hiveshared.com
+2, ionecloud.cn
+2, kuiniuca.com
+2, miuapp.com.cn
+2, onething.net
+2, onethingc.com
+2, onethingcloud.cn
+2, onethingcloud.com
+2, onethingd.com
+2, onethingn.com
+2, onethingpcs.com
+2, onethingtech.com.cn
+2, onethingtech.net
+2, peiluyou.com
+2, seekr.com.cn
+2, uhabo.com
+2, walk-live.com
+2, wezhibo.net
+2, wezhibo.tv
+2, wzhibo.net
+2, wzhibo.tv
+2, xunleioa.com
+2, xycdn.com
+2, xycloud.com
+2, xylive.tv

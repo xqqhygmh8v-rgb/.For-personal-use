@@ -1,0 +1,18 @@
+# NAME: WorldofWarcraft
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/WorldofWarcraft/WorldofWarcraft_Resolve.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 8
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:49
+
+name = WorldofWarcraft
+0, 103.4.115.248/32
+0, 137.221.105.2/32
+0, 185.60.112.157/32
+0, 185.60.112.158/32
+0, 185.60.114.159/32
+0, 210.71.148.11/32
+0, 211.115.104.1/32
+0, 24.105.62.129/32

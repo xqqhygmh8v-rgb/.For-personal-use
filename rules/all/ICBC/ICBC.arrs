@@ -1,0 +1,68 @@
+# NAME: ICBC
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ICBC/ICBC.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 58
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:35
+
+name = ICBC
+2, 95588.com
+2, 95588.com.cn
+2, dccnet.com.cn
+2, icbc
+2, icbc-at.com
+2, icbc-cz.com
+2, icbc-ltd.com
+2, icbc-uk.com
+2, icbc-us.com
+2, icbc.ae
+2, icbc.be
+2, icbc.co.id
+2, icbc.co.jp
+2, icbc.co.kr
+2, icbc.co.nl
+2, icbc.com.au
+2, icbc.com.cn
+2, icbc.com.es
+2, icbc.com.kh
+2, icbc.com.kw
+2, icbc.com.la
+2, icbc.com.mm
+2, icbc.com.mo
+2, icbc.com.mx
+2, icbc.com.pe
+2, icbc.com.pk
+2, icbc.com.qa
+2, icbc.com.sg
+2, icbc.com.vn
+2, icbc.de
+2, icbc.eu
+2, icbc.lu
+2, icbcalmaty.kz
+2, icbcasia.com
+2, icbcbr.com.br
+2, icbccs.com.cn
+2, icbccstz.com.cn
+2, icbci.com.hk
+2, icbcina.com
+2, icbcindia.com
+2, icbcit.com
+2, icbclondon.com
+2, icbcmanila.com.cn
+2, icbcme.ae
+2, icbcmoscow.ru
+2, icbcmy.com
+2, icbcnz.com
+2, icbcpanama.com
+2, icbcparis.fr
+2, icbcpl.com
+2, icbcstandard.com
+2, icbcstandardbank.com
+2, icbcstandardresources.com
+2, icbcstandardsecurities.com
+2, icbcswiss.com
+2, icbcthai.com
+2, icbkfs.com
+2, icbkus.com

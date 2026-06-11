@@ -1,0 +1,61 @@
+# NAME: TencentVideo
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/TencentVideo/TencentVideo_Resolve.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 51
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:29
+
+name = TencentVideo
+2, 00713915daab0be43def5c338c02c80b.dlied1.cdntips.net
+2, 17caa75e77d31e1f5a7841e0b3374569.dlied1.cdntips.net
+2, apd-pcdnvodstat.teg.tencent-cloud.net
+2, dldir1.qq.com
+2, iacc.qq.com
+2, ins-eeww7kom.ias.tencent-cloud.net
+2, ios.video.mpush.qq.com
+2, rdelivery.qq.com
+2, ts.qq.com
+2, v.streaming.qq.com
+2, video-public-1258344701.shiply-cdn.qq.com
+2, video-search-1258344701.shiply-cdn.qq.com
+2, video-vip-1258344701.shiply-cdn.qq.com
+2, yoo.gtimg.com
+2, pgdt.gtimg.cn
+2, qqvideo.gtimg.com
+2, v.qq.com
+2, v.smtcdns.com
+2, video.qq.com
+0, 58.49.111.117/32
+0, 58.49.111.79/32
+0, 58.49.111.95/32
+1, ::ffff:113.248.172.245/128
+1, ::ffff:114.235.96.186/128
+1, ::ffff:115.236.128.112/128
+1, ::ffff:115.236.128.120/128
+1, ::ffff:115.236.128.24/128
+1, ::ffff:115.236.128.80/128
+1, ::ffff:117.64.75.196/128
+1, ::ffff:117.68.200.210/128
+1, ::ffff:117.87.144.24/128
+1, ::ffff:121.56.126.255/128
+1, ::ffff:124.73.198.81/128
+1, ::ffff:124.73.200.142/128
+1, ::ffff:175.6.84.30/128
+1, ::ffff:175.6.84.96/128
+1, ::ffff:183.161.144.133/128
+1, ::ffff:183.161.144.230/128
+1, ::ffff:183.161.149.105/128
+1, ::ffff:198.18.5.138/128
+1, ::ffff:198.18.6.81/128
+1, ::ffff:198.18.6.83/128
+1, ::ffff:223.240.191.238/128
+1, ::ffff:27.157.209.46/128
+1, ::ffff:58.217.232.117/128
+1, ::ffff:58.217.232.68/128
+1, ::ffff:58.217.232.79/128
+1, ::ffff:58.58.0.90/128
+1, ::ffff:60.171.183.161/128
+1, ::ffff:60.171.183.186/128
+1, ::ffff:60.171.183.98/128

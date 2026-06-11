@@ -1,0 +1,24 @@
+# NAME: YiXiaKeJi
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/YiXiaKeJi/YiXiaKeJi.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 14
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:40
+
+name = YiXiaKeJi
+2, huangka.com
+2, iyuezhang.net
+2, miaokan.com
+2, miaopai.com
+2, vbbobo.com
+2, vitamio.net
+2, vitamio.org
+2, vitamio.tv
+2, vplayer.net
+2, weishipin.com
+2, xiaoka.tv
+2, xiaokaxiu.com
+2, yixia.com
+2, yixiatong.com

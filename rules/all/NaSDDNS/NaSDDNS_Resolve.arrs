@@ -1,0 +1,56 @@
+# NAME: NaSDDNS
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/NaSDDNS/NaSDDNS_Resolve.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 46
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:20:00
+
+name = NaSDDNS
+2, 3322.net
+2, 3322.org
+2, account.synology.com
+2, aliyuncs.com
+2, api.ipify.org
+2, api.nn.ci
+2, changeip.com
+2, checkip.synology.com
+2, checkipv6.synology.com
+2, checkport.synology.com
+2, ddns.synology.com
+2, ddnsfree.com
+2, dns-dns.com
+2, dnsapi.cn
+2, duckdns.org
+2, dyndns.org
+2, elb.amazonaws.com
+2, myddns.rocks
+2, myqnapcloud.com
+2, nat123.com
+2, netdata.cloud
+2, plex.direct
+2, plex.tv
+2, portcheck.transmissionbt.com
+2, qnap.com
+2, quickconnect.cn
+2, quickconnect.to
+2, suo.yt
+2, synocommunity.com
+2, synology.cn
+2, tpddns.cn
+2, whatismyip.akamai.com
+3, qcloud
+0, 100.24.218.0/24
+0, 18.214.42.0/24
+0, 3.231.124.0/24
+0, 34.199.209.0/24
+0, 34.226.9.0/24
+0, 34.234.183.0/24
+0, 34.235.82.0/24
+0, 44.209.213.0/24
+0, 50.16.43.0/24
+0, 52.200.32.0/24
+0, 52.86.69.0/24
+0, 54.159.2.0/24
+0, 54.166.1.0/24

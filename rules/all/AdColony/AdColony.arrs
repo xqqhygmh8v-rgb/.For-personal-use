@@ -1,0 +1,11 @@
+# NAME: AdColony
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/AdColony/AdColony.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 1
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:58
+
+name = AdColony
+2, adcolony.com

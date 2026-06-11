@@ -1,0 +1,29 @@
+# NAME: DAZN
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/DAZN/DAZN.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 18
+# SKIPPED: 1
+# UPSTREAM-UPDATED: 2025-06-06 09:16:57
+# SKIPPED-TYPES: USER-AGENT=1
+
+name = DAZN
+2, control.kochava.com
+2, d151l6v8er5bdm.cloudfront.net
+2, d1sgwhnao7452x.cloudfront.net
+2, dazn-api.com
+2, dazn.com
+2, dazndn.com
+2, dc2-vodhls-perform.secure.footprint.net
+2, dca-ll-livedazn-dznlivejp.s.llnwi.net
+2, dca-ll-voddazn-dznvodjp.s.llnwi.net
+2, dcalivedazn.akamaized.net
+2, dcblivedazn.akamaized.net
+2, indazn.com
+2, indaznlab.com
+2, intercom.io
+2, logx.optimizely.com
+2, s.yimg.jp
+2, sentry.io
+3, voddazn

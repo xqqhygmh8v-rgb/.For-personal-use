@@ -1,0 +1,26 @@
+# NAME: GoogleEarth
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/GoogleEarth/GoogleEarth.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 16
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:53
+
+name = GoogleEarth
+2, earth-pa.clients6.google.com
+2, earth.google.com
+2, kh.google.com
+2, khm.google.com
+2, khm.googleapis.com
+2, khm0.google.com
+2, khm0.googleapis.com
+2, khm1.google.com
+2, khm1.googleapis.com
+2, khm2.google.com
+2, khm2.googleapis.com
+2, khm3.google.com
+2, khm3.googleapis.com
+2, khmdb.google.com
+2, khmdb.googleapis.com
+2, mw1.google.com

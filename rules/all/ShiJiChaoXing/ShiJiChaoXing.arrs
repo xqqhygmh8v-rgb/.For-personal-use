@@ -1,0 +1,43 @@
+# NAME: ShiJiChaoXing
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ShiJiChaoXing/ShiJiChaoXing.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 33
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:25
+
+name = ShiJiChaoXing
+2, 16q.cn
+2, 5read.com
+2, aichaoxing.com
+2, chaoxing.cc
+2, chaoxing.com
+2, chaoxingv.com
+2, cxbiji.com
+2, hongbo100.com
+2, jikeiot.cloud
+2, lnlib.net
+2, mndqlib.net
+2, mti100.com
+2, nihaoafrica.org
+2, nihaorwanda.cn
+2, sslawy.com
+2, sslibrary.com
+2, ssreader.cn
+2, ssreader.com.cn
+2, ssvideo.cn
+2, ssvideo.com.cn
+2, study360.com.cn
+2, superlib.com
+2, superlib.net
+2, uonline-sh.com
+2, uonline-sh.net
+2, xuexi365.com
+2, xuexi365.com.cn
+2, xuexi365.net
+2, xxtmail.com
+2, ylike.net
+2, zaifan.com
+2, zaifan.com.cn
+2, zhihang100.com

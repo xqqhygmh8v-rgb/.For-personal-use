@@ -1,0 +1,19 @@
+# NAME: GaoDe
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/GaoDe/GaoDe.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 9
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:34
+
+name = GaoDe
+2, a-map.cn
+2, a-map.co
+2, a-map.link
+2, a-map.vip
+2, amap.com
+2, amapauto.com
+2, anav.com
+2, autonavi.com
+2, gaode.com

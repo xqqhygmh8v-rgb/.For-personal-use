@@ -1,0 +1,58 @@
+# NAME: HBO
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/HBO/HBO.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 47
+# SKIPPED: 3
+# UPSTREAM-UPDATED: 2025-06-06 09:16:58
+# SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=2
+
+name = HBO
+2, bcbolthboa-a.akamaihd.net
+2, cf-images.ap-southeast-1.prod.boltdns.net
+2, cinemax.com
+2, dai3fd1oh325y.cloudfront.net
+2, execute-api.ap-southeast-1.amazonaws.com
+2, execute-api.us-east-1.amazonaws.com
+2, forthethrone.com
+2, hbo.com
+2, hbo.com.c.footprint.net
+2, hbo.com.edgesuite.net
+2, hbo.map.fastly.net
+2, hboasia.com
+2, hboasia1-i.akamaihd.net
+2, hboasia2-i.akamaihd.net
+2, hboasia3-i.akamaihd.net
+2, hboasia4-i.akamaihd.net
+2, hboasia5-i.akamaihd.net
+2, hboasialive.akamaized.net
+2, hbogeo.cust.footprint.net
+2, hbogo.co.th
+2, hbogo.com
+2, hbogo.eu
+2, hbogoasia.com
+2, hbogoasia.hk
+2, hbogoasia.id
+2, hbogoasia.ph
+2, hbogoasia.sg
+2, hbogoasia.tw
+2, hbogoprod-vod.akamaized.net
+2, hbolb.onwardsmg.com
+2, hbomax.com
+2, hbomaxcdn.com
+2, hbomaxdash.s.llnwi.net
+2, hbonow.com
+2, hbounify-prod.evergent.com
+2, manifest.prod.boltdns.net
+2, max.com
+2, maxgo.com
+2, now-ashare.com
+2, now-tv.com
+2, now.com
+2, now.com.hk
+2, nowe.com
+2, nowe.hk
+2, players.brightcove.net
+2, warnermediacdn.com
+2, youboranqs01.com

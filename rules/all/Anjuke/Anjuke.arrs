@@ -1,0 +1,17 @@
+# NAME: Anjuke
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Anjuke/Anjuke.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 7
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:31
+
+name = Anjuke
+2, aifang.com
+2, aifcdn.com
+2, ajkinclude.com
+2, anjuke.cn
+2, anjuke.com
+2, anjukestatic.com
+2, jikejia.cn

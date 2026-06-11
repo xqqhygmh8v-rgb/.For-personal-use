@@ -1,0 +1,24 @@
+# NAME: BrightCove
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/BrightCove/BrightCove.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 14
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:42
+
+name = BrightCove
+2, bcove.video
+2, bcovlive-a.akamaihd.net
+2, bcovlive.io
+2, bcsecure01-a.akamaihd.net
+2, bcvp0rtal.com
+2, boltdns.net
+2, brightcove.com
+2, brightcove.imgix.net
+2, brightcove.net
+2, brightcove.services
+2, brightcovecdn.com
+2, videojs.com
+2, zencdn.net
+2, zencoder.com

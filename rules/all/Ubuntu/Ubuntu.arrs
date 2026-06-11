@@ -1,0 +1,64 @@
+# NAME: Ubuntu
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Ubuntu/Ubuntu.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 54
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:24
+
+name = Ubuntu
+2, aerialline.com
+2, askubuntu.com
+2, canonical.com
+2, debianadmin.com
+2, debuntu.org
+2, fullcirclemagazine.org
+2, iloveubuntu.net
+2, omgubuntu.co.uk
+2, snapcraft.io
+2, ualinux.com
+2, ubucentrum.net
+2, ubuntu-br.org
+2, ubuntu-cl.org
+2, ubuntu-fi.org
+2, ubuntu-fr.org
+2, ubuntu-gr.org
+2, ubuntu-hr.org
+2, ubuntu-ie.org
+2, ubuntu-it.org
+2, ubuntu-manual.org
+2, ubuntu-news.ru
+2, ubuntu-nl.org
+2, ubuntu-pe.org
+2, ubuntu-pt.org
+2, ubuntu-rs.org
+2, ubuntu-se.org
+2, ubuntu-touch.io
+2, ubuntu-tr.net
+2, ubuntu-tw.org
+2, ubuntu-vn.org
+2, ubuntu-za.org
+2, ubuntu.com
+2, ubuntu.cz
+2, ubuntu.hu
+2, ubuntu.ir
+2, ubuntu.lt
+2, ubuntu.lv
+2, ubuntu.net
+2, ubuntu.or.kr
+2, ubuntu.org.cn
+2, ubuntu.pl
+2, ubuntu.ro
+2, ubuntu.ru
+2, ubuntu.se
+2, ubuntu.si
+2, ubuntu.sk
+2, ubuntuclub.com
+2, ubuntuforums.org
+2, ubuntugeek.com
+2, ubuntuguide.org
+2, ubuntulinux.jp
+2, ubuntulinux.org
+2, ubuntustats.com
+2, ubuntuusers.de

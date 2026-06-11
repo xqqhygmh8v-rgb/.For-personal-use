@@ -1,0 +1,23 @@
+# NAME: 4399
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/4399/4399.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 13
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:01
+
+name = 4399
+2, 4399.cn
+2, 4399.com
+2, 4399.net
+2, 4399api.com
+2, 4399dmw.com
+2, 4399pk.com
+2, 4399sj.com
+2, 5054399.com
+2, edu4399.com
+2, funnycore.com
+2, img4399.com
+2, qq163.com
+2, qq163.net

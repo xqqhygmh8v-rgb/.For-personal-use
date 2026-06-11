@@ -1,0 +1,19 @@
+# NAME: ZeeTV
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ZeeTV/ZeeTV.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 9
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:00
+
+name = ZeeTV
+2, z5.app
+2, z5.com
+2, zee5.com
+2, zee5.in
+2, zee5.tv
+2, zeebioskop.com
+2, zeetv.co.uk
+2, zeetv.com
+2, zeeuk.com

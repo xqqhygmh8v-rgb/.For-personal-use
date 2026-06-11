@@ -1,0 +1,23 @@
+# NAME: Salesforce
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Salesforce/Salesforce.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 13
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:24
+
+name = Salesforce
+2, force.com
+2, heroku.com
+2, herokuapp.com
+2, herokucdn.com
+2, mulesoft.com
+2, salesforce.com
+2, salesforce.org
+2, salesforceliveagent.com
+2, sfdcdigital.com
+2, sfdcstatic.com
+2, tableau.com
+2, trailblazer.me
+2, trailhead.com

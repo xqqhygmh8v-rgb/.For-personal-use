@@ -1,0 +1,30 @@
+# NAME: SFExpress
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/SFExpress/SFExpress.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 20
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:37
+
+name = SFExpress
+2, feng1.com
+2, fslinker.com
+2, hbjia.net
+2, rongechain.com
+2, sf-airlines.com
+2, sf-cityrush.com
+2, sf-express.com
+2, sf-financial.com
+2, sf-intra-city.com
+2, sf-jf.com
+2, sf-saas.cn
+2, sf-saas.com
+2, sf-saas.com.cn
+2, sf-tech.com.cn
+2, sf.cn
+2, sfair.com
+2, sfbuy.com
+2, sfcar.hk
+2, sffix.cn
+2, sfgy.org

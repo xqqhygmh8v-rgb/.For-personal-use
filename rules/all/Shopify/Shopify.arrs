@@ -1,0 +1,18 @@
+# NAME: Shopify
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Shopify/Shopify.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 8
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:47
+
+name = Shopify
+2, myshopify.com
+2, shop.app
+2, shopify.com
+2, shopify.dev
+2, shopifycdn.com
+2, shopifycloud.com
+2, shopifystatus.com
+2, shopifysvc.com

@@ -1,0 +1,12 @@
+# NAME: AppleNews
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/AppleNews/AppleNews.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 2
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2026-01-26 02:06:40
+
+name = AppleNews
+2, gspe1-ssl.ls.apple.com
+2, news-client-search.apple.com

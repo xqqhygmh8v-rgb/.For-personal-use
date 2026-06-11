@@ -1,0 +1,54 @@
+# NAME: Apple
+# GENERATED-FOR: Anywhere Routing Rule Set
+# DESCRIPTION: 苹果基础服务
+# RULES: 44
+# SKIPPED: 23
+# SKIPPED-TYPES: USER-AGENT=23
+# SOURCES:
+# - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Apple.list
+
+name = Apple
+2, apple.co
+2, apple.cn
+2, apple.com
+2, apple.com.cn
+2, apple.com.cdn20.com
+2, apple.com.mwcloudcdn.com
+2, apple.com.mwcname.com
+2, apple.news
+2, appsto.re
+2, appstore.com
+2, cdn-apple.com
+2, apple-cloudkit.com
+2, apple-dns.net
+2, apple-livephotoskit.com
+2, apple-mapkit.com
+2, itunes.com.edgekey.net
+2, apple.com.edgekey.net
+2, apple-support.akadns.net
+2, apple.com.edgekey.net.globalredir.akadns.net
+2, aaplimg.com
+2, crashlytics.com
+2, digicert.com
+2, itunes.com
+2, me.com
+2, mzstatic.com
+2, apple
+2, apple.comscoreresearch.com
+3, icloud
+3, testflight
+3, apple.com.akadns.net
+0, 139.178.128.0/18
+0, 144.178.0.0/19
+0, 144.178.36.0/22
+0, 144.178.48.0/20
+0, 192.35.50.0/24
+0, 198.183.17.0/24
+0, 205.180.175.0/24
+0, 63.92.224.0/19
+0, 65.199.22.0/23
+0, 17.0.0.0/8
+1, 2403:300::/32
+1, 2620:149::/32
+1, 2a01:b740::/32
+1, 2a01:b747::/32

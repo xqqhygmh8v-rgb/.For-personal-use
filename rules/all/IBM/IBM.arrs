@@ -1,0 +1,22 @@
+# NAME: IBM
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/IBM/IBM.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 12
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:44
+
+name = IBM
+2, appdomain.cloud
+2, bluemix.com
+2, bluemix.net
+2, ibm
+2, ibm.com
+2, ibm.eu
+2, ibm.net
+2, ibm.us
+2, s-bluemix.net
+2, s81c.com
+2, weather.com
+2, weatherchannel

@@ -1,0 +1,18 @@
+# NAME: Limelight
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Limelight/Limelight.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 8
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:50
+
+name = Limelight
+2, delvenetworks.com
+2, limelight.com
+2, lldns.net
+2, llnw-trials.com
+2, llnw.com
+2, llnw.net
+2, llnwd.net
+2, llnwi.net

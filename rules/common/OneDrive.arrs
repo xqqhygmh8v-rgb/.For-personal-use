@@ -1,0 +1,25 @@
+# NAME: OneDrive
+# GENERATED-FOR: Anywhere Routing Rule Set
+# DESCRIPTION: OneDrive
+# RULES: 15
+# SKIPPED: 2
+# SKIPPED-TYPES: PROCESS-NAME=2
+# SOURCES:
+# - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OneDrive.list
+
+name = OneDrive
+3, 1drv
+3, onedrive
+3, skydrive
+2, livefilestore.com
+2, microsoftpersonalcontent.com
+2, oneclient.sfx.ms
+2, onedrive.com
+2, onedrive.live.com
+2, photos.live.com
+2, sharepoint.com
+2, sharepointonline.com
+2, skydrive.wns.windows.com
+2, spoprod-a.akamaihd.net
+2, storage.live.com
+2, storage.msn.com

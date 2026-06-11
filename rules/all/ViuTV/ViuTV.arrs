@@ -1,0 +1,19 @@
+# NAME: ViuTV
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ViuTV/ViuTV.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 8
+# SKIPPED: 4
+# UPSTREAM-UPDATED: 2025-06-06 09:17:00
+# SKIPPED-TYPES: PROCESS-NAME=3, USER-AGENT=1
+
+name = ViuTV
+2, cognito-identity.us-east-1.amazonaws.com
+2, d1k2us671qcoau.cloudfront.net
+2, d2anahhhmp1ffz.cloudfront.net
+2, dfp6rglgjqszk.cloudfront.net
+2, mobileanalytics.us-east-1.amazonaws.com
+2, viu.com
+2, viu.now.com
+2, viu.tv

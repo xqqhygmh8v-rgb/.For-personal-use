@@ -1,0 +1,21 @@
+# NAME: Ku6
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Ku6/Ku6.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 11
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:35
+
+name = Ku6
+2, feedsp.com
+2, juchang.cn
+2, juchang.com.cn
+2, ku6.cn
+2, ku6.com
+2, ku6.com.cn
+2, ku6.net
+2, ku6cdn.com
+2, ku6img.com
+2, ku6vms.com
+2, weiguan.com

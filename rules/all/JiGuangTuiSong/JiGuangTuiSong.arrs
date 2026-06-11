@@ -1,0 +1,28 @@
+# NAME: JiGuangTuiSong
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/JiGuangTuiSong/JiGuangTuiSong.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 18
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:35
+
+name = JiGuangTuiSong
+2, 42r.cn
+2, 5566ua.com
+2, aurorapush.cn
+2, e0n.cn
+2, easytomessage.com
+2, japps.cn
+2, jchat.io
+2, jiguang.cn
+2, jmlk.co
+2, jpush.cn
+2, jpush.io
+2, jpushoa.com
+2, jsurvey.cn
+2, jvoice.cn
+2, kc9.cn
+2, n0q.cn
+2, pushcfg.com
+2, s0n.cn

@@ -1,0 +1,16 @@
+# NAME: HaiNanHangKong
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/HaiNanHangKong/HaiNanHangKong.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 6
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:34
+
+name = HaiNanHangKong
+2, 10044.cn
+2, hainanairlines.com
+2, hnacargo.com
+2, hnair.com
+2, hnair.net
+3, hnagroup

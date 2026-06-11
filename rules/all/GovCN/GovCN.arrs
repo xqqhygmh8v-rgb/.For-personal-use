@@ -1,0 +1,26 @@
+# NAME: GovCN
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/GovCN/GovCN.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 16
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:50
+
+name = GovCN
+2, 91huayi.cn
+2, 91huayi.com
+2, 91huayi.net
+2, gov.cn
+2, heart301.cn
+2, henancme.net
+2, huayi.cn
+2, huayiweibo.com
+2, huayiyuan.com
+2, robot301.net
+2, roboticsurg301.net
+2, scncrc.com
+2, shiyanma.org.cn
+2, sqpx.org
+2, wsglw.com
+2, wsglw.net

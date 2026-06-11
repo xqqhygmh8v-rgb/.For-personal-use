@@ -1,0 +1,17 @@
+# NAME: BesTV
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/BesTV/BesTV.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 7
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:20:01
+
+name = BesTV
+2, bbtv.cn
+2, bestv.com.cn
+2, bestvcdn.cn
+2, bestvcdn.com
+2, bestvcdn.com.cn
+2, bestvcdn.net
+2, smgbb.cn

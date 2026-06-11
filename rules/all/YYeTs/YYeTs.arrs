@@ -1,0 +1,31 @@
+# NAME: YYeTs
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/YYeTs/YYeTs.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 21
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:40
+
+name = YYeTs
+2, got001.com
+2, got002.com
+2, jstucdn.com
+2, p4pfile.com
+2, playcvn.com
+2, rrys.tv
+2, rrys2019.com
+2, rrys2020.com
+2, rrysapp.com
+2, yyets.com
+2, zimuzu.com
+2, zimuzu.io
+2, zimuzu.tv
+2, zmz001.com
+2, zmz002.com
+2, zmz003.com
+2, zmz004.com
+2, zmz2019.com
+2, zmzapi.com
+2, zmzapi.net
+2, zmzfile.com

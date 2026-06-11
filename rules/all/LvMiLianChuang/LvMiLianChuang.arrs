@@ -1,0 +1,16 @@
+# NAME: LvMiLianChuang
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/LvMiLianChuang/LvMiLianChuang.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 6
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:36
+
+name = LvMiLianChuang
+2, aqara.cn
+2, aqara.com
+2, aqara.com.cn
+2, lumiunited.cn
+2, lumiunited.com
+2, lumiunited.com.cn

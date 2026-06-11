@@ -1,0 +1,39 @@
+# NAME: XieCheng
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/XieCheng/XieCheng.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 29
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:40
+
+name = XieCheng
+2, c-ctrip.com
+2, colinker.com
+2, ctrip.cn
+2, ctrip.co.id
+2, ctrip.co.kr
+2, ctrip.co.th
+2, ctrip.com
+2, ctrip.com.hk
+2, ctrip.my
+2, ctrip.sg
+2, ctripbiz.com
+2, ctripbuy.hk
+2, ctripteam.com
+2, doticloud.com
+2, easytrip.com
+2, hhtravel.com
+2, hhtravel.com.tw
+2, izuchebao.com
+2, lvtds.com
+2, shuntu.cn
+2, skysea.com
+2, suanya.cn
+2, suanya.com
+2, tieyou.com
+2, toptown.cn
+2, toursbms.com
+2, trip.com
+2, tripcdn.com
+2, vipdlt.com

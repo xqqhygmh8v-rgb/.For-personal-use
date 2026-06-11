@@ -1,0 +1,11 @@
+# NAME: ChinaNoMedia
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaNoMedia/ChinaNoMedia_Domain.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 0
+# SKIPPED: 3600
+# UPSTREAM-UPDATED: 2026-05-10 02:22:40
+# SKIPPED-TYPES: UNKNOWN=3600
+
+name = ChinaNoMedia

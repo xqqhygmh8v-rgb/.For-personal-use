@@ -1,0 +1,28 @@
+# NAME: Faronics
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Faronics/Faronics.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 18
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:24
+
+name = Faronics
+2, clickedu.co.uk
+2, deepfreeze.co.uk
+2, deepfreeze.com
+2, deepfreeze.com.br
+2, deepfreeze.eu
+2, deepfreeze.net
+2, deepfreeze.tech
+2, faronics.ca
+2, faronics.co.uk
+2, faronics.com
+2, faronics.com.au
+2, faronics.com.sg
+2, faronics.eu
+2, faronics.kayako.com
+2, faronics.tech
+2, faronicslabs.com
+2, faronicswise.co.uk
+2, faronicswise.com

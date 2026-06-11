@@ -1,0 +1,12 @@
+# NAME: LastPass
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/LastPass/LastPass.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 1
+# SKIPPED: 2
+# UPSTREAM-UPDATED: 2025-06-06 09:16:56
+# SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=1
+
+name = LastPass
+2, lastpass.com

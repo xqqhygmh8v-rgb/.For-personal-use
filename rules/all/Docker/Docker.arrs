@@ -1,0 +1,17 @@
+# NAME: Docker
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Docker/Docker.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 7
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:43
+
+name = Docker
+2, d1q6f0aelx0por.cloudfront.net
+2, d2wy8f7a9ursnm.cloudfront.net
+2, d36jcksde1wxzq.cloudfront.net
+2, compose-spec.io
+2, docker.com
+2, docker.io
+2, dockerhub.com

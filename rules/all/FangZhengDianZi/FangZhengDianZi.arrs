@@ -1,0 +1,29 @@
+# NAME: FangZhengDianZi
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/FangZhengDianZi/FangZhengDianZi.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 19
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:19:14
+
+name = FangZhengDianZi
+2, cloudpress.cn
+2, cloudpub.cn
+2, fangzhengshufa.com
+2, founder.com.cn
+2, founderfx.cn
+2, founderfx.com.cn
+2, founderss.cn
+2, foundertype.com
+2, fzdzyun.cn
+2, fzdzyun.com
+2, fzdzyun.com.cn
+2, fzyun.cn
+2, fzyun.net
+2, newaircloud.com
+2, study-cloud.cn
+2, study-cloud.com
+2, w2press.cn
+2, wisestcloud.com
+2, xiezixiansheng.com

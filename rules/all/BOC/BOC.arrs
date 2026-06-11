@@ -1,0 +1,32 @@
+# NAME: BOC
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/BOC/BOC.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 22
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:31
+
+name = BOC
+2, bank-of-china.com
+2, bankofchina.com
+2, boc.cn
+2, bocamchina.com
+2, bocaviation.com
+2, boccfc.cc
+2, boccfc.cn
+2, bocfullertonbank.com
+2, bocgi.com
+2, bocgins.com
+2, bochk.com
+2, bochkonline.com
+2, bocichina.cn
+2, bocichina.com
+2, bocichina.com.cn
+2, bocifunds.cn
+2, bocifunds.com
+2, bocifunds.com.cn
+2, bocigroup.com
+2, bocim.com
+2, bocservices.com.cn
+2, ftcwifi.com

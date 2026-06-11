@@ -1,0 +1,92 @@
+# NAME: NTPService
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/NTPService/NTPService.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 82
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:50
+
+name = NTPService
+2, cn.ntp.org.cn
+2, de.ntp.org.cn
+2, edu.ntp.org.cn
+2, hk.ntp.org.cn
+2, ina.ntp.org.cn
+2, jp.ntp.org.cn
+2, kr.ntp.org.cn
+2, ntp.aliyun.com
+2, ntp.cloud.aliyuncs.com
+2, ntp.sjtu.edu.cn
+2, ntp.tencent.com
+2, ntp1.aliyun.com
+2, ntp1.cloud.aliyuncs.com
+2, ntp10.cloud.aliyuncs.com
+2, ntp11.cloud.aliyuncs.com
+2, ntp12.cloud.aliyuncs.com
+2, ntp2.aliyun.com
+2, ntp2.cloud.aliyuncs.com
+2, ntp3.aliyun.com
+2, ntp3.cloud.aliyuncs.com
+2, ntp4.aliyun.com
+2, ntp4.cloud.aliyuncs.com
+2, ntp5.aliyun.com
+2, ntp5.cloud.aliyuncs.com
+2, ntp6.aliyun.com
+2, ntp6.cloud.aliyuncs.com
+2, ntp7.aliyun.com
+2, ntp7.cloud.aliyuncs.com
+2, ntp8.cloud.aliyuncs.com
+2, ntp9.cloud.aliyuncs.com
+2, pool.ntp.org
+2, s1a.time.edu.cn
+2, s1b.time.edu.cn
+2, s1c.time.edu.cn
+2, s1d.time.edu.cn
+2, s1e.time.edu.cn
+2, s2a.time.edu.cn
+2, s2b.time.edu.cn
+2, s2c.time.edu.cn
+2, s2d.time.edu.cn
+2, s2e.time.edu.cn
+2, s2f.time.edu.cn
+2, s2g.time.edu.cn
+2, s2h.time.edu.cn
+2, s2k.time.edu.cn
+2, s2m.time.edu.cn
+2, sgp.ntp.org.cn
+2, time.apple.com
+2, time.asia.apple.com
+2, time.nist.gov
+2, time.pool.aliyun.com
+2, time.windows.com
+2, time1.aliyun.com
+2, time1.apple.com
+2, time1.cloud.tencent.com
+2, time1.google.com
+2, time1.tencentyun.com
+2, time2.aliyun.com
+2, time2.apple.com
+2, time2.cloud.tencent.com
+2, time2.google.com
+2, time2.tencentyun.com
+2, time3.aliyun.com
+2, time3.apple.com
+2, time3.cloud.tencent.com
+2, time3.google.com
+2, time3.tencentyun.com
+2, time4.aliyun.com
+2, time4.apple.com
+2, time4.cloud.tencent.com
+2, time4.google.com
+2, time4.tencentyun.com
+2, time5.aliyun.com
+2, time5.apple.com
+2, time5.cloud.tencent.com
+2, time5.tencentyun.com
+2, time6.aliyun.com
+2, time6.apple.com
+2, time7.aliyun.com
+2, time7.apple.com
+2, tw.ntp.org.cn
+2, us.ntp.org.cn

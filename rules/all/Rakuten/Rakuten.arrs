@@ -1,0 +1,28 @@
+# NAME: Rakuten
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Rakuten/Rakuten.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 18
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:47
+
+name = Rakuten
+2, ebates.com
+2, infoseek.co.jp
+2, o50.jp
+2, r10.to
+2, r10s.com
+2, r10s.jp
+2, rakuten-static.com
+2, rakuten.ca
+2, rakuten.co.jp
+2, rakuten.com
+2, rakuten.com.tw
+2, rakuten.ne.jp
+2, rakuten.tw
+2, rclon.com
+2, rebates.jp
+2, showtime.co.jp
+2, viber.co.jp
+2, viber.com

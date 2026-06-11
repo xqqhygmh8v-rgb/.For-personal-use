@@ -1,0 +1,72 @@
+# NAME: Blizzard
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Blizzard/Blizzard_Resolve.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 62
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2026-06-10 02:46:02
+
+name = Blizzard
+2, battle.net
+2, battlenet.com.cn
+2, blizzard.com
+2, battlenet.com
+2, blizzard.cn
+2, blizzard.nefficient.co.kr
+2, blizzardgames.cn
+2, blizzardgearstore.com
+2, blizzcon-a.akamaihd.net
+2, blz-contentstack.com
+2, blz.nosdn.127.net
+2, blzddist1-a.akamaihd.net
+2, blzddistkr1-a.akamaihd.net
+2, blzmedia-a.akamaihd.net
+2, blznav.akamaized.net
+2, blzstatic.cn
+2, bnet.163.com
+2, bnetcmsus-a.akamaihd.net
+2, bnetproduct-a.akamaihd.net
+2, bnetshopus.akamaized.net
+2, cdp.cloud.unity3d.com
+2, di.res.netease.com
+2, diablo3.com
+2, diablo3.nosdn.127.net
+2, diabloimmortal.com
+2, firesidegatherings.com
+2, hearthstone.nosdn.127.net
+2, heroes.nos.netease.com
+2, heroesofthestorm.com
+2, overwatch.nosdn.127.net
+2, playhearthstone.com
+2, playoverwatch.com
+2, playwarcraft3.com
+2, sc2.nosdn.127.net
+2, starcraft.com
+2, starcraft2.com
+2, worldofwarcraft.com
+2, wow.nosdn.127.net
+2, wowchina.com
+0, 103.4.115.248/32
+0, 182.162.135.1/32
+0, 210.242.235.6/32
+0, 54.94.196.47/32
+0, 182.162.132.1/32
+0, 182.162.116.1/32
+0, 202.9.67.59/32
+0, 203.69.111.4/32
+0, 54.207.104.145/32
+0, 203.66.81.98/32
+0, 211.234.110.1/32
+0, 54.207.107.12/32
+0, 103.4.114.233/32
+0, 185.60.112.157/32
+0, 185.60.112.158/32
+0, 185.60.114.159/32
+0, 202.9.67.254/32
+0, 222.231.22.1/32
+0, 24.105.30.129/32
+0, 24.105.62.129/32
+0, 137.221.105.2/32
+0, 210.71.148.11/32
+0, 211.115.104.1/32

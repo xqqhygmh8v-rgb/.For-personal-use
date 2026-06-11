@@ -1,0 +1,14 @@
+# NAME: Patreon
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Patreon/Patreon.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 4
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:55
+
+name = Patreon
+2, live-patreon-marketing.pantheonsite.io
+2, patreon.com
+2, patreoncommunity.com
+2, patreonusercontent.com

@@ -1,0 +1,17 @@
+# NAME: Nikke
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Game/Nikke/Nikke.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 7
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:20:01
+
+name = Nikke
+2, anticheatexpert.com
+2, centauriglobal.com
+2, gamepass.com
+2, iegcom.com
+2, intlgame.com
+2, nikke-kr.com
+0, 43.152.114.31/32

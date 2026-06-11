@@ -1,0 +1,23 @@
+# NAME: DouYin
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/DouYin/DouYin.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 13
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:50
+
+name = DouYin
+2, lf3-static.bytednsdoc.com
+2, v5-dy-o-abtest.zjcdn.com
+2, amemv.com
+2, douyincdn.com
+2, douyinpic.com
+2, douyinstatic.com
+2, douyinvod.com
+2, idouyinvod.com
+2, ixigua.com
+2, ixiguavideo.com
+2, pstatp.com
+2, snssdk.com
+2, toutiao.com

@@ -1,0 +1,20 @@
+# NAME: AppleMusic
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/AppleMusic/AppleMusic.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 9
+# SKIPPED: 2
+# UPSTREAM-UPDATED: 2025-06-06 09:15:11
+# SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=1
+
+name = AppleMusic
+2, aod-ssl.itunes.apple.com
+2, aod.itunes.apple.com
+2, audio-ssl.itunes.apple.com
+2, audio.itunes.apple.com
+2, mvod.itunes.apple.com
+2, streamingaudio.itunes.apple.com
+2, applemusic.com
+2, blobstore.apple.com
+2, music.apple.com

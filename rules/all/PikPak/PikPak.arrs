@@ -1,0 +1,17 @@
+# NAME: PikPak
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/PikPak/PikPak.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 7
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:50
+
+name = PikPak
+2, dlandroid.rcv.sandai.net
+2, hub5idx.v6.shub.sandai.net
+2, hub5pn.wap.sandai.net
+2, hub5pnc.sandai.net
+2, hub5pr.v6.phub.sandai.net
+2, hubciddata.sandai.net
+3, mypikpak

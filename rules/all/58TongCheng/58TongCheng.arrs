@@ -1,0 +1,71 @@
+# NAME: 58TongCheng
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/58TongCheng/58TongCheng.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 61
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:30
+
+name = 58TongCheng
+2, 58.com
+2, 58.com.cn
+2, 5858.com
+2, 58antenna.cn
+2, 58antenna.com
+2, 58cdn.com.cn
+2, 58che.com
+2, 58control.cn
+2, 58corp.com
+2, 58dns.org
+2, 58ganji-corp.com
+2, 58ganji.com
+2, 58img.com.cn
+2, 58lovepet.com
+2, 58peilian.com
+2, 58shangban.com
+2, 58supin.com
+2, 58uxd.com
+2, 58v5.cn
+2, 58xinghuo.cn
+2, 58xinghuo.com
+2, 58xueche.com
+2, anjuke.com
+2, anjukestatic.com
+2, bangbang.com
+2, boxiaole.com
+2, caihongjia.com
+2, canbaojin.com
+2, chinahr.com
+2, chrstatic.com
+2, cnmo-img.com.cn
+2, cnmo.com
+2, daojia-inc.com
+2, daojia.com
+2, daojialianmeng.com
+2, ddimg.net
+2, diandao.org
+2, dj.tc
+2, djcdn.com.cn
+2, djtest.cn
+2, fang.com
+2, ganji.com
+2, ganjistatic1.com
+2, jiaoyibao.com
+2, jxedt.com
+2, jxksw.net
+2, kuche.com
+2, m91.com.cn
+2, nidiandaojia.com
+2, rescdn.cn
+2, roomeet.cn
+2, sofun.com
+2, soufunimg.com
+2, wubashangban.com
+2, xgo.com.cn
+2, xinchong.com
+2, yirenjiankang.cn
+2, zhuan-zhuan.cn
+2, zhuancorp.com
+2, zhuanspirit.com
+2, zhuanzhuan.com

@@ -1,0 +1,22 @@
+# NAME: Mail
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Mail/Mail.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 12
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:16:55
+
+name = Mail
+2, apple.imap.mail.yahoo.com
+2, apple.smtp.mail.yahoo.com
+2, imap-mail.outlook.com
+2, imap.gmail.com
+2, outlook.office365.com
+2, pop.gmail.com
+2, smtp-mail.outlook.com
+2, smtp.gmail.com
+2, smtp.office365.com
+2, imap.yandex.com
+2, m.hotmail.com
+2, smtp.yandex.com

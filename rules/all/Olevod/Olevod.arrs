@@ -1,0 +1,15 @@
+# NAME: Olevod
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Olevod/Olevod.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 5
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:20:01
+
+name = Olevod
+2, haiwaikan.com
+2, iole.tv
+2, olehd.com
+2, olelive.com
+3, olevod

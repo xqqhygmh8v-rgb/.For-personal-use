@@ -1,0 +1,24 @@
+# NAME: Cloudflarecn
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Cloudflarecn/Cloudflarecn.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 14
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2024-01-08 16:02:53
+
+name = Cloudflarecn
+2, cf-ns.com
+2, cf-ns.net
+2, cf-ns.site
+2, cf-ns.tech
+2, cftest5.cn
+2, cftest6.cn
+2, cftest7.com
+2, cftest8.com
+2, cloudflare-cn.com
+2, cloudflarecn.net
+2, cloudflareinsights-cn.com
+2, cloudflareprod.com
+2, cloudflarestaging.com
+2, cloudflarestoragegw.com

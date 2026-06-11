@@ -1,0 +1,48 @@
+# NAME: CMB
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/CMB/CMB.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 38
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:32
+
+name = CMB
+2, 8008205555.cn
+2, 8008205555.com
+2, bbf.org.cn
+2, bjsbnet.com
+2, chndoi.cn
+2, chndoi.com
+2, chndoi.com.cn
+2, chndoi.net
+2, chndoi.org
+2, cignacmb-ipmi.com
+2, cignacmb.com
+2, cignacmbamc.com
+2, cmb-leasing.com
+2, cmbchina.biz
+2, cmbchina.cn
+2, cmbchina.com
+2, cmbi.com.hk
+2, cmbimg.cn
+2, cmbimg.com
+2, cmbt.cn
+2, cmbuat.com
+2, cmburl.cn
+2, cmbwinglungbank.com
+2, cmf.biz
+2, cmf.ltd
+2, cmfchina.com
+2, cmfunds.cn
+2, cnki.net
+2, cnkidoi.cn
+2, cnkidoi.com
+2, cnkidoi.net
+2, cnkidoi.org
+2, test-cignacmb.com
+2, wuxizazhi.cn
+2, wuxizazhi.com
+2, wuxizazhi.com.cn
+2, wuxizazhi.net
+2, wuxizazhi.net.cn

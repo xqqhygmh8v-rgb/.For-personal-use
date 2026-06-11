@@ -1,0 +1,37 @@
+# NAME: ChinaNoMedia
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaNoMedia/ChinaNoMedia_Resolve.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 26
+# SKIPPED: 31
+# UPSTREAM-UPDATED: 2026-05-10 02:22:40
+# SKIPPED-TYPES: USER-AGENT=31
+
+name = ChinaNoMedia
+2, cn
+2, ms
+3, .tmall.com
+3, alicdn
+3, alipay
+3, aliyun
+3, baidu
+3, beplay
+3, microsoft
+3, officecdn
+3, taobao
+0, 1.255.62.0/24
+0, 101.32.118.0/23
+0, 101.32.96.0/20
+0, 119.28.28.28/32
+0, 120.195.181.180/32
+0, 129.226.0.0/16
+0, 182.254.116.0/24
+0, 183.128.0.0/11
+0, 185.188.32.0/22
+0, 203.205.238.0/23
+0, 203.205.254.0/23
+1, 2a0b:b580::/48
+1, 2a0b:b581::/48
+1, 2a0b:b582::/48
+1, 2a0b:b583::/48

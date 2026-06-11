@@ -1,0 +1,42 @@
+# NAME: Lenovo
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Lenovo/Lenovo.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 32
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:36
+
+name = Lenovo
+2, blurdev.com
+2, cftsupport.com
+2, fm365.com
+2, idea123.cn
+2, ileapcloud.com
+2, jhwan.com.cn
+2, juhuiwan.com
+2, juhuiwan.com.cn
+2, juhuiwan.net
+2, lenauth.com
+2, lenovo.cn
+2, lenovo.com
+2, lenovo.com.cn
+2, lenovocloudos.com
+2, lenovoeservice.com
+2, lenovogame.com
+2, lenovomm.cn
+2, lenovomm.com
+2, lenovovip.com.cn
+2, lx.pub
+2, lx.run
+2, lxzjjt.cn
+2, lxzjjt.com
+2, surepush.cn
+2, thinkcloudlab.com
+2, thinkpad.com
+2, zhiliaowenda.com.cn
+2, zui.cn
+2, zui.com
+2, zuk.cn
+2, zuk.com
+2, zuk.com.cn

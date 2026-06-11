@@ -1,0 +1,22 @@
+# NAME: ZDNS
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ZDNS/ZDNS.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 12
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:40
+
+name = ZDNS
+2, zcmbc.com.cn
+2, zdns.cn
+2, zdns.net.cn
+2, zdns.org.cn
+2, zdnscloud.biz
+2, zdnscloud.cn
+2, zdnscloud.com
+2, zdnscloud.com.cn
+2, zdnscloud.info
+2, zdnscloud.net
+2, zdnscloud.net.cn
+2, zdnscloud.org.cn

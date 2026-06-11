@@ -1,0 +1,11 @@
+# NAME: Advertising
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Advertising/Advertising_Domain.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 0
+# SKIPPED: 255685
+# UPSTREAM-UPDATED: 2026-06-10 02:43:39
+# SKIPPED-TYPES: UNKNOWN=255685
+
+name = Advertising

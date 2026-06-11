@@ -1,0 +1,19 @@
+# NAME: FengHuangWang
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/FengHuangWang/FengHuangWang.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 9
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:34
+
+name = FengHuangWang
+2, fengcx.com
+2, fengedu.com
+2, fengzhibo.com.cn
+2, ifeng.com
+2, ifengimg.com
+2, ifengweekly.com
+2, phoenixcenter.cn
+2, phoenixtv.com
+2, phoenixtv.com.cn

@@ -1,0 +1,21 @@
+# NAME: Majsoul
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Majsoul/Majsoul.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 11
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:18:25
+
+name = Majsoul
+2, game.maj-soul.com
+2, gateway-cdn.maj-soul.com
+2, gateway-hw.maj-soul.com
+2, gateway-sy.catmjstudio.com
+2, gateway-sy.maj-soul.com
+2, gateway-v2.maj-soul.com
+2, lb-cdn.maj-soul.com
+2, lb-hw.maj-soul.com
+2, lb-sy.maj-soul.com
+2, lb-v2.maj-soul.com
+2, majsoul-hk-client.cn-hongkong.log.aliyuncs.com

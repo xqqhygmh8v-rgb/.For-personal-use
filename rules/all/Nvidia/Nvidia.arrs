@@ -1,0 +1,72 @@
+# NAME: Nvidia
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Nvidia/Nvidia.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 62
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:46
+
+name = Nvidia
+2, geforce.cn
+2, geforce.co.kr
+2, geforce.co.uk
+2, geforce.com
+2, geforce.com.tw
+2, gputechconf.cn
+2, gputechconf.co.kr
+2, gputechconf.com
+2, gputechconf.com.au
+2, gputechconf.com.tw
+2, gputechconf.eu
+2, gputechconf.in
+2, gputechconf.jp
+2, nvda.d2.sc.omtrdc.net
+2, nvidia.asia
+2, nvidia.at
+2, nvidia.be
+2, nvidia.ch
+2, nvidia.cn
+2, nvidia.co.at
+2, nvidia.co.in
+2, nvidia.co.jp
+2, nvidia.co.kr
+2, nvidia.co.uk
+2, nvidia.com
+2, nvidia.com.au
+2, nvidia.com.br
+2, nvidia.com.mx
+2, nvidia.com.pe
+2, nvidia.com.pl
+2, nvidia.com.tr
+2, nvidia.com.tw
+2, nvidia.com.ua
+2, nvidia.com.ve
+2, nvidia.cz
+2, nvidia.de
+2, nvidia.dk
+2, nvidia.es
+2, nvidia.eu
+2, nvidia.fi
+2, nvidia.fr
+2, nvidia.in
+2, nvidia.it
+2, nvidia.jp
+2, nvidia.lu
+2, nvidia.mx
+2, nvidia.nl
+2, nvidia.no
+2, nvidia.pl
+2, nvidia.ro
+2, nvidia.ru
+2, nvidia.se
+2, nvidia.tt.omtrdc.net
+2, nvidia.tw
+2, nvidiaforhp.com
+2, nvidiagrid.net
+2, shotwithgeforce.com
+2, tegrazone.co
+2, tegrazone.co.kr
+2, tegrazone.com
+2, tegrazone.jp
+2, tegrazone.kr

@@ -1,0 +1,24 @@
+# NAME: DigiCert
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/DigiCert/DigiCert.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 14
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:43
+
+name = DigiCert
+2, dcocsp.cn
+2, digicert-cn.com
+2, digicert-validation.com
+2, digicert.cn
+2, digicert.com
+2, digitalcertvalidation.com
+2, freessl.com
+2, geotrust.com
+2, public-trust.com
+2, quovadisglobal.com
+2, rapidssl.com
+2, thawte.com
+2, thawte.de
+2, thawte.fr

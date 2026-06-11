@@ -1,0 +1,11 @@
+# NAME: Global
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_Domain.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 0
+# SKIPPED: 34420
+# UPSTREAM-UPDATED: 2026-06-10 02:47:24
+# SKIPPED-TYPES: UNKNOWN=34420
+
+name = Global

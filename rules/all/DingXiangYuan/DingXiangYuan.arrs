@@ -1,0 +1,26 @@
+# NAME: DingXiangYuan
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/DingXiangYuan/DingXiangYuan.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 16
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:33
+
+name = DingXiangYuan
+2, 0dxy.cn
+2, biomart.cn
+2, centerwatch.cn
+2, crou.cn
+2, dxy.cn
+2, dxy.com
+2, dxy.me
+2, dxy.net
+2, dxycdn.com
+2, dxyer.cn
+2, dxyer.com
+2, guanlannet.com
+2, jobmd.cn
+2, linkmed.com.cn
+2, mdnews.cn
+2, pubmed.cn

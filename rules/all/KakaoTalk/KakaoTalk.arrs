@@ -1,0 +1,25 @@
+# NAME: KakaoTalk
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/KakaoTalk/KakaoTalk.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 15
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:16:54
+
+name = KakaoTalk
+2, daum.net
+2, daumcdn.net
+2, daumkakao.io
+2, daumpotplayer.com
+2, kakao.co.kr
+2, kakao.com
+2, kakaocdn.net
+2, kakaocorp.com
+2, potplayer.tv
+0, 1.201.0.0/24
+0, 103.246.56.0/22
+0, 103.27.148.0/22
+0, 110.76.140.0/22
+0, 113.61.104.0/22
+0, 27.0.236.0/22

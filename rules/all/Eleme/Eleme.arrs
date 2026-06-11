@@ -1,0 +1,23 @@
+# NAME: Eleme
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Eleme/Eleme.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 13
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:33
+
+name = Eleme
+2, ele.me
+2, ele.to
+2, eleme.cn
+2, eleme.com.cn
+2, eleme.io
+2, elemecdn.cn
+2, elemecdn.com
+2, elenet.me
+2, fengniaopaotui.cn
+2, fengniaozhongbao.cn
+2, xingxuanwaimai.com
+2, xyzele.com
+2, youcaishop.cn

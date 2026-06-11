@@ -1,0 +1,93 @@
+# NAME: ChinaTelecom
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaTelecom/ChinaTelecom.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 83
+# SKIPPED: 0
+# UPSTREAM-UPDATED: 2025-06-06 09:17:32
+
+name = ChinaTelecom
+2, 01058511989.com
+2, 10000.gd.cn
+2, 189.cn
+2, 189jk.cn
+2, 189qas.com
+2, 21cn.com
+2, 21cn.net
+2, 21cnentmail.com
+2, 21cnimg.com
+2, 21cnsales.com
+2, 360sides.cn
+2, 360sides.com
+2, 360sides.net
+2, 4008100800.com
+2, 8009900800.com
+2, bnet.cn
+2, chinabnet.cn
+2, chinatelecom-h.com
+2, chinatelecom.cn
+2, chinatelecom.com.cn
+2, chinatelecom.net.cn
+2, chinatelecom.org.cn
+2, chinatelecomglobal.com
+2, chntel.com
+2, ctcdn.cn
+2, ctcdn.com
+2, ctcdn.com.cn
+2, ctcdn.net
+2, ctcdn.org
+2, ctdns.cn
+2, ctdns.com.cn
+2, ctdns.net
+2, ctdns.org
+2, ctexcel.ca
+2, ctexcel.com
+2, ctexcel.com.hk
+2, ctexcel.fr
+2, ctexcel.us
+2, cthcdn.cn
+2, cthcdn.com
+2, cthcdn.net
+2, ctid.com.cn
+2, ctlcdn.cn
+2, ctlcdn.com
+2, ctlcdn.net
+2, ctmcdn.cn
+2, ctmcdn.com
+2, ctmcdn.net
+2, ctrdc.com.cn
+2, ctxcdn.cn
+2, ctxcdn.com
+2, ctxcdn.net
+2, ctycdn.cn
+2, ctycdn.com
+2, ctycdn.net
+2, ctycdn.net.cn
+2, ctycdn.org
+2, ctyun.cn
+2, ctyun.com.cn
+2, ctyunapi.cn
+2, ctyunbdcsc.cn
+2, ctyuncdn.cn
+2, ctyuncdn.com
+2, ctyuncdn.net
+2, ctzcdn.cn
+2, ctzcdn.com
+2, ctzcdn.net
+2, gd12349.com.cn
+2, gdbnet.cn
+2, gddc.com.cn
+2, gdtel.com.cn
+2, guangzhou.gd.cn
+2, id6.me
+2, iptv.gd.cn
+2, iwuyou189.cn
+2, iwuyou189.com
+2, pzclub.cn
+2, szny189.com
+2, vnet.cn
+2, wuyou189.cn
+2, wuyou189.com
+2, ycy100.cn
+2, yichuangyun.com.cn
