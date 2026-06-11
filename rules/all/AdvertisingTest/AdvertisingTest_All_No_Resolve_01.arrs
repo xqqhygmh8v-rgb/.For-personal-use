@@ -5,13 +5,15 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 15
-# SOURCE-RULES: 280880
-# UPSTREAM-UPDATED: 2026-06-10 02:45:36
+# SOURCE-RULES: 281593
+# UPSTREAM-UPDATED: 2026-06-12 03:01:14
 # SKIPPED-TYPES: AND=1, URL-REGEX=14
 
 name = AdvertisingTest_01
+2, 103.179.189.35
 2, 103.224.182.210
 2, 107.148.45.21
+2, 109.123.233.251
 2, 110.93.143.144
 2, 154.199.255.184
 2, 156.233.32.123
@@ -10008,5 +10010,3 @@ name = AdvertisingTest_01
 2, sa2xskt.com
 2, sabin.free.fr
 2, sadbads.com
-2, sadiqtv.com
-2, sadsabs.com

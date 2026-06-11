@@ -3,12 +3,52 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 4572
+# RULES: 4612
 # SKIPPED: 0
-# SOURCE-RULES: 34572
-# UPSTREAM-UPDATED: 2026-06-10 02:47:24
+# SOURCE-RULES: 34612
+# UPSTREAM-UPDATED: 2026-06-12 03:03:08
 
 name = Global_04
+2, gaytube.com
+2, gaywatch.com
+2, gazotube.com
+2, gcc.org.hk
+2, gclooney.com
+2, gclubs.com
+2, gcmasia.com
+2, gcpnews.com
+2, gcr.io
+2, gdaily.org
+2, gdbt.net
+2, gdzf.org
+2, geek-art.net
+2, geekerhome.com
+2, geekheart.info
+2, gekikame.com
+2, gelbooru.com
+2, gencraft.com
+2, generated.photos
+2, geni.us
+2, genius.com
+2, geocities.co.jp
+2, geocities.com
+2, geocities.jp
+2, geph.io
+2, gerefoundation.org
+2, get.app
+2, get.dev
+2, get.how
+2, get.page
+2, getastrill.com
+2, getchu.com
+2, getcloak.com
+2, getcloudapp.com
+2, getfoxyproxy.org
+2, getfreedur.com
+2, getgom.com
+2, geti2p.net
+2, getjetso.com
+2, getlantern.org
 2, getmalus.com
 2, getmdl.io
 2, getoutline.org

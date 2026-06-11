@@ -5,10 +5,12 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 0
-# SOURCE-RULES: 112896
-# UPSTREAM-UPDATED: 2026-06-10 02:48:04
+# SOURCE-RULES: 112904
+# UPSTREAM-UPDATED: 2026-06-12 03:03:50
 
 name = ChinaTest_06
+2, htmlai.com
+2, htmleaf.com
 2, htmlsucai.com
 2, htmycn.com
 2, htnice.com
@@ -4321,6 +4323,7 @@ name = ChinaTest_06
 2, ishenping.com
 2, ishenyou.com
 2, ishijing.com
+2, ishijue.com
 2, ishipoffshore.com
 2, ishouhong.com
 2, ishouka.com
@@ -10006,6 +10009,3 @@ name = ChinaTest_06
 2, kedanm.com
 2, kedaotech.com
 2, kede-auto.com
-2, kede.com
-2, kedefamen.com
-2, kedi.cc

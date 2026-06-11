@@ -5,10 +5,11 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 0
-# SOURCE-RULES: 112896
-# UPSTREAM-UPDATED: 2026-06-10 02:48:04
+# SOURCE-RULES: 112904
+# UPSTREAM-UPDATED: 2026-06-12 03:03:50
 
 name = ChinaTest_04
+2, cznengshuo.com
 2, cznewcom.com
 2, czolgame.com
 2, czongyi.com
@@ -10008,4 +10009,3 @@ name = ChinaTest_04
 2, gdjysteel.com
 2, gdjyw.com
 2, gdjyyy.com
-2, gdkailin.com

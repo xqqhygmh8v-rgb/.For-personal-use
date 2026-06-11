@@ -5,10 +5,16 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 0
-# SOURCE-RULES: 112896
-# UPSTREAM-UPDATED: 2026-06-10 02:48:04
+# SOURCE-RULES: 112904
+# UPSTREAM-UPDATED: 2026-06-12 03:03:50
 
 name = ChinaTest_10
+2, tff.bz
+2, tfg2.com
+2, tfgame.vip
+2, tfgas.com
+2, tfgvb.com
+2, tfidc.net
 2, tfkj.games
 2, tfkyj.com
 2, tflzhongkongban.com
@@ -3004,6 +3010,7 @@ name = ChinaTest_10
 2, ucpaas.com
 2, ucpchina.com
 2, ucpopo.com
+2, ucppt.com
 2, ucren.com
 2, ucsanya.com
 2, ucss.ninja
@@ -3998,6 +4005,7 @@ name = ChinaTest_10
 2, vcd.io
 2, vcdnga.com
 2, vcg.com
+2, vcgapi.com
 2, vchangyi.com
 2, vcinchina.com
 2, vckbase.com
@@ -10001,11 +10009,3 @@ name = ChinaTest_10
 2, xianyugame.com
 2, xianyugouwu.com
 2, xianyuso.com
-2, xianyuwang.com
-2, xianyuyouxi.com
-2, xianzhanget.com
-2, xianzhi.net
-2, xianzhice.com
-2, xianzhid.com
-2, xianzhongwang.com
-2, xianzidaer.com

@@ -5,10 +5,11 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 0
-# SOURCE-RULES: 112896
-# UPSTREAM-UPDATED: 2026-06-10 02:48:04
+# SOURCE-RULES: 112904
+# UPSTREAM-UPDATED: 2026-06-12 03:03:50
 
 name = ChinaTest_05
+2, gdkailin.com
 2, gdkcsj.com
 2, gdkepler.com
 2, gdkingma.com
@@ -4453,6 +4454,7 @@ name = ChinaTest_05
 2, gxxlzyc.com
 2, gxxmglzx.com
 2, gxxmjjs.com
+2, gxxmt.com
 2, gxxmyjs.com
 2, gxxqsm.com
 2, gxxrf.com
@@ -10007,5 +10009,3 @@ name = ChinaTest_05
 2, html5mark.com
 2, html5plus.org
 2, html5train.com
-2, htmlai.com
-2, htmleaf.com

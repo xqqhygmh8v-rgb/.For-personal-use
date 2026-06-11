@@ -5,10 +5,14 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 0
-# SOURCE-RULES: 112896
-# UPSTREAM-UPDATED: 2026-06-10 02:48:04
+# SOURCE-RULES: 112904
+# UPSTREAM-UPDATED: 2026-06-12 03:03:50
 
 name = ChinaTest_08
+2, naominet.live
+2, naono.cc
+2, naosiling.com
+2, naozhong.net
 2, naozoejnnwzjaz.work
 2, napengzn.com
 2, napiantian.com
@@ -700,6 +704,7 @@ name = ChinaTest_08
 2, nfmedia.com
 2, nfmrtfv.com
 2, nfnews.com
+2, nfpeople.com
 2, nfqbyp.com
 2, nfs-china.com
 2, nfschina.com
@@ -2128,6 +2133,7 @@ name = ChinaTest_08
 2, nprc.net
 2, npsdyyy.com
 2, npsel.com
+2, npsv6.com
 2, nptpark.com
 2, nptparking.com
 2, nptwedding.com
@@ -10003,9 +10009,3 @@ name = ChinaTest_08
 2, ruyu.com
 2, ruyuecx.com
 2, ruyuexs.com
-2, ruzong.com
-2, ruzw.com
-2, rv28.com
-2, rv2go.com
-2, rvacvzhru.com
-2, rvcore.com

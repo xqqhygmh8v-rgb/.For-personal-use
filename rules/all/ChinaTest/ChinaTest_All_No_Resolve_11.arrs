@@ -5,10 +5,18 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 0
-# SOURCE-RULES: 112896
-# UPSTREAM-UPDATED: 2026-06-10 02:48:04
+# SOURCE-RULES: 112904
+# UPSTREAM-UPDATED: 2026-06-12 03:03:50
 
 name = ChinaTest_11
+2, xianyuwang.com
+2, xianyuyouxi.com
+2, xianzhanget.com
+2, xianzhi.net
+2, xianzhice.com
+2, xianzhid.com
+2, xianzhongwang.com
+2, xianzidaer.com
 2, xianzilaishui.com
 2, xianzxjy.com
 2, xiao-an.com
@@ -10001,11 +10009,3 @@ name = ChinaTest_11
 2, zhongjincc.com
 2, zhongjintongsheng.com
 2, zhongjiujiu.com
-2, zhongjiunanshuo.com
-2, zhongjixinyuan.com
-2, zhongjukiln.com
-2, zhongjunstone.com
-2, zhongkaiedu.com
-2, zhongkaohelp.com
-2, zhongkaowu.com
-2, zhongkecn.com

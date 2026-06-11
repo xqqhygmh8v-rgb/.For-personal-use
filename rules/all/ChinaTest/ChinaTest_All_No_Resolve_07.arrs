@@ -5,10 +5,13 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 0
-# SOURCE-RULES: 112896
-# UPSTREAM-UPDATED: 2026-06-10 02:48:04
+# SOURCE-RULES: 112904
+# UPSTREAM-UPDATED: 2026-06-12 03:03:50
 
 name = ChinaTest_07
+2, kede.com
+2, kedefamen.com
+2, kedi.cc
 2, kedian-tech.com
 2, kedianduo.com
 2, kedidairy.com
@@ -1845,6 +1848,7 @@ name = ChinaTest_07
 2, landed.cc
 2, landhonor.com
 2, landi.com
+2, landian.news
 2, landian.xyz
 2, landing-med.com
 2, landingbj.com
@@ -10005,7 +10009,3 @@ name = ChinaTest_07
 2, naoffer.com
 2, naokor.com
 2, naokr.com
-2, naominet.live
-2, naono.cc
-2, naosiling.com
-2, naozhong.net

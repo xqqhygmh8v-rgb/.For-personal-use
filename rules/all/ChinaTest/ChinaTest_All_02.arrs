@@ -5,8 +5,8 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 0
-# SOURCE-RULES: 112896
-# UPSTREAM-UPDATED: 2026-06-10 02:48:04
+# SOURCE-RULES: 112904
+# UPSTREAM-UPDATED: 2026-06-12 03:03:50
 
 name = ChinaTest_02
 2, 56ad2ddadaebfb59.com
@@ -4208,6 +4208,7 @@ name = ChinaTest_02
 2, ahceisc.com
 2, ahcfrc.com
 2, ahchanye.com
+2, ahcjw.com
 2, ahcnb.com
 2, ahcoating.com
 2, ahcsdz.com
@@ -10008,4 +10009,3 @@ name = ChinaTest_02
 2, bjpag.com
 2, bjpcyd.com
 2, bjpfh.com
-2, bjpifu.com

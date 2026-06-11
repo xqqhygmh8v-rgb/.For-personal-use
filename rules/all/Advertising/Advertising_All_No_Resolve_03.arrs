@@ -5,10 +5,32 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 0
-# SOURCE-RULES: 256452
-# UPSTREAM-UPDATED: 2026-06-10 02:43:41
+# SOURCE-RULES: 257125
+# UPSTREAM-UPDATED: 2026-06-12 02:59:16
 
 name = Advertising_03
+2, 6ku.icu
+2, 6kup12tgxx.com
+2, 6l1twlw9fy.com
+2, 6ldu6qa.com
+2, 6leaofqkh9.ru
+2, 6lf6elqq8pxvhwlih.cyou
+2, 6likosy.com
+2, 6lioz2j44t7br7c5.cyou
+2, 6lkfy9ng3hcp4jl.cfd
+2, 6lpm5zq6t3.com
+2, 6lx.fun
+2, 6m8tk53pw.com
+2, 6mdf9teiz.com
+2, 6n31kok4l1iezhyxr9t8wr95v.rest
+2, 6n528aywi9.com
+2, 6o04ylee62.com
+2, 6o2k80jf8w.com
+2, 6o719vq4x.com
+2, 6ogiuks905.com
+2, 6oj.fun
+2, 6opo.com
+2, 6ow9rhxtolls.gq
 2, 6p2g1kk03.com
 2, 6p6vcukqz.com
 2, 6pctuhriw.com
@@ -121,6 +143,7 @@ name = Advertising_03
 2, 72888710.xyz
 2, 728e89c437.1270533dea.com
 2, 7299tu75.cc
+2, 72a490562a.com
 2, 72hdgb5o.de
 2, 72qv9fhgm.com
 2, 72xh073u9.com
@@ -398,7 +421,9 @@ name = Advertising_03
 2, 7ff83b4a34.com
 2, 7fhginl5cekq8ykr5hc9bn26xwb.cfd
 2, 7fkm2r4pzi.com
+2, 7focry12ylhr5k5rv.cfd
 2, 7frenchweb.fr
+2, 7functions.com
 2, 7fva8algp45k.com
 2, 7g761j2nc.com
 2, 7gn744cwe3w8myjwunk.rest
@@ -478,6 +503,7 @@ name = Advertising_03
 2, 7shang9xia.com
 2, 7ssw.cn
 2, 7strqfn56s.com
+2, 7sz0wdk7.xyz
 2, 7t56.com
 2, 7tad.cn
 2, 7tc.fun
@@ -576,6 +602,7 @@ name = Advertising_03
 2, 82llnp8rqitlfxkyl4yil4o7383gp.cfd
 2, 82nuo2y239fb81pvq.cfd
 2, 82o9v830.com
+2, 82query.com
 2, 82zcb.icu
 2, 83032d92a4.com
 2, 830ea3f4ac.com
@@ -957,6 +984,7 @@ name = Advertising_03
 2, 8zse5d.cyou
 2, 9.www.cheetahhowevertowardsfrom.com
 2, 9001476746.com
+2, 9001car.com
 2, 900f44159b.com
 2, 90370.com
 2, 903e9c75f6.com
@@ -1150,6 +1178,7 @@ name = Advertising_03
 2, 989e2e0742.5f8eae82ca.com
 2, 98a54df250.com
 2, 98cbb83e14.com
+2, 98d4403b02.com
 2, 98dvu.fun
 2, 98fd7b1cb9.37f3bd8a22.com
 2, 98h1vujk5m8oog.cfd
@@ -1213,6 +1242,7 @@ name = Advertising_03
 2, 9bbd72928f.com
 2, 9bc94f7305.com
 2, 9bce82ca1a.com
+2, 9be5ft9obvn2ig.cfd
 2, 9bph.top
 2, 9buo.com
 2, 9c1e54fbf4.com
@@ -2064,6 +2094,7 @@ name = Advertising_03
 2, aaniphizog.click
 2, aanqylta.com
 2, aanyslvgdtooh.website
+2, aaowccyukgnkj.site
 2, aapeople.cn
 2, aapi.seo-w.com
 2, aapj.cn
@@ -2593,6 +2624,7 @@ name = Advertising_03
 2, abservinean.com
 2, abseydeveled.com
 2, abshop.fr
+2, absitoddlegs.cyou
 2, absjcirtbhm.com
 2, abskursin.com
 2, absm.hostliger.com
@@ -2624,6 +2656,7 @@ name = Advertising_03
 2, absorbingprison.com
 2, absorptionpersonalforesee.com
 2, absorptionservant.com
+2, absorptlogia.qpon
 2, absors.com
 2, absrywzhcedfx.website
 2, abstaininquisitive.com
@@ -2946,6 +2979,7 @@ name = Advertising_03
 2, acerdolspinout.qpon
 2, acerecipientevenings.com
 2, acertb.com
+2, acervaldiable.cyou
 2, acesso.alvesealvesimoveis.com.br
 2, acesso.imobiliariarspicarras.com.br
 2, acessoires-electromenager.fr
@@ -3083,6 +3117,7 @@ name = Advertising_03
 2, acquaintedexpectations.com
 2, acquaintedpostman.com
 2, acquaintjokinglyscoring.com
+2, acquestbaggily.cyou
 2, acquireattention.com
 2, acquirecardedsullen.com
 2, acquireddemonstration.com
@@ -3287,6 +3322,7 @@ name = Advertising_03
 2, acuhespetprps.online
 2, acuityads.com
 2, aculagdnfquvf.site
+2, aculeipicacho.qpon
 2, aculo.fr
 2, aculturerpa.info
 2, acumocceemuqj.space
@@ -4786,6 +4822,7 @@ name = Advertising_03
 2, admized.com
 2, admjmp.com
 2, admo.tv
+2, admoai.com
 2, admon.pro
 2, admondom.ru
 2, admonishconcentrate.com
@@ -7079,6 +7116,7 @@ name = Advertising_03
 2, aemomlrcnzmqj.website
 2, aenadjlofcqzj.space
 2, aencapi.amoremnutrir.com.br
+2, aeneanintuse.cyou
 2, aeneasclosure.website
 2, aennovzd.com
 2, aentcj.kingarthurflour.com
@@ -7665,6 +7703,7 @@ name = Advertising_03
 2, affordedseasick.com
 2, affordnope.com
 2, affordpeat.com
+2, affordregents.cfd
 2, affordspoonsgray.com
 2, affordstrawberryoverreact.com
 2, affordswear.com
@@ -7950,6 +7989,7 @@ name = Advertising_03
 2, agfasjfhveoqf.online
 2, agffrusilj.com
 2, agfsppekuik.com
+2, agfuzbqmrdoee.online
 2, aggawioqmptcw.site
 2, aggermnevis.cfd
 2, aggerpunka.com
@@ -8155,6 +8195,7 @@ name = Advertising_03
 2, agtm.stape.qa
 2, agtsavates.top
 2, aguamascormac.qpon
+2, agudistlamusintl.cyou
 2, aguisereasonfatling.cyou
 2, agujvjrpnins.com
 2, agukalty.net
@@ -8360,6 +8401,7 @@ name = Advertising_03
 2, aiadvi.com
 2, aiagjgqz.njasu.de
 2, aiagqtjxmktssq.com
+2, aiahosyhl.com
 2, aialp.aia.test.ajo.adobe.com
 2, aiamok.icu
 2, aiamu.drmartypets.com
@@ -8972,6 +9014,7 @@ name = Advertising_03
 2, akwnihwgxvmim.space
 2, akxiojpifqhsrn.com
 2, akxnizcz.com
+2, akxppoopmal.in
 2, akyei.xyz
 2, akzfxmgcq.com
 2, al-adtech.com
@@ -9197,6 +9240,7 @@ name = Advertising_03
 2, aldaminmaybush.shop
 2, aldanefissate.com
 2, aldayickers.click
+2, aldazinteaks.cyou
 2, aldealerret.cfd
 2, aldehyde06.com
 2, aldidevoiderhisn.cyou
@@ -9418,6 +9462,7 @@ name = Advertising_03
 2, alklinker.com
 2, alkoxylbutling.tech
 2, alkqryamjo.com
+2, alkvizkprpuky.site
 2, alkxsqzdvjwht.website
 2, alkylichauyne.digital
 2, all-about-tech.com
@@ -9556,6 +9601,7 @@ name = Advertising_03
 2, allpipestay.live
 2, allpornovids.com
 2, allprofitsurvey.top
+2, allputuphesa.com
 2, allrightjerseydresser.com
 2, allseedmillard.qpon
 2, allshareware.com
@@ -9719,6 +9765,7 @@ name = Advertising_03
 2, alt-ad.mail.ru
 2, alt-mk-sports.com
 2, alt-r.my.com
+2, alt.cobweb.com
 2, alt.proskillsbasketball.com
 2, altabold1.com
 2, altaideoside.qpon
@@ -9767,6 +9814,7 @@ name = Advertising_03
 2, altitude-arena.com
 2, altjtyjw.in
 2, altogethertapestrydunk.com
+2, altoistgussieverves.cyou
 2, altolsqy.com
 2, altowriestwispy.com
 2, altpool.pro
@@ -9853,6 +9901,7 @@ name = Advertising_03
 2, amads.xyz
 2, amaerodactylon.com
 2, amaferivvying.com
+2, amaistfens.shop
 2, amajwzon456.top
 2, amala-wav.com
 2, amalakale.com
@@ -9960,52 +10009,3 @@ name = Advertising_03
 2, ambra.com
 2, ambrosialsummit.com
 2, ambroty.xyz
-2, ambsacedeposeslance.cyou
-2, ambuizeler.com
-2, amcdn.vn
-2, amcjajogm.in
-2, amcleacoflg.net
-2, amcraahmou.com
-2, amd.sellingsimplified.net
-2, amdahlasinego.com
-2, amdahlbr.com
-2, amdahlpothery.help
-2, amdbughamr.in
-2, amdcopen.m.taobao.com
-2, amebanbiglot.uno
-2, amebassamshoo.cyou
-2, ameblojp.live
-2, ameedbezique.uno
-2, ameenoxidant.shop
-2, ameidj.xyz
-2, amelatrina.com
-2, amendablepartridge.com
-2, amendmentbutterfly.com
-2, amendmentinsistdevotion.com
-2, amendmentlakeinterim.com
-2, amendpayola.cyou
-2, amendsgeneralize.com
-2, amenismhollaed.cyou
-2, amenityleisurelydays.com
-2, amenityremorse.com
-2, amenrecorder.com
-2, amentalmobil.cyou
-2, amentsmodder.com
-2, ameofmuki.info
-2, americankitchen.fr
-2, americanlookout.com
-2, americanos.v4company.com
-2, americash.com
-2, amerzbj.cn
-2, amesacejagger.space
-2, amesgraduatel.xyz
-2, ametheyallflewa.com
-2, amethystzenith.com
-2, amewtoehwajro.site
-2, amexcadrillon.com
-2, amfennekinom.com
-2, amfgozboqtpjf.online
-2, amfoxwgipquyx.online
-2, amftsawknf.com
-2, amfzugolptnpo.space
-2, amg133180.com

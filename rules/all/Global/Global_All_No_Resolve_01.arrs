@@ -5,8 +5,8 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 47
-# SOURCE-RULES: 34572
-# UPSTREAM-UPDATED: 2026-06-10 02:47:24
+# SOURCE-RULES: 34612
+# UPSTREAM-UPDATED: 2026-06-12 03:03:08
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global_01
@@ -1525,6 +1525,7 @@ name = Global_01
 2, allizom.net
 2, allizom.org
 2, alljapanesepass.com
+2, allkeyshop.com
 2, allmomsex.com
 2, allnations.ac.uk
 2, allover30.com
@@ -2802,6 +2803,7 @@ name = Global_01
 2, avdwang.xyz
 2, avelip.com
 2, aventertainments.com
+2, avermedia.com
 2, aversbank.ru
 2, avfox.cc
 2, avgigi.com
@@ -3645,6 +3647,7 @@ name = Global_01
 2, beyondcore.com
 2, beyondtext.ac.uk
 2, bfa.ru
+2, bfads.net
 2, bffshd.com
 2, bfmat.ac.uk
 2, bftv.ac.uk
@@ -4982,6 +4985,7 @@ name = Global_01
 2, buypass.com
 2, buypass.no
 2, buypass.se
+2, buyservices.com
 2, buyshoponly.com
 2, buzzardflapper.com
 2, buzzav.com
@@ -6110,6 +6114,7 @@ name = Global_01
 2, coincarp.com
 2, coincheck.com
 2, coindesk.com
+2, coingate.com
 2, coinglass.com
 2, coinmap.org
 2, coinone.co.kr
@@ -7313,6 +7318,9 @@ name = Global_01
 2, discountbeatsstore.com
 2, discountedporn.com
 2, discountporn.club
+2, discourse-cdn.com
+2, discourse.group
+2, discourse.org
 2, discover.ac.uk
 2, discovereconomics.ac.uk
 2, discovershiretoko.org
@@ -8001,6 +8009,10 @@ name = Global_01
 2, ebahy.com
 2, ebalovo.com
 2, ebam.ac.uk
+2, ebates.ca
+2, ebates.kr
+2, ebates.sg
+2, ebatescanada.com
 2, ebay-authenticate.net
 2, ebay-confirm.com
 2, ebay-course.com
@@ -8188,6 +8200,7 @@ name = Global_01
 2, ebuyheadphones.com
 2, eca.ac.uk
 2, ecampus-leeds.ac.uk
+2, ecbsn.com
 2, ecc.ac.uk
 2, ecchinohentai.ru
 2, ecci.ac.uk
@@ -8329,6 +8342,7 @@ name = Global_01
 2, electronicarts.fr
 2, electronicsignature.ru
 2, electronjs.org
+2, elegantthemes.com
 2, element.io
 2, elementary.io
 2, elephantlist.com
@@ -9304,6 +9318,7 @@ name = Global_01
 2, fasttext.cc
 2, fasttrackreadysupport.com
 2, fatstube.com
+2, fatwallet.com
 2, fau11.com
 2, fault-analysis-group.ac.uk
 2, favebook.com
@@ -9441,6 +9456,7 @@ name = Global_01
 2, ficador.com
 2, ficbook.net
 2, ficeboock.com
+2, ficgs.com
 2, ficm.ac.uk
 2, ficmania.com
 2, fictionmania.tv
@@ -9994,19 +10010,3 @@ name = Global_01
 2, freezeframe.ac.uk
 2, freieporno.com
 2, freindfeed.com
-2, frenchhistorysociety.ac.uk
-2, frescolib.org
-2, freshporno.net
-2, freshscat.com
-2, freudbox.com
-2, freyalist.com
-2, friday.tw
-2, friendbook.info
-2, friendfed.com
-2, friendfeed-api.com
-2, friendfeedmedia.com
-2, friendfinder.com
-2, frishoes.com
-2, fritchy.com
-2, frontier.ac.uk
-2, frontiersin.org

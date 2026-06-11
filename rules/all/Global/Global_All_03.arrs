@@ -5,10 +5,40 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 0
-# SOURCE-RULES: 34572
-# UPSTREAM-UPDATED: 2026-06-10 02:47:24
+# SOURCE-RULES: 34612
+# UPSTREAM-UPDATED: 2026-06-12 03:03:08
 
 name = Global_03
+2, practicalmoneyskills.ca
+2, practicalmoneyskills.jp
+2, practicum.ac.uk
+2, pramu.ac.uk
+2, prastitutki.ru
+2, prcm.jp
+2, pre-bmwgroup.jobs
+2, predb.me
+2, predictivetechnologies.com
+2, premia.ac.uk
+2, premier.one
+2, premium-beauty.com
+2, premiumbooty.com
+2, premiumfs.de
+2, premiumhd.net
+2, premiumlive.site
+2, premiumpornlist.com
+2, premobay.com
+2, prepsure.com
+2, prescribe.ac.uk
+2, prescribingsafetyassessment.ac.uk
+2, presidencylondoncollege.ac.uk
+2, press.vin
+2, pressria.ru
+2, preston.ac.uk
+2, prestoncoll.ac.uk
+2, pretty-ass.xyz
+2, prettynubiles.com
+2, prettyvirgin.com
+2, prfct.co
 2, priceless.com
 2, priceless.org
 2, pricelessafrica.com
@@ -425,7 +455,10 @@ name = Global_03
 2, rakuten.ca
 2, rakuten.com
 2, rakuten.ne.jp
+2, rakuten.tv
 2, rakuten.tw
+2, rakutenadvertising.com
+2, rakutengiftcards.ca
 2, rakuya.com.tw
 2, ram.ac.uk
 2, randd.ac.uk
@@ -1001,6 +1034,7 @@ name = Global_03
 2, rprimelab.com
 2, rps.ac.uk
 2, rqbank.ir
+2, rrcbsn.com
 2, rrl28.buzz
 2, rrs1.xyz
 2, rrtis.com
@@ -4727,6 +4761,9 @@ name = Global_03
 2, underpinningexcellenceinhe.ac.uk
 2, understanding-inequalities.ac.uk
 2, understandingsociety.ac.uk
+2, unext-info.jp
+2, unext.co.jp
+2, unext.jp
 2, ungrounded.net
 2, uni-east.ac.uk
 2, unialliance.ac.uk
@@ -5245,6 +5282,7 @@ name = Global_03
 2, viewpointsfromfacebook.com
 2, vigorgame.com
 2, viju.ru
+2, viki.com
 2, vikiporn.com
 2, vilavpn.xyz
 2, vilavpn1.xyz
@@ -6376,6 +6414,7 @@ name = Global_03
 2, woolitecarpet.com
 2, worc.ac.uk
 2, worcester.ac.uk
+2, wordcamp.org
 2, wordpress.net
 2, wordpress.org
 2, wordpress.tv
@@ -7753,6 +7792,7 @@ name = Global_03
 2, ziporn.com
 2, ziraatbank.ru
 2, zishy.com
+2, zklighter.elliot.ai
 2, zlib.life
 2, zlibcdn.com
 2, zlibcdn2.com
@@ -9969,43 +10009,3 @@ name = Global_03
 2, gayhub.com
 2, gaymap.cc
 2, gaymenring.com
-2, gaytube.com
-2, gaywatch.com
-2, gazotube.com
-2, gcc.org.hk
-2, gclooney.com
-2, gclubs.com
-2, gcmasia.com
-2, gcpnews.com
-2, gcr.io
-2, gdaily.org
-2, gdbt.net
-2, gdzf.org
-2, geek-art.net
-2, geekerhome.com
-2, geekheart.info
-2, gekikame.com
-2, gelbooru.com
-2, gencraft.com
-2, generated.photos
-2, geni.us
-2, genius.com
-2, geocities.co.jp
-2, geocities.com
-2, geocities.jp
-2, geph.io
-2, gerefoundation.org
-2, get.app
-2, get.dev
-2, get.how
-2, get.page
-2, getastrill.com
-2, getchu.com
-2, getcloak.com
-2, getcloudapp.com
-2, getfoxyproxy.org
-2, getfreedur.com
-2, getgom.com
-2, geti2p.net
-2, getjetso.com
-2, getlantern.org

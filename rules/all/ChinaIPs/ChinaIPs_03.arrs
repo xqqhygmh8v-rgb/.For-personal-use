@@ -3,12 +3,14 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaIPs/ChinaIPs.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 2794
+# RULES: 2796
 # SKIPPED: 0
-# SOURCE-RULES: 22794
-# UPSTREAM-UPDATED: 2026-06-10 02:48:15
+# SOURCE-RULES: 22796
+# UPSTREAM-UPDATED: 2026-06-12 03:04:02
 
 name = ChinaIPs_03
+1, 2406:d180::/32
+1, 2406:d280::/32
 1, 2406:d2c0::/32
 1, 2406:d380::/32
 1, 2406:d440:100::/43

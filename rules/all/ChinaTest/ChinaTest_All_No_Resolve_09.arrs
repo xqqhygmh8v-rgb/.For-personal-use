@@ -5,10 +5,16 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 0
-# SOURCE-RULES: 112896
-# UPSTREAM-UPDATED: 2026-06-10 02:48:04
+# SOURCE-RULES: 112904
+# UPSTREAM-UPDATED: 2026-06-12 03:03:50
 
 name = ChinaTest_09
+2, ruzong.com
+2, ruzw.com
+2, rv28.com
+2, rv2go.com
+2, rvacvzhru.com
+2, rvcore.com
 2, rvedu.com
 2, rvfdp.com
 2, rvgyckhp.com
@@ -10003,9 +10009,3 @@ name = ChinaTest_09
 2, tfclub.com
 2, tfcsz.com
 2, tfedu.net
-2, tff.bz
-2, tfg2.com
-2, tfgame.vip
-2, tfgas.com
-2, tfgvb.com
-2, tfidc.net
