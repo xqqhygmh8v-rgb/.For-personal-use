@@ -5,58 +5,10 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 0
-# SOURCE-RULES: 112904
-# UPSTREAM-UPDATED: 2026-06-12 03:03:50
+# SOURCE-RULES: 112786
+# UPSTREAM-UPDATED: 2026-06-14 02:33:31
 
 name = ChinaTest_06
-2, htmlai.com
-2, htmleaf.com
-2, htmlsucai.com
-2, htmycn.com
-2, htnice.com
-2, htong.com
-2, htoo.vip
-2, htood.com
-2, htool.com
-2, htqjy.com
-2, htqyy.com
-2, htrip.biz
-2, hts-auto.com
-2, htsamc.com
-2, htsc.com
-2, htsec.net
-2, htsham.com
-2, htsjj.com
-2, htslauto.com
-2, htsprings.com
-2, httdsj.com
-2, htths.com
-2, httingshu.com
-2, http-dns.com
-2, httpcanary.com
-2, httpdns.pro
-2, httpsok.com
-2, httpssl.com
-2, htucloud.com
-2, htudata.com
-2, htudns.com
-2, hturl.cc
-2, htv123.com
-2, htvaas.com
-2, htvcentral.com
-2, htwcq.com
-2, htwx.net
-2, htx.cc
-2, htxgcw.com
-2, htxgssb.com
-2, htxrc.com
-2, htxxpx.com
-2, htxy.net
-2, htycs.com
-2, htyduck.com
-2, htyhm.com
-2, htyou.com
-2, htys.cc
 2, htys123.com
 2, htyswzzgw.com
 2, htyunwang.com
@@ -444,7 +396,6 @@ name = ChinaTest_06
 2, huashilm.com
 2, huashipharmacymtalionlineybpay.com
 2, huashitong.net
-2, huashphoto.com
 2, huashui.com
 2, huashuitax.com
 2, huashunxinan.net
@@ -1358,7 +1309,6 @@ name = ChinaTest_06
 2, hxchx.org
 2, hxclouds.com
 2, hxct.com
-2, hxct.ltd
 2, hxd56.com
 2, hxdec.com
 2, hxdi.com
@@ -2124,6 +2074,7 @@ name = ChinaTest_06
 2, hzyzxx.net
 2, hzzbco.com
 2, hzzckg.com
+2, hzzfcm.com
 2, hzzfxx.com
 2, hzzh.com
 2, hzzhaobiao.com
@@ -3336,7 +3287,6 @@ name = ChinaTest_06
 2, ilovechao.com
 2, ilovefishc.com
 2, iloveopened.com
-2, ilovey.live
 2, iloveyouxi.com
 2, ilovezuan.com
 2, ilovezz.com
@@ -4954,7 +4904,6 @@ name = ChinaTest_06
 2, j-ui.com
 2, j03og.app
 2, j0g0.com
-2, j1000plan.org
 2, j1998.com
 2, j1j5q683cj.world
 2, j2ee.cc
@@ -7685,7 +7634,6 @@ name = ChinaTest_06
 2, joyargroup.com
 2, joycity.mobi
 2, joydin.com
-2, joyes.com
 2, joyfire.net
 2, joyforce.com
 2, joygames.com
@@ -9927,7 +9875,6 @@ name = ChinaTest_06
 2, kci-gz.com
 2, kciptv.com
 2, kcjpharma.com
-2, kcjyyjzzs.com
 2, kcloudidc.com
 2, kcm120.com
 2, kcmice.com
@@ -9957,7 +9904,6 @@ name = ChinaTest_06
 2, kdhj-edu.net
 2, kdige.com
 2, kdkefu.com
-2, kdkh.com
 2, kdlgs.com
 2, kdnet.net
 2, kdniao.com
@@ -10009,3 +9955,57 @@ name = ChinaTest_06
 2, kedanm.com
 2, kedaotech.com
 2, kede-auto.com
+2, kede.com
+2, kedefamen.com
+2, kedi.cc
+2, kedian-tech.com
+2, kedianduo.com
+2, kedidairy.com
+2, kedingyun.com
+2, kedou.com
+2, keduxinxi.com
+2, kedwyz.com
+2, keede.com
+2, keejuu.com
+2, keen-dental.com
+2, keenbow.com
+2, keenonrobot.com
+2, keensky.com
+2, keep.com
+2, keep999.com
+2, keepc.com
+2, keepchen.com
+2, keepfightinghxz.xyz
+2, keepke.com
+2, keepmobi.com
+2, keepnight.com
+2, keepsoft.net
+2, keepyoga.com
+2, keerdapower.com
+2, keerqinmuseum.com
+2, keerworld.com
+2, keetalks.com
+2, keewin.com
+2, keey.sh
+2, kefeijn.com
+2, kefenxi.com
+2, kefoo.com
+2, kefu01.com
+2, kefutoutiao.com
+2, kefuzu.com
+2, kege.com
+2, kehaohao.com
+2, kehou.com
+2, kehu51.com
+2, kehuan-upward.com
+2, kehuda.com
+2, kehuduan.com
+2, kehuzhichi.com
+2, kehuzhichi.net
+2, keil345.com
+2, keinsci.com
+2, kejet.com
+2, keji100.net
+2, kejian.design
+2, kejianx.com
+2, kejibear.net

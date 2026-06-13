@@ -3,12 +3,29 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 4612
+# RULES: 4629
 # SKIPPED: 0
-# SOURCE-RULES: 34612
-# UPSTREAM-UPDATED: 2026-06-12 03:03:08
+# SOURCE-RULES: 34629
+# UPSTREAM-UPDATED: 2026-06-14 02:32:49
 
 name = Global_04
+2, gaozhisheng.org
+2, gardennetworks.com
+2, gardennetworks.org
+2, garena.com
+2, gartlive.com
+2, garudalinux.org
+2, gate-project.com
+2, gate.io
+2, gatecoin.com
+2, gather.com
+2, gatherproxy.com
+2, gati.org.tw
+2, gaybubble.com
+2, gaycn.net
+2, gayhub.com
+2, gaymap.cc
+2, gaymenring.com
 2, gaytube.com
 2, gaywatch.com
 2, gazotube.com

@@ -5,29 +5,10 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 0
-# SOURCE-RULES: 112904
-# UPSTREAM-UPDATED: 2026-06-12 03:03:50
+# SOURCE-RULES: 112786
+# UPSTREAM-UPDATED: 2026-06-14 02:33:31
 
 name = ChinaTest_04
-2, cznengshuo.com
-2, cznewcom.com
-2, czolgame.com
-2, czongyi.com
-2, czopen.com
-2, czpbxc.com
-2, czpoly.com
-2, czpv.net
-2, czqingzhifeng.com
-2, czqqkj.com
-2, czrcw.com
-2, czrjh.com
-2, czrmyy.com
-2, czrsymt.com
-2, czsafjx.com
-2, czsbtjx.com
-2, czsfy.com
-2, czsldy.com
-2, czsmk.com
 2, czsrc.com
 2, czsrmyy.com
 2, czsshb.com
@@ -471,7 +452,6 @@ name = ChinaTest_04
 2, dalwiaebulon.com
 2, dalwiakieyne.com
 2, dalwiaresham.com
-2, dalwl.work
 2, dalyfeds.com
 2, damai.com
 2, damaicheng.com
@@ -714,7 +694,6 @@ name = ChinaTest_04
 2, dashengpan.com
 2, dashengshan.com
 2, dashengzuji.com
-2, dashenquan.com
 2, dashentv.com
 2, dashenw.com
 2, dashet.com
@@ -938,6 +917,7 @@ name = ChinaTest_04
 2, dazhangfang.com
 2, dazhangqiu.com
 2, dazhantai.com
+2, dazhe.com
 2, dazhe5.com
 2, dazheda.com
 2, dazhengtop.com
@@ -1283,7 +1263,6 @@ name = ChinaTest_04
 2, deeceal.com
 2, deehon.com
 2, deemos.com
-2, deep-os.com
 2, deep56.com
 2, deepblog.net
 2, deepc.cc
@@ -2074,7 +2053,6 @@ name = ChinaTest_04
 2, digimons.net
 2, digirepub.com
 2, digisky.com
-2, digit3ds.com
 2, digital-hangzhou.com
 2, digital-ren.com
 2, digitalchina.com
@@ -3239,6 +3217,7 @@ name = ChinaTest_04
 2, doyoo.net
 2, doyoudo.com
 2, doyouhike.net
+2, doyys.com
 2, dozview.com
 2, dp.tech
 2, dp168.com
@@ -3428,7 +3407,6 @@ name = ChinaTest_04
 2, dscq.com
 2, dsdbxg.com
 2, dsdod.com
-2, dsdyf.com
 2, dseman.com
 2, dser.com
 2, dsfdy.com
@@ -4015,7 +3993,6 @@ name = ChinaTest_04
 2, dynavolt.net
 2, dynguyeniq.com
 2, dyonr.com
-2, dypf8.com
 2, dyqc.com
 2, dyqh.info
 2, dyqm888.com
@@ -4043,7 +4020,6 @@ name = ChinaTest_04
 2, dyxldjy.com
 2, dyxsdwm.com
 2, dyxtw.com
-2, dyxuexin.com
 2, dyxw.com
 2, dyxz.la
 2, dyxzyy.com
@@ -4408,7 +4384,6 @@ name = ChinaTest_04
 2, eastcompeace.com
 2, eastcoms.com
 2, eastdesign.net
-2, eastdrama.com
 2, eastdushi.com
 2, easteat.com
 2, eastecloud.com
@@ -4864,7 +4839,6 @@ name = ChinaTest_04
 2, eduic-sh.com
 2, eduiso.com
 2, edujia.com
-2, edujianshe.com
 2, edukuang.com
 2, edulawonline.com
 2, edulivevideo.com
@@ -4900,7 +4874,6 @@ name = ChinaTest_04
 2, eduzs.net
 2, edwiv.com
 2, edxmy.cc
-2, ee-nav.com
 2, ee067e33bd637916.com
 2, ee123.net
 2, ee1234.com
@@ -5168,7 +5141,6 @@ name = ChinaTest_04
 2, ejtsyc.com
 2, eju.com
 2, ejuhome.com
-2, ejunshi.com
 2, ejustcn.com
 2, ejy365.com
 2, ek-edu.com
@@ -5721,7 +5693,6 @@ name = ChinaTest_04
 2, ernaonet.com
 2, ernest.me
 2, eroacg.com
-2, eromesalo.com
 2, erongdu.com
 2, erp321.com
 2, erp321.net
@@ -6133,6 +6104,7 @@ name = ChinaTest_04
 2, ewtp.org
 2, ewu.cc
 2, ewuzhen.com
+2, ewytek.com
 2, ewzqsyuc.link
 2, ex-silver.com
 2, ex-starch.com
@@ -6192,7 +6164,6 @@ name = ChinaTest_04
 2, exmrw.com
 2, exnpk.com
 2, exntech.com
-2, exp99.com
 2, expba.com
 2, expdns.net
 2, expec-tech.com
@@ -6303,7 +6274,6 @@ name = ChinaTest_04
 2, eyourbusiness.com
 2, eyouwx.com
 2, eyprint.com
-2, eyspwkg.com
 2, eyuangong.com
 2, eyuconnect.com
 2, eyugame.com
@@ -6461,7 +6431,6 @@ name = ChinaTest_04
 2, fabiao.com
 2, fabiaoqing.com
 2, fabigbig.com
-2, fablusa.com
 2, fabpo.com
 2, fabu114.com
 2, faburuanwen.com
@@ -6957,7 +6926,6 @@ name = ChinaTest_04
 2, fcboxmall.com
 2, fcbs999.com
 2, fcbsgroup.com
-2, fcbu.com
 2, fcc8aa32d10251.beer
 2, fccs.com
 2, fccscar.com
@@ -8037,7 +8005,6 @@ name = ChinaTest_04
 2, flydigi.com
 2, flyenglish.com
 2, flyertea.com
-2, flyertrip.com
 2, flyfishx.com
 2, flyfunny.com
 2, flygo.net
@@ -8170,7 +8137,6 @@ name = ChinaTest_04
 2, folidaymall.com
 2, folij9nry5cxy8.com
 2, followintg.com
-2, followsteel.com
 2, folou.com
 2, fondcosplay.com
 2, foneplatform.com
@@ -9156,7 +9122,6 @@ name = ChinaTest_04
 2, fz597.com
 2, fzahw.com
 2, fzbbk.com
-2, fzbdcj.com
 2, fzbidding.com
 2, fzbingo.com
 2, fzbm.com
@@ -9709,7 +9674,6 @@ name = ChinaTest_04
 2, gbimg.com
 2, gbma.org
 2, gbofd.com
-2, gbox.pub
 2, gboxchina.com
 2, gbphar.com
 2, gbskptu1044.vip
@@ -10009,3 +9973,39 @@ name = ChinaTest_04
 2, gdjysteel.com
 2, gdjyw.com
 2, gdjyyy.com
+2, gdkailin.com
+2, gdkcsj.com
+2, gdkepler.com
+2, gdkingma.com
+2, gdkjb.com
+2, gdkjk56.com
+2, gdkjw.com
+2, gdkjzy.net
+2, gdks168.com
+2, gdkszx.com
+2, gdktzx.com
+2, gdkxpcb.com
+2, gdkyhj.com
+2, gdkz88.com
+2, gdlaoan.com
+2, gdlgsw.com
+2, gdlgxy.com
+2, gdlighting.com
+2, gdlii.com
+2, gdlinefly.com
+2, gdlingjie.net
+2, gdlins.com
+2, gdlkjt.com
+2, gdlmetc.com
+2, gdlnpumps.com
+2, gdlsgz.com
+2, gdlswl.com
+2, gdly-motor.com
+2, gdlz.com
+2, gdmagam.com
+2, gdmain.com
+2, gdmca.org
+2, gdmhjjt.com
+2, gdmia.com
+2, gdminda.com
+2, gdmm.com

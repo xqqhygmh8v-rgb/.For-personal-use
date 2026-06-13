@@ -3,129 +3,12 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaTest/ChinaTest_All.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 2904
+# RULES: 2786
 # SKIPPED: 0
-# SOURCE-RULES: 112904
-# UPSTREAM-UPDATED: 2026-06-12 03:03:50
+# SOURCE-RULES: 112786
+# UPSTREAM-UPDATED: 2026-06-14 02:33:31
 
 name = ChinaTest_12
-2, zhongjiunanshuo.com
-2, zhongjixinyuan.com
-2, zhongjukiln.com
-2, zhongjunstone.com
-2, zhongkaiedu.com
-2, zhongkaohelp.com
-2, zhongkaowu.com
-2, zhongkecn.com
-2, zhongkeguan.com
-2, zhongkekc.com
-2, zhongkerd.com
-2, zhongkezhihang.com
-2, zhongkongbancn.com
-2, zhongleny.com
-2, zhongli.com
-2, zhonglian.com
-2, zhonglianbiao.com
-2, zhonglianguanwei.com
-2, zhongliangxny.com
-2, zhonglianhuashu.com
-2, zhonglianhuaxin.com
-2, zhonglianyx.com
-2, zhongliusp.com
-2, zhongliuyiyuan.com
-2, zhonglue-consulting.com
-2, zhonglun.com
-2, zhonglunnet.com
-2, zhongluyuntong.com
-2, zhongmaohr.com
-2, zhongmei.com
-2, zhongmeigk.com
-2, zhongmeigk.hk
-2, zhongmian.com
-2, zhongminenergy.com
-2, zhongmingjiaoyu.net
-2, zhongnakeji.com
-2, zhongnengrecycling.com
-2, zhongnice.com
-2, zhongnongjimu.com
-2, zhongp.com
-2, zhongpaiwang.com
-2, zhongpenggufen.com
-2, zhongping.com
-2, zhongpingcapital.com
-2, zhongqijiye.com
-2, zhongqijt.com
-2, zhongqingshao.com
-2, zhongqixin360.com
-2, zhongran.org
-2, zhongrenbang.cc
-2, zhongruihuacheng.com
-2, zhongruiyaoye.com
-2, zhongsenmenye.com
-2, zhongshan-hotel.com
-2, zhongshanchengtai.com
-2, zhongshang114.com
-2, zhongshanpark.com
-2, zhongshantoukong.com
-2, zhongshanweixin.com
-2, zhongshanzhekai.com
-2, zhongshengdai.com
-2, zhongshenglong.xyz
-2, zhongshi-chem.com
-2, zhongshiqixie.com
-2, zhongshucan.com
-2, zhongshungroup.com
-2, zhongshuopg.com
-2, zhongso.com
-2, zhongsou.com
-2, zhongsou.net
-2, zhongtaihangzhou.com
-2, zhongtaitrust.com
-2, zhongtefamen.com
-2, zhongtieyintong.com
-2, zhongtong.com
-2, zhongtongshe.com
-2, zhongtou.co
-2, zhongtuirong.com
-2, zhongtuobang.com
-2, zhongtusy.com
-2, zhongwang.com
-2, zhongwangsc.com
-2, zhongwei-info.com
-2, zhongweicable.com
-2, zhongweihotels.com
-2, zhongwen.wiki
-2, zhongwenhexinqikan.com
-2, zhongwogroup.com
-2, zhongwucan.com
-2, zhongwulian.com
-2, zhongxiang.com
-2, zhongxiangdichan.net
-2, zhongxiangwang.co
-2, zhongxiaole.net
-2, zhongxiaoyl.com
-2, zhongxingglove.com
-2, zhongxinjzzs.com
-2, zhongxinkeji.vip
-2, zhongxinlm.com
-2, zhongxinwei.net
-2, zhongxinzhongxue.com
-2, zhongxisunve.com
-2, zhongxues.com
-2, zhongxuewuyou.net
-2, zhongxuewy.net
-2, zhongxunrunda.com
-2, zhongxuntv.com
-2, zhongxuyiyuan.com
-2, zhongyagroup.com
-2, zhongyangkeji.com
-2, zhongyangweixiu.com
-2, zhongyao365.com
-2, zhongyapeicui.com
-2, zhongyasmart.com
-2, zhongyejy.com
-2, zhongyf.com
-2, zhongyi6.com
 2, zhongyi9999.com
 2, zhongyibaodian.com
 2, zhongyiinc.com
@@ -2151,7 +2034,6 @@ name = ChinaTest_12
 2, ztwlgyl.com
 2, ztwzcg.com
 2, ztwzsc.com
-2, ztxxr.com
 2, ztxyg.com
 2, ztxygj.com
 2, ztxywy.net

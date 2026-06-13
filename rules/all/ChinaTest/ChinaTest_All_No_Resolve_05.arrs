@@ -5,46 +5,10 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 0
-# SOURCE-RULES: 112904
-# UPSTREAM-UPDATED: 2026-06-12 03:03:50
+# SOURCE-RULES: 112786
+# UPSTREAM-UPDATED: 2026-06-14 02:33:31
 
 name = ChinaTest_05
-2, gdkailin.com
-2, gdkcsj.com
-2, gdkepler.com
-2, gdkingma.com
-2, gdkjb.com
-2, gdkjk56.com
-2, gdkjw.com
-2, gdkjzy.net
-2, gdks168.com
-2, gdkszx.com
-2, gdktzx.com
-2, gdkxpcb.com
-2, gdkyhj.com
-2, gdkz88.com
-2, gdlaoan.com
-2, gdlgsw.com
-2, gdlgxy.com
-2, gdlighting.com
-2, gdlii.com
-2, gdlinefly.com
-2, gdlingjie.net
-2, gdlins.com
-2, gdlkjt.com
-2, gdlmetc.com
-2, gdlnpumps.com
-2, gdlsgz.com
-2, gdlswl.com
-2, gdly-motor.com
-2, gdlz.com
-2, gdmagam.com
-2, gdmain.com
-2, gdmca.org
-2, gdmhjjt.com
-2, gdmia.com
-2, gdminda.com
-2, gdmm.com
 2, gdmoa.org
 2, gdmschina.com
 2, gdmtjt.com
@@ -699,7 +663,6 @@ name = ChinaTest_05
 2, gggzhi.com
 2, gggzpw.com
 2, gghb.cloud
-2, gghcgg.com
 2, gghosp.net
 2, gghs.info
 2, gghualong.com
@@ -1461,7 +1424,6 @@ name = ChinaTest_05
 2, godo.pub
 2, godoor.com
 2, godotcn.com
-2, godsendcn.com
 2, godsheepteam.com
 2, godsignal.com
 2, godweiyang.com
@@ -1704,7 +1666,6 @@ name = ChinaTest_05
 2, goodjili.com
 2, goodjob100.com
 2, goodlcm.com
-2, goodlift.net
 2, goodluckcalendar.com
 2, goodmorening.com
 2, goodnic.net
@@ -1850,7 +1811,6 @@ name = ChinaTest_05
 2, gowlc.net
 2, gowmo.com
 2, gowonganinn.com
-2, goww.net
 2, goyihu.com
 2, goyoo.com
 2, gozap.com
@@ -3966,7 +3926,6 @@ name = ChinaTest_05
 2, gxmznzs.com
 2, gxnantong.com
 2, gxnapd.com
-2, gxnbjc.com
 2, gxnccq.com
 2, gxncgd.com
 2, gxnctzjt.com
@@ -4656,7 +4615,6 @@ name = ChinaTest_05
 2, gxzjjtgs.com
 2, gxzjy.com
 2, gxzkl.com
-2, gxzky.com
 2, gxzkzs.com
 2, gxzlcs.com
 2, gxzldt.com
@@ -4761,6 +4719,7 @@ name = ChinaTest_05
 2, gykgsx.com
 2, gykqyy.com
 2, gyljc.com
+2, gylmob.com
 2, gylwgjsyxx.com
 2, gylwyy.com
 2, gylxq.com
@@ -5019,7 +4978,6 @@ name = ChinaTest_05
 2, gzhrsa.org
 2, gzhsh.com
 2, gzhstars.net
-2, gzhtdz.com
 2, gzhtinfo.com
 2, gzhuake.cc
 2, gzhuamei.net
@@ -5367,7 +5325,6 @@ name = ChinaTest_05
 2, gzyct.com
 2, gzydnewmaterial.com
 2, gzydong.com
-2, gzydwh.com
 2, gzyfjsjt.com
 2, gzyflw.com
 2, gzyhg.vip
@@ -6682,7 +6639,6 @@ name = ChinaTest_05
 2, hbhxgroup.com
 2, hbhyychem.com
 2, hbhz.net
-2, hbiclqc.com
 2, hbicpa.org
 2, hbidc.net
 2, hbifeng.com
@@ -6973,7 +6929,6 @@ name = ChinaTest_05
 2, hcdyhr.com
 2, hceia.com
 2, hcepay.com
-2, hcfac888.com
 2, hcfc168.com
 2, hcftyy.com
 2, hcgaokong.com
@@ -7999,7 +7954,6 @@ name = ChinaTest_05
 2, hholy.com
 2, hhozw.com
 2, hhpcbs.com
-2, hhpj.net
 2, hhpmzp.com
 2, hhrcard.com
 2, hhrcw.com
@@ -8367,7 +8321,6 @@ name = ChinaTest_05
 2, hjdns.net
 2, hjdshop.cc
 2, hjdzn.com
-2, hjenglish.com
 2, hjg365.com
 2, hjgcd.com
 2, hjgroup-sdq.com
@@ -9617,7 +9570,6 @@ name = ChinaTest_05
 2, hpgamestream.com
 2, hpglw.com
 2, hpgzf.com
-2, hphwa.com
 2, hpichina.org
 2, hpicorp.net
 2, hpigc.com
@@ -10009,3 +9961,51 @@ name = ChinaTest_05
 2, html5mark.com
 2, html5plus.org
 2, html5train.com
+2, htmlai.com
+2, htmleaf.com
+2, htmlsucai.com
+2, htmycn.com
+2, htnice.com
+2, htong.com
+2, htoo.vip
+2, htood.com
+2, htool.com
+2, htqjy.com
+2, htqyy.com
+2, htrip.biz
+2, hts-auto.com
+2, htsamc.com
+2, htsc.com
+2, htsec.net
+2, htsham.com
+2, htsjj.com
+2, htslauto.com
+2, htsprings.com
+2, httdsj.com
+2, htths.com
+2, httingshu.com
+2, http-dns.com
+2, httpcanary.com
+2, httpdns.pro
+2, httpsok.com
+2, httpssl.com
+2, htucloud.com
+2, htudata.com
+2, htudns.com
+2, hturl.cc
+2, htv123.com
+2, htvaas.com
+2, htvcentral.com
+2, htwcq.com
+2, htwx.net
+2, htx.cc
+2, htxgcw.com
+2, htxgssb.com
+2, htxrc.com
+2, htxxpx.com
+2, htxy.net
+2, htycs.com
+2, htyduck.com
+2, htyhm.com
+2, htyou.com
+2, htys.cc

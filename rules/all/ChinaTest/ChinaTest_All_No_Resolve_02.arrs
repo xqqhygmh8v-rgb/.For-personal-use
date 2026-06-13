@@ -5,14 +5,10 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 0
-# SOURCE-RULES: 112904
-# UPSTREAM-UPDATED: 2026-06-12 03:03:50
+# SOURCE-RULES: 112786
+# UPSTREAM-UPDATED: 2026-06-14 02:33:31
 
 name = ChinaTest_02
-2, 56ad2ddadaebfb59.com
-2, 56ads.com
-2, 56beijing.org
-2, 56bid.com
 2, 56c.co
 2, 56care.com
 2, 56cheng.com
@@ -46,7 +42,6 @@ name = ChinaTest_02
 2, 56shangpu.com
 2, 56show.com
 2, 56shuku.org
-2, 56sing.com
 2, 56steel.com
 2, 56tchr.com
 2, 56tim.com
@@ -64,7 +59,6 @@ name = ChinaTest_02
 2, 571xz.com
 2, 57357.vip
 2, 574e313cc10272.beer
-2, 5755.com
 2, 57573zubo36833.com
 2, 576.com
 2, 57608.com
@@ -983,6 +977,7 @@ name = ChinaTest_02
 2, 698wan.com
 2, 69916666.com
 2, 699333.xyz
+2, 6996696.xyz
 2, 69981.com
 2, 699h5.com
 2, 699pic.com
@@ -1283,7 +1278,6 @@ name = ChinaTest_02
 2, 737698.xyz
 2, 73789.com
 2, 73864.org
-2, 73925.work
 2, 73980.org
 2, 7399.com
 2, 73bc.com
@@ -2405,7 +2399,6 @@ name = ChinaTest_02
 2, 912yx.com
 2, 91300.com
 2, 9133.com
-2, 9136.com
 2, 91360.com
 2, 91378.com
 2, 913aefac85f5bf8f.com
@@ -4017,6 +4010,7 @@ name = ChinaTest_02
 2, adxqd.com
 2, adxwork.com
 2, adxyun.com
+2, adxzoo.com
 2, adyoc.com
 2, adyounger.com
 2, adyuedong.com
@@ -5034,7 +5028,6 @@ name = ChinaTest_02
 2, akniu.com
 2, akoeva.com
 2, akomr.com
-2, akoo0509uis.com
 2, akpig.com
 2, akplayer.com
 2, akppt.net
@@ -6316,7 +6309,6 @@ name = ChinaTest_02
 2, aquair-china.com
 2, aquanliang.com
 2, aquanutriera.com
-2, aquanyou.com
 2, aquapipetech.com
 2, aquaterramail.com
 2, aquathlondenice.com
@@ -6777,6 +6769,7 @@ name = ChinaTest_02
 2, augurit.com
 2, augustcn.com
 2, auiou.com
+2, aukcl.win
 2, aulacn.com
 2, auldey.com
 2, aumantruck.com
@@ -7385,7 +7378,6 @@ name = ChinaTest_02
 2, baby-bus.com
 2, baby-joy.com
 2, baby577.com
-2, baby611.com
 2, baby7blog.com
 2, baby868.com
 2, babybus.com
@@ -7923,7 +7915,6 @@ name = ChinaTest_02
 2, banniuyun.com
 2, banqumusic.com
 2, bansha.com
-2, banshangong.com
 2, banshier.com
 2, bantangapp.com
 2, bantouyan.com
@@ -10009,3 +10000,12 @@ name = ChinaTest_02
 2, bjpag.com
 2, bjpcyd.com
 2, bjpfh.com
+2, bjpifu.com
+2, bjpinweixuan.com
+2, bjpmhyxh.com
+2, bjpowernode.com
+2, bjppa.com
+2, bjpryk.com
+2, bjqh.org
+2, bjqhgjj.com
+2, bjqichezl.com

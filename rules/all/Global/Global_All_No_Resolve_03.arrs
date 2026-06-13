@@ -5,10 +5,14 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 0
-# SOURCE-RULES: 34612
-# UPSTREAM-UPDATED: 2026-06-12 03:03:08
+# SOURCE-RULES: 34629
+# UPSTREAM-UPDATED: 2026-06-14 02:32:49
 
 name = Global_03
+2, ppp91.cc
+2, pppds.com
+2, ppre.ac.uk
+2, practicalbusinessskills.com
 2, practicalmoneyskills.ca
 2, practicalmoneyskills.jp
 2, practicum.ac.uk
@@ -4953,6 +4957,7 @@ name = Global_03
 2, v-av.com
 2, v-has.com
 2, v-resort.ac.uk
+2, v.ps
 2, v2ph.com
 2, v2ray.cool
 2, v2raytech.com
@@ -4977,6 +4982,7 @@ name = Global_03
 2, value-domain.com
 2, value-server.com
 2, valuegb.com
+2, valve.net
 2, vam.ac.uk
 2, vamo.com
 2, vamsas.ac.uk
@@ -5801,6 +5807,7 @@ name = Global_03
 2, vpornvideos.com
 2, vpro.com
 2, vpro.net
+2, vps.hosting
 2, vrbgay.com
 2, vrcams.io
 2, vrcdn.cloud
@@ -6893,6 +6900,16 @@ name = Global_03
 2, xsz-av.com
 2, xtapes.to
 2, xtegvk.xyz
+2, xtom.au
+2, xtom.com
+2, xtom.de
+2, xtom.ee
+2, xtom.hk
+2, xtom.jp
+2, xtom.nl
+2, xtom.sg
+2, xtom.social
+2, xtom.us
 2, xtracloud.net
 2, xtubebdsm.com
 2, xtubezoo.com
@@ -9992,20 +10009,3 @@ name = Global_03
 2, gaoming.net
 2, gaopi.net
 2, gaozhisheng.net
-2, gaozhisheng.org
-2, gardennetworks.com
-2, gardennetworks.org
-2, garena.com
-2, gartlive.com
-2, garudalinux.org
-2, gate-project.com
-2, gate.io
-2, gatecoin.com
-2, gather.com
-2, gatherproxy.com
-2, gati.org.tw
-2, gaybubble.com
-2, gaycn.net
-2, gayhub.com
-2, gaymap.cc
-2, gaymenring.com

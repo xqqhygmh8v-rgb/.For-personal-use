@@ -5,8 +5,8 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 47
-# SOURCE-RULES: 34612
-# UPSTREAM-UPDATED: 2026-06-12 03:03:08
+# SOURCE-RULES: 34629
+# UPSTREAM-UPDATED: 2026-06-14 02:32:49
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global_01
@@ -339,7 +339,6 @@ name = Global_01
 2, 24porn.com
 2, 24porn.pro
 2, 258porn.com
-2, 265.com
 2, 265sdwe3.com
 2, 2789av.com
 2, 27mmwmmw.top
@@ -7579,6 +7578,7 @@ name = Global_01
 2, doseofporn.com
 2, dot-mac.de
 2, dot.net
+2, dota2.com
 2, dotcernpilot.info
 2, dotdeb.org
 2, dotfacebook.com

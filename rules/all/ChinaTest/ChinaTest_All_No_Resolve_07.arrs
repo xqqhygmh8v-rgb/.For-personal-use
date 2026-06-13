@@ -5,64 +5,10 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 0
-# SOURCE-RULES: 112904
-# UPSTREAM-UPDATED: 2026-06-12 03:03:50
+# SOURCE-RULES: 112786
+# UPSTREAM-UPDATED: 2026-06-14 02:33:31
 
 name = ChinaTest_07
-2, kede.com
-2, kedefamen.com
-2, kedi.cc
-2, kedian-tech.com
-2, kedianduo.com
-2, kedidairy.com
-2, kedingyun.com
-2, kedou.com
-2, keduxinxi.com
-2, kedwyz.com
-2, keede.com
-2, keejuu.com
-2, keen-dental.com
-2, keenbow.com
-2, keenonrobot.com
-2, keensky.com
-2, keep.com
-2, keep999.com
-2, keepc.com
-2, keepchen.com
-2, keepfightinghxz.xyz
-2, keepke.com
-2, keepmobi.com
-2, keepnight.com
-2, keepsoft.net
-2, keepyoga.com
-2, keerdapower.com
-2, keerqinmuseum.com
-2, keerworld.com
-2, keetalks.com
-2, keewin.com
-2, keey.sh
-2, kefeijn.com
-2, kefenxi.com
-2, kefoo.com
-2, kefu01.com
-2, kefutoutiao.com
-2, kefuzu.com
-2, kege.com
-2, kehaohao.com
-2, kehou.com
-2, kehu51.com
-2, kehuan-upward.com
-2, kehuda.com
-2, kehuduan.com
-2, kehuzhichi.com
-2, kehuzhichi.net
-2, keil345.com
-2, keinsci.com
-2, kejet.com
-2, keji100.net
-2, kejian.design
-2, kejianx.com
-2, kejibear.net
 2, kejicut.com
 2, kejihai.com
 2, kejik.com
@@ -650,7 +596,6 @@ name = ChinaTest_07
 2, kllife.com
 2, klmnf.com
 2, klmy118114.com
-2, klmybbs.com
 2, klmymarathon.com
 2, klmyssn.com
 2, klner.com
@@ -784,8 +729,10 @@ name = ChinaTest_07
 2, knzlcq.com
 2, ko0.com
 2, koal.com
+2, koala-transfer.com
 2, koalacam.net
 2, koalareading.com
+2, koalaremit.com
 2, koalasolo.com
 2, koba8.com
 2, kobelco-zh.com
@@ -836,7 +783,6 @@ name = ChinaTest_07
 2, kongjitang.com
 2, kongjun.com
 2, kongkangroup.com
-2, konglei.com
 2, kongming-inc.com
 2, kongqinengrebeng.com
 2, kongquecheng.com
@@ -1412,6 +1358,7 @@ name = ChinaTest_07
 2, kunmingbc.com
 2, kunmingguolv.net
 2, kunmingkanghui.com
+2, kunpeng666888.com
 2, kunpengkg.com
 2, kunpengtn.com
 2, kunpo.cc
@@ -1771,7 +1718,6 @@ name = ChinaTest_07
 2, laiqi.net
 2, laiqm.com
 2, laiqukankan.com
-2, laiqy.com
 2, laird-tek.com
 2, laisai.com
 2, laishui.info
@@ -1842,6 +1788,7 @@ name = ChinaTest_07
 2, landa-solenoid.com
 2, landai.com
 2, landaiwood.com
+2, landao.app
 2, landbond.com
 2, landbridge.com
 2, landchina.com
@@ -2123,6 +2070,7 @@ name = ChinaTest_07
 2, laozu.com
 2, laozuo.org
 2, lapc.cc
+2, lapianpay.com
 2, laplace-semi.com
 2, lapostea.cfd
 2, lapulace.com
@@ -2306,7 +2254,6 @@ name = ChinaTest_07
 2, lc-news.com
 2, lc-rc.com
 2, lc044.love
-2, lc1001.com
 2, lc123.net
 2, lc1618.com
 2, lc787.com
@@ -2396,7 +2343,6 @@ name = ChinaTest_07
 2, ld0766.com
 2, ld12366.com
 2, ld173.com
-2, ldaq2005.com
 2, ldb.cc
 2, ldbj.com
 2, ldbmcs.com
@@ -2531,7 +2477,6 @@ name = ChinaTest_07
 2, leche.com
 2, lechebang.com
 2, lecheng18.com
-2, lechengdz.com
 2, lechengyunfu.com
 2, lechinepay.com
 2, lechuangzhe.com
@@ -3278,10 +3223,8 @@ name = ChinaTest_07
 2, lidianren.com
 2, lidihuo.com
 2, liding.me
-2, lidlsalevipeu.shop
 2, lidodo.com
 2, lidu6.com
-2, lidw.com
 2, lie.icu
 2, liebao.live
 2, liebaoh5.com
@@ -4447,7 +4390,6 @@ name = ChinaTest_07
 2, lolmax.com
 2, lolmf.com
 2, lolmz.com
-2, lolopool.com
 2, loltmall.com
 2, lolxy.com
 2, lolyculture.net
@@ -4728,6 +4670,7 @@ name = ChinaTest_07
 2, loxpo.com
 2, loyalvalleycapital.com
 2, loyar.com
+2, loyea.com
 2, loyi.net
 2, loystnetwork.com
 2, lp.fyi
@@ -5916,7 +5859,6 @@ name = ChinaTest_07
 2, m3guo.com
 2, m3kaiye.com
 2, m43ocq1uoj.com
-2, m448.com
 2, m5bn.com
 2, m5m6x0vh.com
 2, m5stack.com
@@ -7059,7 +7001,6 @@ name = ChinaTest_07
 2, meijipharma.net
 2, meijipower.com
 2, meijiu.com
-2, meijubo.com
 2, meijufans.com
 2, meijuniao.net
 2, meijuq.com
@@ -7527,7 +7468,6 @@ name = ChinaTest_07
 2, mhbras.com
 2, mhcharging.com
 2, mhealth100.com
-2, mhfotos.com
 2, mhhf.com
 2, mhhf.net
 2, mhi-ac.com
@@ -7873,7 +7813,6 @@ name = ChinaTest_07
 2, mimi518.com
 2, mimidi.com
 2, mimimeu.com
-2, mimiteng.com
 2, mimixiaoke.com
 2, mimiyc.net
 2, mimo51.com
@@ -8163,7 +8102,6 @@ name = ChinaTest_07
 2, mitvos.com
 2, mitvos.net
 2, miued.com
-2, miuiver.com
 2, miulab.com
 2, miuss.icu
 2, miutour.com
@@ -8609,7 +8547,6 @@ name = ChinaTest_07
 2, moguyun.com
 2, moh.cc
 2, mohangkeji.net
-2, mohjdvh.com
 2, mohou.com
 2, mohu.org
 2, mohuishou.com
@@ -9111,7 +9048,6 @@ name = ChinaTest_07
 2, mtkgvip.com
 2, mtkpacker.com
 2, mtksj.com
-2, mtlyp.work
 2, mtm.mo
 2, mtmos.com
 2, mtmss.com
@@ -9316,7 +9252,6 @@ name = ChinaTest_07
 2, mwrf.net
 2, mwrfabc.com
 2, mwstore.com
-2, mwtee.com
 2, mwtg.vip
 2, mww.so
 2, mwyzhcdn.com
@@ -9380,7 +9315,6 @@ name = ChinaTest_07
 2, my-imcloud.com
 2, my-le.com
 2, my-ndns.com
-2, my-summit.com
 2, my-tcloud.com
 2, my.st.com
 2, my0511.com
@@ -9784,7 +9718,6 @@ name = ChinaTest_07
 2, mzzhgcc.com
 2, mzzjw.com
 2, mzzyk.com
-2, mzzzn.work
 2, n-bros.net
 2, n.biz
 2, n0808.com
@@ -9802,7 +9735,6 @@ name = ChinaTest_07
 2, n63.com
 2, n69.com
 2, n78785.com
-2, n7maufn.sbs
 2, n802.com
 2, n8soft.com
 2, n9z.net
@@ -9825,7 +9757,6 @@ name = ChinaTest_07
 2, nagezan.net
 2, nahuayuan.com
 2, nahuiyi.com
-2, nahuo.com
 2, nahuo8.com
 2, nahuo9.com
 2, naibabiji.com
@@ -10003,9 +9934,78 @@ name = ChinaTest_07
 2, nanyuenews.com
 2, nanyuetong.com
 2, nanzhougroup.com
-2, naobaocun.com
 2, naobiao.com
 2, naoda.net
 2, naoffer.com
 2, naokor.com
 2, naokr.com
+2, naominet.live
+2, naono.cc
+2, naosiling.com
+2, naozhong.net
+2, naozoejnnwzjaz.work
+2, napengzn.com
+2, napiantian.com
+2, naqing-tech.com
+2, naradafoundation.org
+2, naradahotels.com
+2, naradapower.com
+2, naris-china.com
+2, narkii.com
+2, narochina.com
+2, naruto.red
+2, narwal.com
+2, narwaltech.com
+2, nas-ya.com
+2, nascrew.com
+2, nase.tech
+2, nasfreight.com
+2, nasge.com
+2, nasgetinfo.com
+2, nasimobi.com
+2, nasinet.com
+2, naslab.club
+2, nastcorp.com
+2, nasyeo.com
+2, nasyun.com
+2, nat123.com
+2, natachem.com
+2, natapp.cc
+2, natapp1.cc
+2, natapp4.cc
+2, natappfree.cc
+2, natbbs.com
+2, natergy.com
+2, natfrp.com
+2, nationalchip.com
+2, nationalee.com
+2, nationsky.com
+2, nationstech.com
+2, nativosink.com
+2, natnps.com
+2, naturali.io
+2, naturaltfc.com
+2, naturalvision.org
+2, nature-museum.net
+2, naturesvariety-china.com
+2, natywish.com
+2, nauac.com
+2, naupd.com
+2, nav-cn.com
+2, navchina.com
+2, navgnss.com
+2, navigastar.com
+2, navimentum.com
+2, navinfo.com
+2, naxcx.com
+2, naxide.com
+2, nayatec.com
+2, nayei.com
+2, nayuansu.com
+2, nazarstudios.com
+2, nazhidj.com
+2, nazhilong.com
+2, nazo.fun
+2, nb-bailing.com
+2, nb-jf.com
+2, nb-jiale.com

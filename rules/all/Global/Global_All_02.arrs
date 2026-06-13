@@ -5,8 +5,8 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 0
-# SOURCE-RULES: 34612
-# UPSTREAM-UPDATED: 2026-06-12 03:03:08
+# SOURCE-RULES: 34629
+# UPSTREAM-UPDATED: 2026-06-14 02:32:49
 
 name = Global_02
 2, frenchhistorysociety.ac.uk
@@ -4952,6 +4952,8 @@ name = Global_02
 2, livehdcams.com
 2, livejasmin.com
 2, livejasminbabes.net
+2, livejournal.com
+2, livejournal.net
 2, livemodels.co
 2, livenet.ac.uk
 2, liveperson.net
@@ -8103,6 +8105,7 @@ name = Global_02
 2, nsirc.ac.uk
 2, nso.ac.uk
 2, nspcr.ac.uk
+2, nspk.ru
 2, nss.ac.uk
 2, nsstatic.net
 2, nsu.ac.uk
@@ -8480,6 +8483,7 @@ name = Global_02
 2, okx-dns.com
 2, okx-dns1.com
 2, okx-dns2.com
+2, okx.ac
 2, okx.cab
 2, olabloga.pl
 2, oldbury.ac.uk
@@ -10005,7 +10009,3 @@ name = Global_02
 2, pplusstatic.com
 2, pplx.ai
 2, ppnnpp.com
-2, ppp91.cc
-2, pppds.com
-2, ppre.ac.uk
-2, practicalbusinessskills.com

@@ -5,19 +5,10 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 0
-# SOURCE-RULES: 112904
-# UPSTREAM-UPDATED: 2026-06-12 03:03:50
+# SOURCE-RULES: 112786
+# UPSTREAM-UPDATED: 2026-06-14 02:33:31
 
 name = ChinaTest_03
-2, bjpifu.com
-2, bjpinweixuan.com
-2, bjpmhyxh.com
-2, bjpowernode.com
-2, bjppa.com
-2, bjpryk.com
-2, bjqh.org
-2, bjqhgjj.com
-2, bjqichezl.com
 2, bjqingyang.com
 2, bjqlg.com
 2, bjqtbase.com
@@ -33,6 +24,7 @@ name = ChinaTest_03
 2, bjrc.com
 2, bjrcb.com
 2, bjrdhx.com
+2, bjrenze.com
 2, bjreview.com
 2, bjrjgj.com
 2, bjrjtdkj.com
@@ -952,7 +944,6 @@ name = ChinaTest_03
 2, brandsitejp.com
 2, brandvista.com
 2, brasilcn.com
-2, braveybelief.com
 2, bravognss.com
 2, brazzaleqingdao.com
 2, brcpower.com
@@ -1878,7 +1869,6 @@ name = ChinaTest_03
 2, cada.cc
 2, caddcc.com
 2, cadenzayueqi.com
-2, cadforex.com
 2, cadict.net
 2, cadmon.net
 2, cadreg.com
@@ -2317,7 +2307,6 @@ name = ChinaTest_03
 2, casbin.org
 2, casboc.com
 2, cascadepharm.com
-2, casctcp.com
 2, casdoor.com
 2, casdoor.org
 2, case91.com
@@ -3011,7 +3000,6 @@ name = ChinaTest_03
 2, cdn-build.net
 2, cdn-cba.com
 2, cdn-cdn.net
-2, cdn-gw-dv.net
 2, cdn-gw-dv.vip
 2, cdn-speed.com
 2, cdn-static.farfetch-contents.com
@@ -3185,7 +3173,6 @@ name = ChinaTest_03
 2, cduncname.com
 2, cdvcloud.com
 2, cdvisor.com
-2, cdwulian.com
 2, cdxdyy.com
 2, cdxrdz.com
 2, cdxsxbx.com
@@ -3411,7 +3398,6 @@ name = ChinaTest_03
 2, cersign.com
 2, cersp.com
 2, certicn.com
-2, certificatey.com
 2, ces-transaction.com
 2, cese2.com
 2, cesfn.com
@@ -3908,7 +3894,6 @@ name = ChinaTest_03
 2, chargerlab.com
 2, chargerlink.com
 2, chariotpharm.com
-2, charlinserver.online
 2, charlsdata.com
 2, charmdeer.com
 2, charmingglobe.com
@@ -5776,7 +5761,6 @@ name = ChinaTest_03
 2, chuangtoo.com
 2, chuangx.org
 2, chuangxinapi.com
-2, chuangxinbateng.com
 2, chuangxinoa.com
 2, chuangxuan.xyz
 2, chuangyebaba.com
@@ -6405,6 +6389,7 @@ name = ChinaTest_03
 2, clloz.com
 2, clmpg.com
 2, clngaa.com
+2, clockin.biz
 2, cloooud.com
 2, cloopen.com
 2, cloopen.net
@@ -8018,7 +8003,6 @@ name = ChinaTest_03
 2, cooltui.com
 2, cooltuku.com
 2, cooluc.com
-2, coolwarmsy.com
 2, coolweb.work
 2, coolwei.com
 2, coolxcloud.com
@@ -8517,9 +8501,7 @@ name = ChinaTest_03
 2, cqjsd.com
 2, cqjtedu.com
 2, cqjtsn.com
-2, cqjunan.com
 2, cqjx.net
-2, cqjy.com
 2, cqjyfcyy.com
 2, cqjyhuida.com
 2, cqjyn.com
@@ -9688,7 +9670,6 @@ name = ChinaTest_03
 2, cwiaj.com
 2, cwjedu.com
 2, cwjt.com
-2, cwlchina.com
 2, cwliupaotea.com
 2, cwmcs.com
 2, cwmzyyy.com
@@ -10009,3 +9990,22 @@ name = ChinaTest_03
 2, czmstt.com
 2, czmw.com
 2, czmypx.com
+2, cznengshuo.com
+2, cznewcom.com
+2, czolgame.com
+2, czongyi.com
+2, czopen.com
+2, czpbxc.com
+2, czpoly.com
+2, czpv.net
+2, czqingzhifeng.com
+2, czqqkj.com
+2, czrcw.com
+2, czrjh.com
+2, czrmyy.com
+2, czrsymt.com
+2, czsafjx.com
+2, czsbtjx.com
+2, czsfy.com
+2, czsldy.com
+2, czsmk.com

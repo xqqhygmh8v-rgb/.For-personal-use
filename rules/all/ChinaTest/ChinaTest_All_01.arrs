@@ -5,8 +5,8 @@
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
 # RULES: 10000
 # SKIPPED: 31
-# SOURCE-RULES: 112904
-# UPSTREAM-UPDATED: 2026-06-12 03:03:50
+# SOURCE-RULES: 112786
+# UPSTREAM-UPDATED: 2026-06-14 02:33:31
 # SKIPPED-TYPES: USER-AGENT=31
 
 name = ChinaTest_01
@@ -22,7 +22,6 @@ name = ChinaTest_01
 2, origin-a.akamaihd.net
 2, sms.imagetasks.com
 2, steamcommunity-a.akamaihd.net
-2, 265.com
 2, 2mdn-cn.net
 2, 2mdn.net
 2, activate.activation-v2.kaspersky.com
@@ -135,6 +134,7 @@ name = ChinaTest_01
 2, www-csb.dell.com
 2, www.destinationurl.com
 2, www.pxcc.com
+2, www.recaptcha-cn.net
 2, www.recaptcha.net
 2, www4-static.gog-statics.com
 2, xtratime.qcomgeo2.com
@@ -5631,7 +5631,6 @@ name = ChinaTest_01
 2, 13a.com
 2, 13c283b0710281.beer
 2, 13cr.com
-2, 13e7.com
 2, 13ejob.com
 2, 13freight.com
 2, 13jue.com
@@ -5839,7 +5838,6 @@ name = ChinaTest_01
 2, 168zcw.com
 2, 169.com
 2, 169163.com
-2, 16925500.xyz
 2, 169369.com
 2, 16949pcb.com
 2, 1696.com
@@ -7004,6 +7002,7 @@ name = ChinaTest_01
 2, 264006.com
 2, 264321.com
 2, 264400.com
+2, 265.com
 2, 26582.vip
 2, 26595.com
 2, 265g.com
@@ -8363,7 +8362,6 @@ name = ChinaTest_01
 2, 4006806555.com
 2, 4006906600.com
 2, 4007051668.com
-2, 4007108885.net
 2, 4007112366.com
 2, 4007123123.com
 2, 4007777958.com
@@ -8785,7 +8783,6 @@ name = ChinaTest_01
 2, 5011.net
 2, 501h.com
 2, 501wan.com
-2, 502258.com
 2, 50257e08d1015.beer
 2, 503118.com
 2, 50331.net
@@ -9015,7 +9012,6 @@ name = ChinaTest_01
 2, 51din.com
 2, 51dingxiao.com
 2, 51ditu.com
-2, 51diyring.com
 2, 51dmq.com
 2, 51dns.com
 2, 51docs.com
@@ -10010,3 +10006,7 @@ name = ChinaTest_01
 2, 569.com
 2, 5694.com
 2, 56a.com
+2, 56ad2ddadaebfb59.com
+2, 56ads.com
+2, 56beijing.org
+2, 56bid.com
